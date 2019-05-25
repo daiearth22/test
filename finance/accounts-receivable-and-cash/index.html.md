@@ -26,7 +26,7 @@ title: "Accounts Receivable and Cash"
 1. In Zuora, scroll down to transactions and click "Create Bill Run."
 1. It is important to find the subscription start date in Salesforce and enter it in the "Target Date for this bill run" field in Zuora. The invoice date should be today's date.
 1. Once these dates agree, click "Create Bill Run."
-1. On the following screen, select the bill run that was just created (the bill run files begin with BR- followed by a set of numbers/index.html.md).
+1. On the following screen, select the bill run that was just created (the bill run files begin with BR- followed by a set of numbers).
 1. Scroll down and click on the invoice that was just generated. The PDF file will be at the bottom of the page.
 1. Open the PDF file and review every field of the invoice for accuracy.
 1. Once the review is complete, close the invoice and click â€œPost Invoice.â€
@@ -86,7 +86,7 @@ Post a journal entry:
 1. Fill the "Debit Account" with "Comerica Checking - GitLab Inc."
 1. Leave "Name" blank.
 1. Leave "Class" blank.
-1. Fill the "Description" with "To record Stripe transfer (date of transfer/index.html.md)".
+1. Fill the "Description" with "To record Stripe transfer (date of transfer)".
 1. Click "Save".
 
 
@@ -115,7 +115,7 @@ In Netsuite:
 1. A refund request has been received by e-mail or refund opportunity in SFDC.
 1. Log in to Zuora.
 1. Search for the invoice that needs to be refunded.
-1. On the invoice screen, scroll down to "Transaction(s/index.html.md) associated to this Invoice" and click on the payment associated to the invoice to be refunded.
+1. On the invoice screen, scroll down to "Transaction(s) associated to this Invoice" and click on the payment associated to the invoice to be refunded.
 1. On the payment screen, click on more and click on "Refund this payment."
 1. Create the refund.
 1. An auto-generated e-mail will be sent to the customer that the refund has been processed.

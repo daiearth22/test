@@ -57,7 +57,7 @@ The GitLab Marketing team includes four functional groups: Marketing & Sales Dev
 
 <div class="alert alert-purple center"><h3 class="purple"><strong>We <i class="fas fa-heart orange font-awesome" aria-hidden="true"></i> GitLab</strong></h3></div>
 
-We think GitLab (.com, CE, and EE/index.html.md) is the fastest way for developers, designers, and IT practitioners to turn their ideas into production software. The GitLab Marketing team is here to do the following:
+We think GitLab (.com, CE, and EE) is the fastest way for developers, designers, and IT practitioners to turn their ideas into production software. The GitLab Marketing team is here to do the following:
 
 - Meet board approved company goals and metrics.
 - Support and celebrate the GitLab community.
@@ -82,7 +82,7 @@ The Marketing department's effort is organized in Integrated Campaigns. An Integ
 | Security | Build awareness and educate the market on GitLab's security capabilities | 2018-07-01 | 2019-03-31 |
 
 
-We track Integrated Campaign results in Salesforce and costs associated with Integrated Campaigns in Netsuite. In Salesforce, Integrated Campaigns are tracked as `parent campaigns` and campaign tactics are tracked as `campaigns`. A campaign tactic will have a `Type` and `Type Detail` to identify the category of effort for the purpose of identifying what types of marketing investment are most efficient in terms of the ratio between customer acquisition cost (CAC/index.html.md) and customer lifetime value (LTV/index.html.md).
+We track Integrated Campaign results in Salesforce and costs associated with Integrated Campaigns in Netsuite. In Salesforce, Integrated Campaigns are tracked as `parent campaigns` and campaign tactics are tracked as `campaigns`. A campaign tactic will have a `Type` and `Type Detail` to identify the category of effort for the purpose of identifying what types of marketing investment are most efficient in terms of the ratio between customer acquisition cost (CAC) and customer lifetime value (LTV).
 
 Different marketing teams handle different aspects of Integrated Campaigns. Which team are you looking for? Here's what each does.
 
@@ -97,11 +97,11 @@ Marketing & Sales Development is a confederation of marketing and sales professi
 #### Sales and Business Development
 {: .no_toc}
 
-Business Development Representatives (BDRs/index.html.md) focus on serving the needs of prospective customers' during the beginning of their buying process. When prospective customers have questions about GitLab, the BDRs assist them or connect them to a technical team member as needed. During the initial exploration if the prospective customer is interested in continuing their exploration of GitLab, BDRs will connect them to an Account Executive (AE/index.html.md) or Strategic Account Leader (SAL/index.html.md).  
+Business Development Representatives (BDRs) focus on serving the needs of prospective customers' during the beginning of their buying process. When prospective customers have questions about GitLab, the BDRs assist them or connect them to a technical team member as needed. During the initial exploration if the prospective customer is interested in continuing their exploration of GitLab, BDRs will connect them to an Account Executive (AE) or Strategic Account Leader (SAL).  
 
-Sales Development Representatives (SDRs/index.html.md) contact people who work at large organizations to uncover or create early stage sales opportunities for GitLab SALs. Account researchers arm the SDR team with insights about the accounts they are prospecting into including contact discovery, understanding enterprise-wide initiatives that GitLab could assist with, and ensuring accurate data quality of accounts and contact in salesforce.com.
+Sales Development Representatives (SDRs) contact people who work at large organizations to uncover or create early stage sales opportunities for GitLab SALs. Account researchers arm the SDR team with insights about the accounts they are prospecting into including contact discovery, understanding enterprise-wide initiatives that GitLab could assist with, and ensuring accurate data quality of accounts and contact in salesforce.com.
 
-[Position Description](/job-families/marketing/business-development-representative/index.html.md){:.btn .btn-purple-inv .extra-space}
+[Position Description](/job-families/marketing/business-development-representative/){:.btn .btn-purple-inv .extra-space}
 [Handbook][Sales Development]{:.btn .btn-purple .extra-space}
 
 #### Field Marketing
@@ -109,7 +109,7 @@ Sales Development Representatives (SDRs/index.html.md) contact people who work a
 
 Field marketers focus on understanding the specific needs of the geographic regions where GitLab operates. They manage marketing activities, such as events and sponsorships, tailored to the needs of the region the activity takes place in.
 
-[Position Description](/job-families/marketing/field-marketing-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/field-marketing-manager){:.btn .btn-purple-inv}
 [Handbook][Field Marketing]{:.btn .btn-purple}
 
 #### Marketing Operations
@@ -117,15 +117,15 @@ Field marketers focus on understanding the specific needs of the geographic regi
 
 Marketing operations focuses on enabling the GitLab marketing organization with marketing technology, process and insights. They are responsible for evaluating, deploying and administering marketing systems, documenting and improving administrative processes, and analyzing our marketing data to ensure marketers are held accountable to continuously improving their work. Marketing Operations owns the entire tech stack used by both Sales and Marketing.
 
-[Position Description](/job-families/marketing/marketing-operations-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/marketing-operations-manager/){:.btn .btn-purple-inv}
 [Handbook][Marketing Operations]{:.btn .btn-purple}
 
 #### Online Marketing
 {: .no_toc}
 
-Online marketing focuses on managing online advertising, improving the marketing site, website experiments, and search engine optimization (SEO/index.html.md). Online advertising is aimed at increasing the volume of relevant traffic to GitLab's marketing site, website experiments are focused on improving web traffic-to-form submission conversion, and SEO is aimed at ensuring our marketing site ranks for the search engine keywords our audiences care about.
+Online marketing focuses on managing online advertising, improving the marketing site, website experiments, and search engine optimization (SEO). Online advertising is aimed at increasing the volume of relevant traffic to GitLab's marketing site, website experiments are focused on improving web traffic-to-form submission conversion, and SEO is aimed at ensuring our marketing site ranks for the search engine keywords our audiences care about.
 
-[Position Description](/job-families/marketing/online-growth-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/online-growth-manager/){:.btn .btn-purple-inv}
 [Handbook][Online Marketing]{:.btn .btn-purple}
 
 ### Corporate Marketing
@@ -139,13 +139,13 @@ Corporate Marketing is responsible for the stewardship of the GitLab brand and t
 
 Content marketers focus on understanding our audience of developers, IT ops practitioners, and IT leadership. They create useful content for GitLab's audiences, and ensure that the content is delivered to the right audience, at the right time, and in the right way.
 
-[Position Description](/job-families/marketing/content-editor/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/content-editor/){:.btn .btn-purple-inv}
 [Handbook][Content Marketing]{:.btn .btn-purple}
 
 #### Director, Corporate Marketing
 {: .no_toc}
 
-The Director, Corporate Marketing is responsbile for the GitLab brand, creative, company messaging/positioning, the [Marketing website](/index.html.md), PR, customer reference program, and corporate events.
+The Director, Corporate Marketing is responsbile for the GitLab brand, creative, company messaging/positioning, the [Marketing website](/), PR, customer reference program, and corporate events.
 
 [Position Description](/job-families/marketing/director-corporate-marketing/index.html.md){:.btn .btn-purple-inv}
 
@@ -154,7 +154,7 @@ The Director, Corporate Marketing is responsbile for the GitLab brand, creative,
 
 Marketing programs focuses on execution of the GitLab marketing organization with marketing technology, process, and insights. They are responsible for executing, deploying, tracking emails and supporting both sales and marketing in outbound mass communications.
 
-[Position Description](/job-families/marketing/marketing-program-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/marketing-program-manager/){:.btn .btn-purple-inv}
 [Handbook][Marketing Programs]{:.btn .btn-purple}
 
 #### Corporate Events
@@ -162,20 +162,20 @@ Marketing programs focuses on execution of the GitLab marketing organization wit
 
 Corporate Events oversee strategy and execution for large ”national� events.
 
-[Position Description](/job-families/marketing/corporate-events-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/corporate-events-manager/){:.btn .btn-purple-inv}
 
 #### Design
 {: .no_toc}
 
-Design focuses on creating the visual brand for GitLab. Design supports product marketing, content marketing, lead generation, and almost every function in the marketing team to ensure consistent and clear visual brand. Design is responsible for the [GitLab website](/index.html.md), swag, event design, content design, and branding.
+Design focuses on creating the visual brand for GitLab. Design supports product marketing, content marketing, lead generation, and almost every function in the marketing team to ensure consistent and clear visual brand. Design is responsible for the [GitLab website](/), swag, event design, content design, and branding.
 
-[Position Description](/job-families/marketing/designer/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/designer/){:.btn .btn-purple-inv}
 [Handbook][Design]{:.btn .btn-purple}
 
 #### Marketing Web Developer/Designer
 {: .no_toc}
 
-[Position Description](/job-families/marketing/marketing-web-developer-designer/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/marketing-web-developer-designer/){:.btn .btn-purple-inv}
 
 ### Community Relations
 
@@ -203,14 +203,14 @@ The Director, Community Relations develops the strategy, builds and leads the or
 
 Developer Program Managers create and manage engagement programs for the various communities to gather feedback, engage in dialogue, educate and evangelize. They develop tools and content to support developers onboarding and adoption of GitLab. The team also sponsors and participates in events and meet-ups, host webinars and give talks. They also capture developer feedback and facilitate 2-way interaction for information and feedback exchange between the Community and GitLab.
 
-[Position Description](/job-families/engineering/developer-advocate/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/engineering/developer-advocate){:.btn .btn-purple-inv}
 
 #### Contributor Program Manager
 {: .no_toc}
 
 Contributor Program Managers engage with the GitLab Community by responding to all questions about GitLab asked online. They identify and respond to conversations about GitLab warranting response, they create, optimize and document processes for Community engagement and they continually work to make it easier for the Community to engage with GitLab.
 
-[Position Description coming soon](#/index.html.md){:.btn .btn-purple-inv}
+[Position Description coming soon](#){:.btn .btn-purple-inv}
 [Handbook][Community Advocacy]{:.btn .btn-purple}
 
 #### Student Program Manager
@@ -218,17 +218,17 @@ Contributor Program Managers engage with the GitLab Community by responding to a
 
 Student Program Managers develop outreach programs to engage educational institutions to encourage and facilitate the usage of GitLab. They work to ensure tomorrow’s developers have access to GitLab within their education environments. Student Program Managers also create and implement programs for the institutions to utilize, including providing resources for students, supporting student based meet-ups and developing scholarship programs.
 
-[Position Description coming soon](#/index.html.md){:.btn .btn-purple-inv}
+[Position Description coming soon](#){:.btn .btn-purple-inv}
 
 #### Merge Request Coach
 {: .no_toc}
 
-[Position Description](/job-families/merge-request-coach/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/merge-request-coach){:.btn .btn-purple-inv}
 
 #### Community Advocate
 {: .no_toc}
 
-[Position Description](/job-families/marketing/community-advocate/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/community-advocate){:.btn .btn-purple-inv}
 
 ### Product Marketing
 
@@ -242,21 +242,21 @@ Student Program Managers develop outreach programs to engage educational institu
 #### Product Marketing Manager
 {: .no_toc}
 
-[Position Description](/job-families/marketing/product-marketing-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/product-marketing-manager){:.btn .btn-purple-inv}
 
 #### Technical Product Marketing Manager
 {: .no_toc}
 
-Technical Prodcut Marketing is responsbile for technical content and sales tools (demos/index.html.md) development, technical product sales enablement, as well as technical competitive and market intelligence.
+Technical Prodcut Marketing is responsbile for technical content and sales tools (demos) development, technical product sales enablement, as well as technical competitive and market intelligence.
 
-[Position Description](/job-families/marketing/technical-product-marketing-manager/index.html.md){:.btn .btn-purple-inv}
+[Position Description](/job-families/marketing/technical-product-marketing-manager){:.btn .btn-purple-inv}
 
 #### Analyst Relations Manager
 {: .no_toc}
 
 Analyst Relations manages and cultivates relationships with analyst firms. They develop and execute analyst briefing strategies to highlight product, customer and business strategy, progress and success. They regularly hold inquiry sessions with target analysts to gather insights and feedback on strategy, tactics, market dynamics, SWOT, etc. They are also responsbile for defining and executing an analyst briefing strategy to ensure the relevant analysts are kept up to date on company strategy and progress, product strategy and launches and highlighting our customers and community.
 
-[Position Description coming soon](#/index.html.md){:.btn .btn-purple-inv}
+[Position Description coming soon](#){:.btn .btn-purple-inv}
 
 #### Partner Marketing Manager
 {: .no_toc}
@@ -264,14 +264,14 @@ Analyst Relations manages and cultivates relationships with analyst firms. They 
 Partner Marketing is responsbile for joint GTM strategy for partnerships. They create solution/product positioning and messaging, business value messaging, and oversee content creation/adaptation, sales and channel enablement and reseller program marketing.
 
 
-[Position Description coming soon](#/index.html.md){:.btn .btn-purple-inv}
+[Position Description coming soon](#){:.btn .btn-purple-inv}
 [Handbook][Partner Marketing]{:.btn .btn-purple}
 
 ## <i class="fas fa-suitcase fa-fw icon-color font-awesome" aria-hidden="true"></i> Marketing Production
 {: #marketing-products}
 
 <!-- The following HTML blocks are the Marketing Products boxes -->
-<!-- DON'T EDIT THIS PART BELOW UNLESS YOU KNOW WHAT YOU'RE DOING :/index.html.md) -->
+<!-- DON'T EDIT THIS PART BELOW UNLESS YOU KNOW WHAT YOU'RE DOING :) -->
 <div class="row mkt-row">
   <a href="/blog/">
     <div class="col-sm-6 col-md-3 mkt-box">
@@ -381,7 +381,7 @@ Partner Marketing is responsbile for joint GTM strategy for partnerships. They c
 
 These are just the required meetings for team members and managers. Of course, meetings are encouraged when it expedites a project or problem solving among members, so the team and company. Don't be afraid to say "Hey, can we hangout?" if you need help with something.
 
-### Weekly 1:1 (New hire: First month - managers with all direct reports/index.html.md)
+### Weekly 1:1 (New hire: First month - managers with all direct reports)
 {: .no_toc}
 
 **Meeting goal: For manager to help new team member onboard quickly.**
@@ -401,10 +401,10 @@ The first meeting should run as follows:
 The agenda of the following 1:1s should be the same as the recurring Bi-weekly 1:1s with time set aside to answer any questions about onboarding.
 
 From the second month on, all managers should have twice monthly
-[(bi-weekly/index.html.md) meetings](#bi-weekly-11-all-managers-with-all-direct-reports/index.html.md) with all
+[(bi-weekly) meetings](#bi-weekly-11-all-managers-with-all-direct-reports) with all
 of his or her direct reports.
 
-### Weekly 1:1 (All Directors with CMO/index.html.md)
+### Weekly 1:1 (All Directors with CMO)
 {: .no_toc}
 
 **Meeting goal: For CMO to provide direction, help prioritize and receive feedback from all Directors.**
@@ -423,14 +423,14 @@ The meeting should run as follows:
 - All action items should be handled before next 1:1 unless otherwise noted with due date.
 - Discuss upcoming OKRs if close to end of a quarter.
 
-### Bi-weekly 1:1 (Managers with all direct reports/index.html.md)
+### Bi-weekly 1:1 (Managers with all direct reports)
 {: .no_toc}
 
 **Meeting goal: For manager to remove roadblocks and help prioritize so team member can be effective.**
 
 **Run time: 30 minutes**
 
-All managers should have twice monthly (bi-weekly/index.html.md) meetings with all of his or her direct reports.
+All managers should have twice monthly (bi-weekly) meetings with all of his or her direct reports.
 
 The meeting should run as follows:
 
@@ -441,7 +441,7 @@ The meeting should run as follows:
 - Action items should be highlighted with owner assigned in the doc.
 - All action items should be handled before next 1:1 unless otherwise noted.
 
-### Bi-weekly Marketing Team Call (All Marketing team members/index.html.md)
+### Bi-weekly Marketing Team Call (All Marketing team members)
 {: .no_toc}
 
 **Meeting goal: Provide visibility and alignment across the Marketing team and provide forum for cross-functional discussion and Q&A.**
@@ -452,7 +452,7 @@ The Marketing team meets bi-weekly to review announcements, strategy development
 
 The meeting should run as follows:
 
-- Prior to the meeting, each functional area lead updates their content in the [Marketing Team Update](https://docs.google.com/document/d/1MWX74j3GLr3drTBF_E9MkQ0sUiIXkzv8T7oZ3mqnoyg/edit/index.html.md) doc.
+- Prior to the meeting, each functional area lead updates their content in the [Marketing Team Update](https://docs.google.com/document/d/1MWX74j3GLr3drTBF_E9MkQ0sUiIXkzv8T7oZ3mqnoyg/edit) doc.
 - The CMO leads off the meeting with announcements, and strategy, company and org updates.
 - Each functional lead reviews prior accomplishments and upcoming plans. The lead will also share relevant team updates and share cross-functional asks
 - The remaining time is used for open discussion and Q&A.
@@ -460,14 +460,14 @@ The meeting should run as follows:
 - All team members are also encouraged to bring forward discussion topics that they want to share with the team or to have covered during the call.
 - Action items are recorded and owners assigned. Owners are responsible to report back with the outcome of the action item.
 
-### Quarterly 1:1 (All members of Marketing Team with CMO/index.html.md)
+### Quarterly 1:1 (All members of Marketing Team with CMO)
 {: .no_toc}
 
 **Meeting goal: For CMO to help with any questions and career path discussion.**
 
 **Run time: 30 minutes**
 
-All members of the marketing team who are not direct reports should meet with their executive management (CMO/index.html.md) once every quarter. If questions or concerns arise, please don't hesitate to reach out directly for an impromptu discussion via chat, email or phone call.
+All members of the marketing team who are not direct reports should meet with their executive management (CMO) once every quarter. If questions or concerns arise, please don't hesitate to reach out directly for an impromptu discussion via chat, email or phone call.
 
 The meeting should run as follows:
 
@@ -476,7 +476,7 @@ The meeting should run as follows:
 - Walk through quarterly OKRs to make sure they are relevant and see if help is needed.
 - Discuss upcoming OKRs if close to end of a quarter.
 
-### Quarterly Marketing Planning Meeting (Marketing Leadership Team - CMO + Directors/index.html.md)
+### Quarterly Marketing Planning Meeting (Marketing Leadership Team - CMO + Directors)
 {: .no_toc}
 
 **Meeting goal: Planning for the upcoming quarter**
@@ -493,7 +493,7 @@ The meeting should run as follows:
 - Team agrees on what key takeaways are from the last quarter.
 - Team agrees on what Marketing OKRs should be for the upcoming quarter.
 
-## <i class="far fa-thumbs-up fa-fw icon-color font-awesome" aria-hidden="true"></i> Marketing team SLAs (Service Level Agreements/index.html.md)
+## <i class="far fa-thumbs-up fa-fw icon-color font-awesome" aria-hidden="true"></i> Marketing team SLAs (Service Level Agreements)
 {: #sla}
 
 When working remotely in a fast-paced organization, it is important for a team to agree on a few basic service level agreements on how we would like to work together. With any of these, things can come up that make it not possible to meet the SLAs, but we all agree to use best effort when possible.
@@ -501,8 +501,8 @@ When working remotely in a fast-paced organization, it is important for a team t
 - Respond to your emails by end of next business day.
 - Respond when you are cc'd with an action item on issues by end of next business day.
 - Be on time to meetings. We start at on time.
-- Acknowledge receipt of emails (community@, FYIs/index.html.md) by BCC'ing the list.
-- Try not to email co-workers on weekends. Try out [Boomerang](http://www.boomeranggmail.com/index.html.md) and set all your emails to send Monday morning at 6 AM. People will think you're up and working early! Time off is important. We all have stressful weeks so please unplug on the weekends where possible.
+- Acknowledge receipt of emails (community@, FYIs) by BCC'ing the list.
+- Try not to email co-workers on weekends. Try out [Boomerang](http://www.boomeranggmail.com/) and set all your emails to send Monday morning at 6 AM. People will think you're up and working early! Time off is important. We all have stressful weeks so please unplug on the weekends where possible.
 - Do not ping someone in a public channel on chat on the weekends. This is rude.
 
 ## <i class="far fa-file-code fa-fw icon-color font-awesome" aria-hidden="true"></i> Marketing Handbook Updates
@@ -513,7 +513,7 @@ Anything that is a process in marketing should be documented in the Marketing Ha
 - Format of all pages should be as follows:
     - Welcome to the Handbook.
     - Functional group overview if handbook for entire functional group or organization.
-    - "On this page" index of all top level headers on the current page ([create a ToC]/index.html.md).
+    - "On this page" index of all top level headers on the current page ([create a ToC]).
     - Links to other handbooks included on this page.
 - Rather than create many nested pages, include everything on one page of your role's handbook with an index at the top.
 - Each role should have a handbook page.
@@ -523,13 +523,13 @@ Anything that is a process in marketing should be documented in the Marketing Ha
 ## <i class="fas fa-rocket fa-fw icon-color font-awesome" aria-hidden="true"></i> How to contact marketing
 {: #contact-marketing}
 
-- [**GitLab Marketing public issue tracker**](https://gitlab.com/gitlab-com/marketing/general/issues/index.html.md); please use confidential issues for topics that should only be visible to team members at GitLab
-- You can also send an email to the Marketing team (see the "Email, Slack, and GitLab Groups and Aliases" google doc for the alias/index.html.md).
+- [**GitLab Marketing public issue tracker**](https://gitlab.com/gitlab-com/marketing/general/issues); please use confidential issues for topics that should only be visible to team members at GitLab
+- You can also send an email to the Marketing team (see the "Email, Slack, and GitLab Groups and Aliases" google doc for the alias).
 - [**Chat channel**](https://gitlab.slack.com/archives/marketing/index.html.md); please use the `#marketing` chat channel for questions that don't seem appropriate to use the issue tracker or the internal email address for.
 
 ### Requests from other teams
 
-#### Social ([@GitLab](https://twitter.com/gitlab/index.html.md) only, [@GitLabstatus](https://twitter.com/gitlabstatus/index.html.md) is managed by [Infrastructure](https://github.com/daijapan/test/tree/master/engineering/infrastructure/index.html.md)/index.html.md)
+#### Social ([@GitLab](https://twitter.com/gitlab/index.html.md) only, [@GitLabstatus](https://twitter.com/gitlabstatus) is managed by [Infrastructure](https://github.com/daijapan/test/tree/master/engineering/infrastructure/index.html.md))
 
 Everyone posts their own social updates, to the extent possible. If you want to request that something in one of these categories be posted, reach out to the point person below. They reserve the right to say no to your request, and copy in all of these categories may be adjusted by a marketing team member to ensure consistency in our brand voice.
 
@@ -550,7 +550,7 @@ Everyone posts their own social updates, to the extent possible. If you want to 
 - CEO statements/updates: CMO
 - Culture posts: we have de-prioritized these and are not actively publishing them for now. If you have an idea for a post, please post in `#content` slack channel.
    - Plan on some delay when you pitch, so think about whether your post will still be relevant in one month or more.
-   - If you want a blog post to be published, you should be prepared to write it and format it independently before expecting a review. An easy way to do this is to copy the latest blog post file and edit it, filling in all the fields with your information and post text. Be sure to add a public domain/creative commons cover image, and [attribute properly](https://github.com/daijapan/test/tree/master/marketing/blog/#cover-image/index.html.md) at the bottom of the post.
+   - If you want a blog post to be published, you should be prepared to write it and format it independently before expecting a review. An easy way to do this is to copy the latest blog post file and edit it, filling in all the fields with your information and post text. Be sure to add a public domain/creative commons cover image, and [attribute properly](https://github.com/daijapan/test/tree/master/marketing/blog/#cover-image) at the bottom of the post.
 
 #### Sponsorship
 
@@ -685,7 +685,7 @@ We use our chat internally as a communication tool. The Marketing channels are a
 .md-page h2 i.icon-color {
   color: rgb(107,79,187/index.html.md)
 }
-.md-page h2:nth-of-type(even/index.html.md) i.icon-color{
+.md-page h2:nth-of-type(even) i.icon-color{
   color:rgb(252,109,38/index.html.md);
 }
 .font-awesome {
@@ -743,7 +743,7 @@ We use our chat internally as a communication tool. The Marketing channels are a
 }
 .mkt-box:hover {
   /*border-radius: 5px;*/
-  box-shadow:0 1px 5px rgba(0,0,0,0.3/index.html.md), 0 0 2px rgba(0,0,0,0.1/index.html.md) inset;
+  box-shadow:0 1px 5px rgba(0,0,0,0.3), 0 0 2px rgba(0,0,0,0.1) inset;
 }
 .mkt-row {
   padding-top: 20px;
@@ -773,7 +773,7 @@ We use our chat internally as a communication tool. The Marketing channels are a
 .alert-purple {
   color: rgb(107,79,187/index.html.md);
   background-color: #fff;
-  border-color: rgba(107,79,187,.5/index.html.md);
+  border-color: rgba(107,79,187,.5);
 }
 ul.toc-list-icons {
   list-style-type: none;
@@ -794,13 +794,13 @@ ul.toc-list-icons li ul li i {
   padding-right: 15px;
   color: rgb(107,79,187/index.html.md);
 }
-ul.toc-list-icons li:nth-of-type(even/index.html.md) i {
+ul.toc-list-icons li:nth-of-type(even) i {
   color:rgb(252,109,38/index.html.md);
 }
 ul.toc-list-icons li ul li i.slack {
   color: rgb(224,23,101/index.html.md);
 }
 ul.toc-list-icons li ul li i.email {
-  color: rgb(192,0,0/index.html.md);
+  color: rgb(192,0,0);
 }
 </style>

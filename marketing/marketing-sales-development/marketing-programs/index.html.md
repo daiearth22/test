@@ -27,27 +27,27 @@ Marketing Programs focuses on executing, measuring and scaling GitLab's marketin
     <td>List Upload from Field Events</td>
   </tr>
    <tr>
-    <td>Ad-Hoc Emails (For Example - security alert emails, package/pricing changes/index.html.md)</td>
-    <td>Drip email campaigns (email nurturing/index.html.md)</td>
+    <td>Ad-Hoc Emails (For Example - security alert emails, package/pricing changes)</td>
+    <td>Drip email campaigns (email nurturing)</td>
     <td></td>
   </tr>
    <tr>
     <td>Bi-weekly newsletter review</td>
-    <td>Gating Assets (not including on-demand webcasts/index.html.md)</td>
+    <td>Gating Assets (not including on-demand webcasts)</td>
     <td></td>
   </tr>
 </table>
 
 Note 
-- Each manager will also own process revamp (including issue template updates and email template design refresh/index.html.md) that falls within their area of resposibility.
+- Each manager will also own process revamp (including issue template updates and email template design refresh) that falls within their area of resposibility.
 
 Order of assignment for execution tasks: 
 - Primary responsible MPM  
-- Secondary MPM  (if primary MPM is OOO or not available/index.html.md)
-- Marketing OPS (if both MPMs are OOO or not available/index.html.md)
+- Secondary MPM  (if primary MPM is OOO or not available)
+- Marketing OPS (if both MPMs are OOO or not available)
 
 ### Requesting an Email  
 
-Process to request an email can be found in the [Business OPS](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/business-ops/#requesting-an-email/index.html.md) section of the handbook.   
+Process to request an email can be found in the [Business OPS](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/business-ops/#requesting-an-email) section of the handbook.   
 
-Primary party responsible for various email types can be determined using the [table above](#responsibilities/index.html.md).   
+Primary party responsible for various email types can be determined using the [table above](#responsibilities).   

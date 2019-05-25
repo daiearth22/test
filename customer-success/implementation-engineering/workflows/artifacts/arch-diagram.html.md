@@ -15,10 +15,10 @@ The following are reference architecture diagrams for various deployment methods
 ## Cloud Providers
 
 ### AWS
-See [High Availability on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/index.html.md)
+See [High Availability on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/)
 
 ### GCP
-See [GKE on GCP](https://www.youtube.com/watch?v=HLNNFS8b_aw/index.html.md)
+See [GKE on GCP](https://www.youtube.com/watch?v=HLNNFS8b_aw)
 
 ## On-prem
-See [GitLab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html/index.html.md)
+See [GitLab Architecture Overview](https://docs.gitlab.com/ee/development/architecture.html)

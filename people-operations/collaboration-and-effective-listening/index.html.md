@@ -23,7 +23,7 @@ We did a training on these subjects which you can find here:
 
 ## Collaboration
 
-![collaboration](/images/training/collaboration_image.png/index.html.md)
+![collaboration](/images/training/collaboration_image.png)
 
 
 
@@ -73,9 +73,9 @@ Think about a time that you tried to share information on how to complete a task
   <iframe src="https://www.youtube.com/embed/G6FDts-erVw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-It is estimated that people (listener/index.html.md) will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader/index.html.md).
+It is estimated that people (listener) will filter out or change the intended meaning of what is heard in 70% of all communications. [Source](https://1personalcareercoach.com/art-listening-good-leader).
 
-## Effective Listening and Communication (what not to do!/index.html.md)
+## Effective Listening and Communication (what not to do!)
 
 <figure class="video_container">
   <iframe src="https://www.youtube.com/embed/sr1uS8KZbto" frameborder="0" allowfullscreen="true"> </iframe>
@@ -124,7 +124,7 @@ There is a delicate balance between being confident enough to be assertive of pe
 
 ## THINK Before You Speak
 
-![think](/images/training/think_image.png/index.html.md)
+![think](/images/training/think_image.png)
 
 
 

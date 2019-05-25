@@ -9,7 +9,7 @@ title: "Dev Backend Department"
 - TOC
 {:toc}
 
-[Tommy Morgan](https://gitlab.com/tommy.morgan/index.html.md) is the Director for Dev Backend.
+[Tommy Morgan](https://gitlab.com/tommy.morgan) is the Director for Dev Backend.
 He has a [README](https://github.com/daijapan/test/tree/master/engineering/dev-backend/director/index.html.md).
 
 ## Teams

@@ -14,11 +14,11 @@ category: Zendesk
 
 ## Setting Ticket Priority
 
-Manually setting a ticket's priority in Zendesk will change the overall ticket [SLA](https://github.com/daijapan/test/tree/master/support/support-engineering/prioritizing-tickets.html#sla/index.html.md), for both the first and next replies. This allows support to prioritize the active ticket queue more effectively .
+Manually setting a ticket's priority in Zendesk will change the overall ticket [SLA](https://github.com/daijapan/test/tree/master/support/support-engineering/prioritizing-tickets.html#sla), for both the first and next replies. This allows support to prioritize the active ticket queue more effectively .
 
-### Effect of Prioritization on SLA (non-premium customers/index.html.md)
+### Effect of Prioritization on SLA (non-premium customers)
 
-| Priority | First/Next Reply - SLA (business hours/index.html.md) |
+| Priority | First/Next Reply - SLA (business hours) |
 |----------|-----------------------------------------|
 | Low      |  16 hours                               |
 | Normal   |  12 hours                               |

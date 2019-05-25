@@ -15,11 +15,11 @@ title: "Sales Process > Account Management"
 
 ## What is an order?
 
-1. A Purchase Order (PO/index.html.md) issued by the company
+1. A Purchase Order (PO) issued by the company
 
-1. A signed quote (the quote that we send/index.html.md)
+1. A signed quote (the quote that we send)
 
-1. An e-mail agreement (â€œwe accept the quote/subscription/etcâ€/index.html.md) or any other written statement
+1. An e-mail agreement (â€œwe accept the quote/subscription/etcâ€) or any other written statement
 
 ## Development work management
 
@@ -27,13 +27,13 @@ Do NOT invoice before feature/work is completed.
 
 * Feature is requested by customer
 
-* Sales creates issue in issue tracker that links to the email (tags: company name, feature, estimate/index.html.md) and, if needed, mentions in agenda. Issue is assigned to sales milestone
+* Sales creates issue in issue tracker that links to the email (tags: company name, feature, estimate) and, if needed, mentions in agenda. Issue is assigned to sales milestone
 
 * Dev makes estimate/gives feedback
 
-1. Estimate: between x and y hours (if it takes much time to do an estimate and we doubt if the customer will order/index.html.md)
+1. Estimate: between x and y hours (if it takes much time to do an estimate and we doubt if the customer will order)
 
-1. Quote: x number of hours (in all other cases/index.html.md)
+1. Quote: x number of hours (in all other cases)
 
 * Sales communicates estimate to customer
 
@@ -57,11 +57,11 @@ Do NOT invoice before feature/work is completed.
 
 * Sales adds the real number of hours spent to the sales sheet
 
-* Sales invoices customer ([credit card](sourcehttps://github.com/daijapan/test/tree/master/sales-process/accounting/index.html.md) or bank/index.html.md) for the quoted number of hours
+* Sales invoices customer ([credit card](sourcehttps://github.com/daijapan/test/tree/master/sales-process/accounting/index.html.md) or bank) for the quoted number of hours
 
 * Deal is marked won
 
-* Implicit handover between sales and finance is sending the invoice (Sytse/index.html.md)
+* Implicit handover between sales and finance is sending the invoice (Sytse)
 
 ## Consultancy work management
 
@@ -69,7 +69,7 @@ Do NOT invoice before feature/work is completed.
 
 1. Sales sends email to support@ with details and time estimate
 
-1. Support will OTB (OK to book/index.html.md) or ask for more information
+1. Support will OTB (OK to book) or ask for more information
 
 1. If more information is needed sales will ask it and add to the Zendesk ticket
 
@@ -102,9 +102,9 @@ puts the sales team in the cc to avoid creating duplicate tickets for the Suppor
 
 ## Creating an Issue for feature requests
 
-1. Create an issue on the [public issue tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues/index.html.md) and mention someone (Dimitriy, Sytse, Job/index.html.md).
+1. Create an issue on the [public issue tracker](https://gitlab.com/gitlab-org/gitlab-ce/issues) and mention someone (Dimitriy, Sytse, Job).
 1. Do not mention customer name but confirm if large, medium, or small, and include URL to Saleforce account.
 
 ## Federal agency templates and certificates
 
-1. [GitLab does has a VPAT for 508 compliance](https://drive.google.com/open?id=0B01UYC-Rx46pX284T0ZyNVNXYmk1QVdDTnRUeEVCSFdHM0xZ/index.html.md) (INTERNAL ONLY/index.html.md)
+1. [GitLab does has a VPAT for 508 compliance](https://drive.google.com/open?id=0B01UYC-Rx46pX284T0ZyNVNXYmk1QVdDTnRUeEVCSFdHM0xZ) (INTERNAL ONLY)

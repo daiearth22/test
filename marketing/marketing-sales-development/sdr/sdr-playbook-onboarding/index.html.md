@@ -48,14 +48,14 @@ You should understand these concepts by the end of week one:
 
 **Tests:**
  * [] [Grovo Test 1](https://app.grovo.com/training?aid=73591/index.html.md)
- * [] Create a Buyer Persona by following this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view/index.html.md)
- * [] Create a Value Proposition using this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view/index.html.md) 
+ * [] Create a Buyer Persona by following this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view)
+ * [] Create a Value Proposition using this [framework](https://drive.google.com/file/d/0Bw0jk96h5OMdQ1VUQnA4THFFVmM/view) 
 
-[Understanding the buyer tools](https://docs.google.com/presentation/d/14aeeuqQyKuiqbSSspiuDnKHL1oC-_FIrj7AosY3Bt2I/edit#slide=id.p/index.html.md)
+[Understanding the buyer tools](https://docs.google.com/presentation/d/14aeeuqQyKuiqbSSspiuDnKHL1oC-_FIrj7AosY3Bt2I/edit#slide=id.p)
 
 ## Day 2
 
-#### [Framework](https://docs.google.com/presentation/d/1WJUQofnPa9rPvcyto2QOl3esdiP8Akhi0oidk7fIHsE/edit#slide=id.p/index.html.md)
+#### [Framework](https://docs.google.com/presentation/d/1WJUQofnPa9rPvcyto2QOl3esdiP8Akhi0oidk7fIHsE/edit#slide=id.p)
 
 You should be able to understand these concepts by the end of week 2
  * Framework
@@ -64,10 +64,10 @@ You should be able to understand these concepts by the end of week 2
 
 **Tests:**
  * [] [Grovo Test 2](https://app.grovo.com/training?aid=73591/index.html.md) 
- * [] Create two research documents by following this [framework](https://docs.google.com/document/d/1Li1w7FPjLiyX3g7IyoRjdj_ic4Y-t6DOECeiYonjTLs/edit/index.html.md)
- * [] Outside of the playbook, but also involved in your research is understanding what makes us different in the market. Create a differentiator document on what makes GitLab different from our competitors following this [framework](https://docs.google.com/document/d/19zAPULMyqvlVOZ5qnJ8eUKSc951KITcS6Iwc9KM7PaY/edit/index.html.md)
+ * [] Create two research documents by following this [framework](https://docs.google.com/document/d/1Li1w7FPjLiyX3g7IyoRjdj_ic4Y-t6DOECeiYonjTLs/edit)
+ * [] Outside of the playbook, but also involved in your research is understanding what makes us different in the market. Create a differentiator document on what makes GitLab different from our competitors following this [framework](https://docs.google.com/document/d/19zAPULMyqvlVOZ5qnJ8eUKSc951KITcS6Iwc9KM7PaY/edit)
 
-[Framework Tools](https://docs.google.com/presentation/d/1C9JDfHNPfab-tUO0B3HPGt7IGmfE3pEL_Qibfa1bWkg/edit#slide=id.p/index.html.md)
+[Framework Tools](https://docs.google.com/presentation/d/1C9JDfHNPfab-tUO0B3HPGt7IGmfE3pEL_Qibfa1bWkg/edit#slide=id.p)
 
 ## Day 3
 
@@ -81,7 +81,7 @@ You should be able to understand these concepts by the end of week 3
 **Tests:**
  * [] [Grovo Test 3](https://app.grovo.com/training?aid=73591/index.html.md)
  * [] Create an initial outreach email for a specific persona following this [framework](https://docs.google.com/presentation/d/1nDepN4HlL6rPMRHAkH4a5-aOWEKIY6m67iJXN1T_Mlo/edit#slide=id.g2292cd8ce2_0_91/index.html.md)
- * [] Create a voicemail using this [framework](https://docs.google.com/presentation/d/1ZUrgxlTx1lJ5W7WkSHl5PPO5mT-6CuHubTUM845JrFY/edit#slide=id.g229314aa4e_0_0/index.html.md)
+ * [] Create a voicemail using this [framework](https://docs.google.com/presentation/d/1ZUrgxlTx1lJ5W7WkSHl5PPO5mT-6CuHubTUM845JrFY/edit#slide=id.g229314aa4e_0_0)
  * [] With your manager, articulate how you would handoff a prospect to an AE (Manager will check this one off/index.html.md)
  
 [Outreach Tools](https://docs.google.com/presentation/d/1-PdiYcdPQUqODmFtWjbz61OMhlIBdDXAQ02k_4fh0jI/edit#slide=id.g1e0ad68d87_0_1093/index.html.md)

@@ -11,21 +11,21 @@ title: "Infrastructure"
 
 ## Common Links
 
-- [Public Infrastructure Issue Tracker](https://gitlab.com/gitlab-com/infrastructure/issues/index.html.md) 
-- [Public Production Issue Tracker](https://gitlab.com/gitlab-com/production/issues/index.html.md)
-- [Public Gitlab.com Incidents](https://gitlab.com/gitlab-com/production/issues?label_name%5B%5D=incident/index.html.md) that track [GitLab.com incidents](handbook/engineering/infrastructure/incident-management/index.html.md)
-- [Public Gitlab.com Changes](https://gitlab.com/gitlab-com/production/issues?label_name%5B%5D=change/index.html.md) that track [GitLab.com change management](handbook/engineering/infrastructure/change-management/index.html.md)
+- [Public Infrastructure Issue Tracker](https://gitlab.com/gitlab-com/infrastructure/issues/) 
+- [Public Production Issue Tracker](https://gitlab.com/gitlab-com/production/issues/)
+- [Public Gitlab.com Incidents](https://gitlab.com/gitlab-com/production/issues?label_name%5B%5D=incident) that track [GitLab.com incidents](handbook/engineering/infrastructure/incident-management/index.html.md)
+- [Public Gitlab.com Changes](https://gitlab.com/gitlab-com/production/issues?label_name%5B%5D=change) that track [GitLab.com change management](handbook/engineering/infrastructure/change-management/index.html.md)
 
-- Refer to [on-call labeled issues](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=oncall/index.html.md) to see issues that the oncall is working on
-- Refer to the [production team milestones](https://gitlab.com/gitlab-com/infrastructure/milestones/index.html.md) to see the scheduled work being done by the production team
+- Refer to [on-call labeled issues](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=oncall) to see issues that the oncall is working on
+- Refer to the [production team milestones](https://gitlab.com/gitlab-com/infrastructure/milestones) to see the scheduled work being done by the production team
 - Slack channels
-  - [#alerts](https://gitlab.slack.com/archives/alerts/index.html.md)
+  - [#alerts](https://gitlab.slack.com/archives/alerts)
   - [#production](https://gitlab.slack.com/archives/production/index.html.md)
-  - [#sre-lounge](https://gitlab.slack.com/archives/sre-lounge/index.html.md)
+  - [#sre-lounge](https://gitlab.slack.com/archives/sre-lounge)
   - [#database](https://gitlab.slack.com/archives/database/index.html.md)
-- Refer to the [runbooks](https://gitlab.com/gitlab-com/runbooks/index.html.md) and contribute back to them
-- [On-call Handover Document](https://docs.google.com/document/d/1IrTi06fUMgxqDCDRD4-e7SJNPvxhFML22jf-3pdz_TI/index.html.md)
-- [On-call Reports](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=oncall%20report/index.html.md)
+- Refer to the [runbooks](https://gitlab.com/gitlab-com/runbooks) and contribute back to them
+- [On-call Handover Document](https://docs.google.com/document/d/1IrTi06fUMgxqDCDRD4-e7SJNPvxhFML22jf-3pdz_TI)
+- [On-call Reports](https://gitlab.com/gitlab-com/infrastructure/issues?scope=all&utf8=%E2%9C%93&state=closed&label_name[]=oncall%20report)
 
 ## Other Pages
 {:.no_toc}
@@ -37,8 +37,8 @@ title: "Infrastructure"
 - [Performance of GitLab.com](https://github.com/daijapan/test/tree/master/engineering/performance/index.html.md)
 - [Database Reliability](https://github.com/daijapan/test/tree/master/engineering/infrastructure/database/index.html.md)
 - [Production team handbook](https://github.com/daijapan/test/tree/master/engineering/infrastructure/production/index.html.md)
-- [Production Readiness Guide](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md/index.html.md)
-- [GitLab.com and GitLab Hosted data breach notification policy](/security/#data-breach-notification-policy/index.html.md)
+- [Production Readiness Guide](https://gitlab.com/gitlab-com/infrastructure/blob/master/.gitlab/issue_templates/production_readiness.md)
+- [GitLab.com and GitLab Hosted data breach notification policy](/security/#data-breach-notification-policy)
 - [On-call Handover](https://github.com/daijapan/test/tree/master/engineering/infrastructure/on-call-handover/index.html.md)
 
 ## Vision
@@ -46,7 +46,7 @@ title: "Infrastructure"
 **GitLab.com is the Largest Production GitLab Installation on the Planet.**
 
 The Infrastructure Department is the primary responsible party for the **availability**, **reliability**,
-**performance**, and **scalability** of all user-facing services (most notably **GitLab.com**/index.html.md). Other departments
+**performance**, and **scalability** of all user-facing services (most notably **GitLab.com**). Other departments
 and teams contribute greatly to these attributes of our service as well. In these cases it is the responsibility
 of the Infrastructure Department to close the feedback loop with monitoring and metrics to drive accountability.
 
@@ -70,7 +70,7 @@ in making GitLab.com ready for mission-critical workloads.
 An operational environment is a complex and interconnected mesh of components working in unison to deliver a set of
 services. Rather than organize the team along siloed functional groups, our team is aligned with the environment's
 **lifecycle**, taking into account the two variables that drive change into the environment: time and space. Events
-and actions take place in the environment in a time scale (between essentially _now_ and _soon_/index.html.md) and their effect on
+and actions take place in the environment in a time scale (between essentially _now_ and _soon_) and their effect on
 people resources is higher the closer said resources are to the environment.
 
 ### Structure
@@ -80,12 +80,12 @@ Our long-term objective is to become a world-class SRE organization. In order to
 along the time and space variables, and each group contains the appropriate functional resources necessary to manage
 the environment, which include systems and database specialties.
 
-The [first iteration](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/values/#iteration/index.html.md) in this model comprises two groups:
+The [first iteration](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/values/#iteration) in this model comprises two groups:
 
 * **Site Availability**, which operates on the _here_ and _now_ and is focused on uptime as its driving force.
 * **Site Reliability**, which operates on the _soon_ time horizon and is focused on efficiency, and of course, reliability.
 
-![GitLabInfraOrgStructureV1.png](img/GitLabInfraOrgStructureV2.png/index.html.md)
+![GitLabInfraOrgStructureV1.png](img/GitLabInfraOrgStructureV2.png)
 
 #### Rotation
 
@@ -100,7 +100,7 @@ adept at maintaining high levels of uptime across the board. **Site Availability
 **Site Reliability**, at which point we will have several vertical **Site Reliability** teams that follow the sun.
 GitLab.com is a global service, and as such, so must be Infrastructure.
 
-### Site Availability Engineering (SAE/index.html.md)
+### Site Availability Engineering (SAE)
 
 **Site Availability** is the gatekeeper and primary caretaker of the operational environment, focusing on its uptime and state as it exists in the present.
 
@@ -110,7 +110,7 @@ considerations, effecting the cultural shift necessary to achieve our uptime goa
 greatest latitude in making changes to the environment that ensure uptime in the _here_ and _now_, and is the final
 authority as it relates to changes in GitLab.com.
 
-Site Availability is the primary owner (but not the only consumer/index.html.md) of the following operational processes and procedures:
+Site Availability is the primary owner (but not the only consumer) of the following operational processes and procedures:
 
 * [**delta management**](delta-management/index.html.md)
 * [**change management**](change-management/index.html.md)
@@ -119,11 +119,11 @@ Site Availability is the primary owner (but not the only consumer/index.html.md)
 Key metrics related to this group include:
 
 * **Uptime**: of the operational environment at large and of services, subsystems and components.
-* **Incidents**: alerts (including false positives/index.html.md), count, length (elapsed time/index.html.md), outages, escalations
-* **Deployments**: count, length (elapsed time/index.html.md), â€œgoodâ€ vs â€œbadâ€
+* **Incidents**: alerts (including false positives), count, length (elapsed time), outages, escalations
+* **Deployments**: count, length (elapsed time), â€œgoodâ€ vs â€œbadâ€
 * **Efficiencies**: manual vs automated tasks, (unexpected/index.html.md) interrupts
 
-### Site Reliability Engineering (SRE/index.html.md)
+### Site Reliability Engineering (SRE)
 
 **Site Reliability** is the complementary primary caretaker of the operational environment, focusing on its uptime
 through reliability considerations. Whereas **Site Availability** is focused on the _here_ and _now_, **Site Reliability** has a slightly longer time horizon, _soon_. Its guiding principles are efficiency, effectiveness and

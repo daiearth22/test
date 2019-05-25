@@ -37,8 +37,8 @@ A day or two before the issue due date, create the newsletter draft. It's easies
 #### Editing the newsletter in Marketo
 
 1. Make sure you update the subject line.
-1. Add your newsletter items by editing the existing boxes (double click to go into them/index.html.md). It's best to select the `HTML` button on the menu bar and edit the HTML so you don't inadvertently lose formatting.
-1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button/index.html.md).
+1. Add your newsletter items by editing the existing boxes (double click to go into them). It's best to select the `HTML` button on the menu bar and edit the HTML so you don't inadvertently lose formatting.
+1. Don't forget to update the dates in the UTM parameters of your links (including the banner at the top and all default items such as the "We're hiring" button).
 1. When you're ready, select `Email actions` from the menu at the top, then `Send sample` to preview.
 1. Enter your email in the `Person` field, then in `Send to` you can add any other emails you'd like to send a preview too.
 1. When you are satisfied with the newsletter, select `Approve and close` from the `Email actions` menu.

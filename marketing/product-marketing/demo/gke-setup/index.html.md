@@ -6,7 +6,7 @@ title: "Set up GitLab CE or EE on Google Kubernetes Engine"
 ## Video
 {:.no_toc}
 
-The video below shows installing GitLab on Google Kubernetes Engine (GKE/index.html.md). For the DevOps lifecycle, please refer to the
+The video below shows installing GitLab on Google Kubernetes Engine (GKE). For the DevOps lifecycle, please refer to the
 [sales demo](../demo/index.html.md).
 
 <figure class="video_container">
@@ -23,27 +23,27 @@ The video below shows installing GitLab on Google Kubernetes Engine (GKE/index.h
 ## Preparation
 
 > * You need a Google Cloud Platform account, GitLab employees will have this. Ensure you are logged in with your GitLab account.
-> * Login to [Google Kubernetes Engine](https://console.cloud.google.com/kubernetes/index.html.md).
+> * Login to [Google Kubernetes Engine](https://console.cloud.google.com/kubernetes).
 > * GitLab employees should use the `gitlab-demos` project. Others should select or create a project to work in.
->   * URL: [https://console.cloud.google.com/kubernetes/list?project=gitlab-demos](https://console.cloud.google.com/kubernetes/list?project=gitlab-demos/index.html.md)
-> * If you've run through the demo before but didn't clean up your [demo cluster(s/index.html.md)](https://console.cloud.google.com/kubernetes/list/index.html.md), [do so now](#cleanup/index.html.md).
+>   * URL: [https://console.cloud.google.com/kubernetes/list?project=gitlab-demos](https://console.cloud.google.com/kubernetes/list?project=gitlab-demos)
+> * If you've run through the demo before but didn't clean up your [demo cluster(s)](https://console.cloud.google.com/kubernetes/list), [do so now](#cleanup).
 > * This script assumes the `make-sid-dance.com` domain, but you should either:
->   * Pick the least-recently used domain from the [Google Doc](https://docs.google.com/spreadsheets/d/1HZ-7XhDNzdCBxfjzDFIQi7EjliptkpY4CB3LbiLa9MY/edit#gid=0/index.html.md) (internal only/index.html.md). (Let's Encrypt limits SSL cert creation on a weekly basis, so rotating usage helps reduce hitting the limits/index.html.md), or
+>   * Pick the least-recently used domain from the [Google Doc](https://docs.google.com/spreadsheets/d/1HZ-7XhDNzdCBxfjzDFIQi7EjliptkpY4CB3LbiLa9MY/edit#gid=0) (internal only). (Let's Encrypt limits SSL cert creation on a weekly basis, so rotating usage helps reduce hitting the limits), or
 >   * Buy a new domain for your demo and substitute throughout the script.
->     * [Google Domains](https://domains.google.com/index.html.md) is $12 for `.com` domains, which isn't the cheapest, but comes with privacy protection. You still have to configure DNS to use custom name servers, even though Google Domain name servers is the default since GCP cycles through many different name servers.
->     * [Create DNS Zone](https://console.cloud.google.com/networking/dns/zones/~new?project=gitlab-demos/index.html.md) to let Google manage DNS for you.
+>     * [Google Domains](https://domains.google.com) is $12 for `.com` domains, which isn't the cheapest, but comes with privacy protection. You still have to configure DNS to use custom name servers, even though Google Domain name servers is the default since GCP cycles through many different name servers.
+>     * [Create DNS Zone](https://console.cloud.google.com/networking/dns/zones/~new?project=gitlab-demos) to let Google manage DNS for you.
 >     * Click `Registrar Setup` to see what name servers to use.
-> * Disable desktop notifications (on a Mac, top-right corner, option click/index.html.md).
+> * Disable desktop notifications (on a Mac, top-right corner, option click).
 > * Open up new browser window so the audience doesn’t see all your other open tabs.
-> * Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](../720p.scpt/index.html.md)'s a handy Applescript if you're on a Mac and using Chrome. Add it to your User Scripts folder and how Applescript in your menu bar, and it'll be really easy to trigger.
+> * Resize your browser window to something reasonable for sharing. 1280x720 is a good option. [Here](../720p.scpt)'s a handy Applescript if you're on a Mac and using Chrome. Add it to your User Scripts folder and how Applescript in your menu bar, and it'll be really easy to trigger.
 > * Consider just sharing web browser window so the audience isn’t distracted by notes or other windows.
 > * If displaying full-screen, go to 'Displays' settings, Resolution: Scaled, Larger text.
 > * Consider opening this page on an iPad that has screen lock disabled.
 >
 > **CLI setup**
 > * On macOS, install `brew` for all the things
-> * `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install/index.html.md)"`
-> * You need to have the [Google Cloud SDK](https://cloud.google.com/sdk/downloads/index.html.md) installed. e.g.
+> * `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+> * You need to have the [Google Cloud SDK](https://cloud.google.com/sdk/downloads) installed. e.g.
 > * Install Brew Caskroom
 > * `brew install caskroom/cask/brew-cask`
 > * Install Google Cloud SDK
@@ -58,14 +58,14 @@ The video below shows installing GitLab on Google Kubernetes Engine (GKE/index.h
 We’re going to install everything from scratch and we’ll start by creating a new
 container cluster. Today I'm going to use Google Kubernetes Engine.
 
-> * [Create cluster](https://console.cloud.google.com/kubernetes/add?project=gitlab-demos/index.html.md) (or open [GKE](https://console.cloud.google.com/kubernetes/index.html.md), pick [`gitlab-demos` project](https://console.cloud.google.com/kubernetes/list?project=gitlab-demos/index.html.md) and click [Create cluster](https://console.cloud.google.com/kubernetes/add?project=gitlab-demos/index.html.md)/index.html.md).
+> * [Create cluster](https://console.cloud.google.com/kubernetes/add?project=gitlab-demos) (or open [GKE](https://console.cloud.google.com/kubernetes), pick [`gitlab-demos` project](https://console.cloud.google.com/kubernetes/list?project=gitlab-demos) and click [Create cluster](https://console.cloud.google.com/kubernetes/add?project=gitlab-demos)).
 
 We'll name this cluster `make-sid-dance` and have it created in the us-central
 zone. I will bump up the machine type to have 2 virtual CPUs for performance
 reasons, but I’ll drop it down to 1 node. A real cluster should have 3 or more
 nodes for better availability.
 
-> * Name the cluster after your domain name (e.g. `make-sid-dance`/index.html.md).
+> * Name the cluster after your domain name (e.g. `make-sid-dance`).
 > * Note the `Zone` field should read `us-central1-*`, and will have a letter on the end. This letter does not matter.
 > * Change the number of vCPU in Machine type to `2 vCPU`.
 > * Change the Size to `1`. *Note: The demo will run fine on more nodes, if desired*
@@ -74,10 +74,10 @@ nodes for better availability.
 Now we need to get an external IP address for the demo so that we can use a
 domain name and Let's Encrypt for SSL.
 
-> * Navigate to [VPC Network](https://console.cloud.google.com/networking/addresses/list/index.html.md).
+> * Navigate to [VPC Network](https://console.cloud.google.com/networking/addresses/list).
 > * Select `External IP addresses` from the menu on the left.
-> * Click [`Reserve static address`](https://console.cloud.google.com/networking/addresses/add?project=gitlab-demos/index.html.md) at the top of the page.
-> * Set the name to match the name used for the cluster (e.g. `make-sid-dance`/index.html.md).
+> * Click [`Reserve static address`](https://console.cloud.google.com/networking/addresses/add?project=gitlab-demos) at the top of the page.
+> * Set the name to match the name used for the cluster (e.g. `make-sid-dance`).
 > * Set the Region to `us-central1` to match the Zone where you made the cluster.
 > * **Warning:** The external IP **must not** be attached to anything yet. This will happen automatically  in a later step.
 > * Click the `Reserve` button at the bottom of the page.
@@ -86,9 +86,9 @@ We'll now create a wildcard DNS entry for our demonstration domain, pointing to
 the IP we just created.
 
 > * Copy the `External Address` from the list, from the line containing the name you used.
-> * Navigate to [Network services](https://console.cloud.google.com/net-services/loadbalancing/loadBalancers/list?project=gitlab-demos/index.html.md)
+> * Navigate to [Network services](https://console.cloud.google.com/net-services/loadbalancing/loadBalancers/list?project=gitlab-demos)
 > * Click `Cloud DNS` from the menu on the left.
-> * Click on the Zone that has the name of the domain to be used for the demo. (e.g. `make-sid-dance-com`/index.html.md)
+> * Click on the Zone that has the name of the domain to be used for the demo. (e.g. `make-sid-dance-com`)
 > * Click on the `Add Record Set` button at the top of the page.
 > * Set the `DNS Name` to `*`.
 > * Set the `IPv4 Address` to the clipboard contents (the External Address you just copied/index.html.md).
@@ -97,7 +97,7 @@ the IP we just created.
 Now that we have created the cluster and configured a domain, we can go back and
 check on our cluster.
 
-> * Navigate to [Kubernetes Engine](https://console.cloud.google.com/kubernetes/list/index.html.md).
+> * Navigate to [Kubernetes Engine](https://console.cloud.google.com/kubernetes/list).
 > * Confirm a green checkmark.
 
 Good, our cluster is ready for us to use. Let's connect to it.
@@ -117,10 +117,10 @@ to install all the necessary components.
 
 > * `helm init`
 > * `helm repo add gitlab https://charts.gitlab.io`
-> * `helm upgrade -i makesiddance --namespace gitlab --set baseDomain=makesiddance.com,baseIP=192.168.1.1,legoEmail=you@gitlab.com,provider=gke gitlab/gitlab-omnibus` (Replacing baseDomain, externalIP, and legoEmail as appropriate./index.html.md)
+> * `helm upgrade -i makesiddance --namespace gitlab --set baseDomain=makesiddance.com,baseIP=192.168.1.1,legoEmail=you@gitlab.com,provider=gke gitlab/gitlab-omnibus` (Replacing baseDomain, externalIP, and legoEmail as appropriate.)
 >
 > **Alternate instructions for GitLab EE**
-> * Go to [/free-trial/](/free-trial/index.html.md) and request a trial license for GitLab EE
+> * Go to [/free-trial/](/free-trial/) and request a trial license for GitLab EE
 > * Wait for email
 > * Download license to `~/.gitlab-license`
 > * Install helm chart, adding the gitlab and gitlabEELicense options:
@@ -137,7 +137,7 @@ Now let's check if our `gitlab` service is up, and wait for it if not.
 **Optional filler**
 
 > * `kubectl proxy`
-> * Go the the Kubernetes Dashboard at [http://localhost:8001/ui](http://localhost:8001/ui/index.html.md)
+> * Go the the Kubernetes Dashboard at [http://localhost:8001/ui](http://localhost:8001/ui)
 > * Change the `Namespace` drop-down on the left. Change it from `default` to `All Namespaces`
 > * Click on `Workloads` on the left.
 
@@ -182,7 +182,7 @@ Boom, we’ve got a shiny new GitLab installation!
 Before we get too carried away, we need to secure the root account with a new
 password.
 
-> * Set password for root user (You don't need to actually log in as root, but you can/index.html.md)
+> * Set password for root user (You don't need to actually log in as root, but you can)
 
 ## Cleanup
 
@@ -196,17 +196,17 @@ password.
 ## Troubleshooting
 
 ### Various failures block Let's Encrypt, and thus GitLab
-There are several scenarios which can cause deployment failures due to issues surrounding the `kube-lego-nginx` and the Let's Encrypt (LE/index.html.md) ACME process. The easiest way to find these errors is checking the logs of the `kube-lego-nginx` service in the `kube-lego` namespace of the dashboard for your Kubernetes cluster.
+There are several scenarios which can cause deployment failures due to issues surrounding the `kube-lego-nginx` and the Let's Encrypt (LE) ACME process. The easiest way to find these errors is checking the logs of the `kube-lego-nginx` service in the `kube-lego` namespace of the dashboard for your Kubernetes cluster.
 
 1.  **Let's Encrypt top-level domain request rate limit exceeded**
 
-     The failure mode here is the most vague from the logs, however it occurs when you have exceeded the number of certificate or renewal requests allowed for a single TLD. [Please see their documentation regarding this](https://letsencrypt.org/docs/rate-limits/index.html.md).
+     The failure mode here is the most vague from the logs, however it occurs when you have exceeded the number of certificate or renewal requests allowed for a single TLD. [Please see their documentation regarding this](https://letsencrypt.org/docs/rate-limits/).
 
 1.  **Unresolvable DNS**
 
-     If your DNS records are not correctly configured, the Let's Encrypt servers may not be able to resolve your domain when the ACME requests are filed against it. Let's Encrypt performs a reachability test that depends on valid, resolvable Fully-Qualified Domain Names. You must confirm that your entry DNS is functional, and has propagated. You can do this by using an external host (anywhere not directly querying your primary DNS where this record is present/index.html.md) to ping `test.my.tld` where `my.tld` is the domain name you are using. Because you should have configured a wildcard record (`*.my.tld`/index.html.md), `test.my.tld` should resolve to that address.
+     If your DNS records are not correctly configured, the Let's Encrypt servers may not be able to resolve your domain when the ACME requests are filed against it. Let's Encrypt performs a reachability test that depends on valid, resolvable Fully-Qualified Domain Names. You must confirm that your entry DNS is functional, and has propagated. You can do this by using an external host (anywhere not directly querying your primary DNS where this record is present) to ping `test.my.tld` where `my.tld` is the domain name you are using. Because you should have configured a wildcard record (`*.my.tld`), `test.my.tld` should resolve to that address.
 
-1.  **Host not responding (reachability/index.html.md)**
+1.  **Host not responding (reachability)**
 
     This has been observed as a failure of the LoadBalancer to be properly connected to the reserved statis external IP address. There are a few methods of failure here, but the primary cases are:
     *  Unable to assign due to prior assignment.
@@ -220,7 +220,7 @@ There are several scenarios which can cause deployment failures due to issues su
 
 #### Creating connection to your cluster from kubectl
 
-* Navigate to [Container Engine](https://console.cloud.google.com/kubernetes/list/index.html.md).
+* Navigate to [Container Engine](https://console.cloud.google.com/kubernetes/list).
 * Click on the `Connect` button for your cluster.
 * Click the `copy` icon to the right of the `gcloud container ...` entry. It looks like two overlapping white boxes.
   * `gcloud container clusters get-credentials makesiddance-com \

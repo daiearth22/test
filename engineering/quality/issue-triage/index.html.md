@@ -13,10 +13,10 @@ title: "Issue Triage"
 
 ## Common Links
 
-- [**Public Issue Tracker (for GitLab CE/index.html.md)**](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md);
+- [**Public Issue Tracker (for GitLab CE)**](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md);
   please use confidential issues for topics that should only be visible to team members at GitLab.
 - Chat channels; we use our chat internally as a realtime communication tool:
-  - [#triage](https://gitlab.slack.com/messages/triage/index.html.md): general triage team channel.
+  - [#triage](https://gitlab.slack.com/messages/triage): general triage team channel.
   - [#gitlab-issue-feed](https://gitlab.slack.com/messages/gitlab-issue-feed/index.html.md) - Feed of all GitLab-CE issues
   - [#support-tracker-feed](https://gitlab.slack.com/messages/support-tracker-feed/index.html.md) - Feed of the GitLab.com Support Tracker
 

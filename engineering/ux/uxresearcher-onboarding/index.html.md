@@ -17,7 +17,7 @@ If something is missing, add it (as goes with everything at GitLab/index.html.md
 
 You will feel very slow in the beginning, that is perfectly normal. There is a lot of information being thrown at you all at once. Your goal for the first few weeks here at GitLab is simply to listen, absorb, and ask as many questions as possible.
 
-If you haven't already, please read the main section of the [UX Handbook](https://github.com/daijapan/test/tree/master/engineering/ux/index.html.md) and the [UX Researcher](https://github.com/daijapan/test/tree/master/engineering/ux-researcher/index.html.md) section. Reading the [Research project README](https://gitlab.com/gitlab-org/ux-research/blob/master/README.md/index.html.md) will also help fill in all the details of how we work.
+If you haven't already, please read the main section of the [UX Handbook](https://github.com/daijapan/test/tree/master/engineering/ux/index.html.md) and the [UX Researcher](https://github.com/daijapan/test/tree/master/engineering/ux-researcher) section. Reading the [Research project README](https://gitlab.com/gitlab-org/ux-research/blob/master/README.md) will also help fill in all the details of how we work.
 
 ## UX Research Buddy
 
@@ -25,18 +25,18 @@ You will be assigned a UX Buddy to help you find your way around. Your buddy wil
 
 ## GitLab versions and tiers
 
-GitLab is built on an open core model. That means there are two versions of GitLab: Community Edition(CE/index.html.md) and Enterprise Edition(EE/index.html.md).
+GitLab is built on an open core model. That means there are two versions of GitLab: Community Edition(CE) and Enterprise Edition(EE).
 
 GitLab Community Edition is open source, with an MIT Expat license. GitLab Enterprise Edition is built on top of Community Edition: it uses the same core, but adds additional features and functionality on top of that. This is under a proprietary license.
 
-It is a good idea to familiarize yourself with the differences between CE and EE. As a UX Designer here at GitLAb, you will have access to all the features within EE. The [tiers within CE and EE are listed here](https://github.com/daijapan/test/tree/master/marketing/product-marketing/#tiers/index.html.md). Review the [feature comparison](/pricing/self-managed/feature-comparison/index.html.md) to understand the features available within each tier. 
+It is a good idea to familiarize yourself with the differences between CE and EE. As a UX Designer here at GitLAb, you will have access to all the features within EE. The [tiers within CE and EE are listed here](https://github.com/daijapan/test/tree/master/marketing/product-marketing/#tiers). Review the [feature comparison](/pricing/self-managed/feature-comparison/) to understand the features available within each tier. 
 
 ## Create issues
 As you begin to get settled in, you will most likely need to create or update an issue.
 
 Workflow for creating an issue:
 
-* Visit the issues list from the [GitLab.org group](https://gitlab.com/groups/gitlab-org/-/issues/index.html.md).
+* Visit the issues list from the [GitLab.org group](https://gitlab.com/groups/gitlab-org/-/issues).
 
 * Search to make sure the issue doesn't already exist.
 
@@ -48,7 +48,7 @@ Workflow for creating an issue:
 
 * Fill in all the relevant sections.
 
-* @mention someone in the issue to attract attention to it. Choose an expert [here](/team/index.html.md) or feel free to ask in the #ux channel on slack who it should be reviewed by. Do not worry that you are poking someone to review a job when you don't even know them and they might be much more senior than you, if it's not appropriate for them, they will know the right person to pass it along to and do that.
+* @mention someone in the issue to attract attention to it. Choose an expert [here](/team/) or feel free to ask in the #ux channel on slack who it should be reviewed by. Do not worry that you are poking someone to review a job when you don't even know them and they might be much more senior than you, if it's not appropriate for them, they will know the right person to pass it along to and do that.
 
 Typical kinds of issues created:
 
@@ -60,7 +60,7 @@ Typical kinds of issues created:
 
     * Reproduce the bug.
 
-    * @mention the Product Manager(PM/index.html.md) responsible for that area of the product.
+    * @mention the Product Manager(PM) responsible for that area of the product.
 
 * Proposed feature request
 
@@ -74,7 +74,7 @@ Typical kinds of issues created:
 
 - [GitLab Research Project](https://gitlab.com/gitlab-org/ux-research/index.html.md)
 - [GitLab Design Project](https://gitlab.com/gitlab-org/gitlab-design/index.html.md)
-- [Gitlab Design System](https://design.gitlab.com/index.html.md)
+- [Gitlab Design System](https://design.gitlab.com/)
 - [Engineering Handbook](https://github.com/daijapan/test/tree/master/engineering/index.html.md)
 - [Engineering Workflow](https://github.com/daijapan/test/tree/master/engineering/workflow/index.html.md)
 - [Product Handbook](https://github.com/daijapan/test/tree/master/product/index.html.md)

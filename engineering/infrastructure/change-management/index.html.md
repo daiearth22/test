@@ -24,7 +24,7 @@ Changes are any **modification to the operational environment** and are classifi
 
 Change Management is underpinned by **trust**: we trust ourselves to act responsibly in the operational environment to maintain its integrity and, by extension, its availability and performance.
 
-To that end, we are not instituting a blanket policy for changes. Rather, we are developing the foundation of what a service change is (risk evalation, automatic auditing and communication, pre-flight checks, defensive coding, post-change validation/index.html.md) and will help teams with adoption. 
+To that end, we are not instituting a blanket policy for changes. Rather, we are developing the foundation of what a service change is (risk evalation, automatic auditing and communication, pre-flight checks, defensive coding, post-change validation) and will help teams with adoption. 
 
 Change Management helps us prioritize our resources towards changes that need to be made more resilient through defensive automation. Priorities are driven by two factors:
 
@@ -38,7 +38,7 @@ In these situations, we will focus on developing the necessary automation and sa
 Change severities encapsulate the risk associated with a change in the environment. Said risk entails the potential effects if the change fails and becomes an incident. Change management uses our standarized severity definition, which can be found under out which can be found under [`CONTRIBUTION.MD`](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md#severity-impact-guidance/index.html.md).
 
 * In order to minimize the number of variables at play, no changes are executed during an active incident.
-* ~S1 and ~S2 changes are always serialized and executed exclusively (i.e., never concurrently/index.html.md).
+* ~S1 and ~S2 changes are always serialized and executed exclusively (i.e., never concurrently).
 * ~S3 and ~S4 changes are allowed to take place concurrently as long as there is awareness of said concurrency.
 * The Infrastructure on-call resource has veto power over any and all changes.
 
@@ -89,10 +89,10 @@ Furthermore, avoiding information overload is necessary to keep every stakeholde
 
 To that end, we will have:
 
-* a dedicated change bridge (zoom call/index.html.md) for S1 and S2 changes.
+* a dedicated change bridge (zoom call) for S1 and S2 changes.
 * a dedicated `#change` channel, since `#production` contains sizeable amounts of information and it takes effort to filter out non-relevant items. This is particularly important for the change team, which must be focused on technical information to perform the change. While `#change` is an open channel and anyone is free to join, we will encourage people to use other channels to communicate with the EMOC.
-* periodic updates intended to the various audiences at place (CMOC handles this/index.html.md):
-  * End-users (Twitter/index.html.md)
+* periodic updates intended to the various audiences at place (CMOC handles this):
+  * End-users (Twitter)
   * eStaff
   * Support staff
   * Employees at large

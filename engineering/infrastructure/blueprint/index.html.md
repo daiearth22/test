@@ -19,7 +19,7 @@ two aspects to availability:
 * protecting **uptime**, and 
 * protecting **user data**.
 
-Making it **observable** entails measuring and evaluating availability against clearly specified objectives (SLXs/index.html.md)
+Making it **observable** entails measuring and evaluating availability against clearly specified objectives (SLXs)
 that take into account error budgets.
 
 When determining priorities, we must answer the question of whether the task at hand contributes to availability
@@ -44,7 +44,7 @@ Infrastructure's OKRs are crafted along these lines of thought.
 
 Achieving ours goals requires a high-performance team that adheres to [**GitLab's values**](https://github.com/daijapan/test/tree/master/values/index.html.md).
 We are not simply runnig GitLab.com: we are also building a team we love to work with. As Reed Hastings [eloquently
-put it](https://www.quietrev.com/powerful-building-culture-freedom-responsibility/index.html.md), we want to create a team where
+put it](https://www.quietrev.com/powerful-building-culture-freedom-responsibility/), we want to create a team where
 "Oh, I’d want to come to work every day and solve *these* problems with *these* people".
 
 There are three cultural aspects to focus on as we continue to to develop and polish the team:
@@ -60,7 +60,7 @@ There are three cultural aspects to focus on as we continue to to develop and po
   * Develop a **rollback strategy**, if applicable, and define when to invoke it
 * Problem solving through more **disciplined engineering practices**. In particular, for complex and significant
   ideas or problems, document proposed designs, collecting final decisions (an item of particular significance on
-  issues that generate sizeable discussions/index.html.md).
+  issues that generate sizeable discussions).
 * We changed the department’s structure in Q3 to be more heterogeneous in the teams� functional composition by
   including DBREs and SREs side by side in each team. We need to continue to move towards an inclusive
   Infrastructure-centric mentality and eliminate SRE-centric nomenclature where appropriate (i.e., #sre-lounge =>
@@ -70,7 +70,7 @@ There are three cultural aspects to focus on as we continue to to develop and po
 
 Our workload should be managed in a fairly predictable fashion. A minimum of 60% of our work should be known,
 scheduled work. This work is defined as work that:
-* Has been evaluated against our priorities and focus (i.e., OKRs/index.html.md)
+* Has been evaluated against our priorities and focus (i.e., OKRs)
 * Has been properly designed and scoped, and productively discussed, resulting in issues that provide clearly defined implementation guidance and acceptance criteria for success.  
 
 When the planned work entails design and discussion, no work changing production should be performed on that issue: create follow up issues as the end result and definition of the work to be done.

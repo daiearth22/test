@@ -3,7 +3,7 @@ layout: markdown_page
 title: "GitLab Onboarding"
 ---
 
-All onboarding steps in the [onboarding issue template](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md/index.html.md) which is part of the [People Ops Employment project](https://gitlab.com/gitlab-com/people-ops/employment/issues/index.html.md).
+All onboarding steps in the [onboarding issue template](https://gitlab.com/gitlab-com/people-ops/employment/blob/master/.gitlab/issue_templates/onboarding.md) which is part of the [People Ops Employment project](https://gitlab.com/gitlab-com/people-ops/employment/issues).
 
 ## Other pages
 

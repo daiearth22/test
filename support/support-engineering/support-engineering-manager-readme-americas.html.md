@@ -23,7 +23,7 @@ title: Support Engineering Manager Readme - Americas
 
 + I as a person do not enjoy vacation. You are not me. GitLab has a generous vacation policy and if you want to take time off, get it on the calendar, communicate it to the team, and I support it.
 
-+ In the spirit of being transparent, here is my [2018 360 Feedback (GitLab Internal only/index.html.md)](https://docs.google.com/document/d/1Yobs31mH9jAmuKayx_cuLpj58ig8Y0oW-ymjzvRRBeE/index.html.md) in it's entirety.
++ In the spirit of being transparent, here is my [2018 360 Feedback (GitLab Internal only)](https://docs.google.com/document/d/1Yobs31mH9jAmuKayx_cuLpj58ig8Y0oW-ymjzvRRBeE/) in it's entirety.
 
  
-(Inspired by https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/index.html.md)
+(Inspired by https://matthewnewkirk.com/2017/09/20/share-your-manager-readme/)

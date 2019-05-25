@@ -10,7 +10,7 @@ healthy degree of overlap between these two ideas, it is helpful and efficient
 for us to specialize training and responsibility for each of:
 
 - **Technical leadership**, as represented by [Staff and higher-level
-  developers](/job-families/engineering/developer/#staff-developer/index.html.md).
+  developers](/job-families/engineering/developer/#staff-developer).
 - **Professional leadership**, as represented by [Engineering
   management](/job-families/engineering/engineering-management/index.html.md).
 
@@ -33,7 +33,7 @@ following areas, so we recommend you review them carefully and discuss your
 confidence with your manager:
 
 - [1-1s](https://github.com/daijapan/test/tree/master/leadership/1-1/index.html.md)
-- [Providing regular feedback](https://github.com/daijapan/test/tree/master/leadership/#giving-performance-feedback/index.html.md)
+- [Providing regular feedback](https://github.com/daijapan/test/tree/master/leadership/#giving-performance-feedback)
 - [Dealing with underperformance](https://github.com/daijapan/test/tree/master/underperformance/index.html.md)
 
 ## Hiring
@@ -71,7 +71,7 @@ work to an extent. However, please keep the following advice in mind:
   task.
 - Focus on where you can add the most value. As mentioned above, you won't add
   value on critical path work, but that doesn't mean you can't add value in
-  other ways. For a great discussion on this, see this article on [How (and why/index.html.md)
+  other ways. For a great discussion on this, see this article on [How (and why)
   Should Managers Code](https://medium.com/@johnbarton/how-and-why-should-managers-code-323751799664/index.html.md).
 - Plan to review more than you write. Following from all of this, most of your
   "coding-related work" should be in code review - you add more value reviewing
@@ -87,7 +87,7 @@ not all become Staff Developers or Engineering Managers at GitLab, identifying
 their career goals and proactively working towards them is the most effective
 way to help everyone improve. In addition to the company-wide notes on [career
 mapping and
-development](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/#career-mapping-and-development/index.html.md),
+development](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/#career-mapping-and-development),
 here are some important considerations for the Engineering team:
 
 - **Technical or Professional Leadership?** This is the first section on our
@@ -101,7 +101,7 @@ here are some important considerations for the Engineering team:
 - **Assess together.** Once you know where your Developer wants to go with their
   careers, it's time to assess their strengths and weaknesses for the position.
   This is best done by reviewing the [responsibilities and
-  requirements](/job-families/engineering/developer/index.html.md) of the job they're
+  requirements](/job-families/engineering/developer) of the job they're
   interested in. If you both assess it separately, you can compare and contrast
   your results.
 - **Create a behavior-based plan.** Once you understand the Developer's
@@ -147,13 +147,13 @@ efficiently as possible.
   know about what your team is working on and how it's going, the better you'll
   be able to make the best decisions.
 - **Balance engineering initiatives** - make time for [engineering-led
-  initiatives](https://github.com/daijapan/test/tree/master/engineering/#engineering-led-initiatives/index.html.md) balanced
+  initiatives](https://github.com/daijapan/test/tree/master/engineering/#engineering-led-initiatives) balanced
   against product's needs for your team. 
 
 ## Team retrospectives
 
 In addition to the [public function-wide
-retrospective](https://github.com/daijapan/test/tree/master/engineering/workflow/#retrospective/index.html.md), each Engineering
+retrospective](https://github.com/daijapan/test/tree/master/engineering/workflow/#retrospective), each Engineering
 team should be in the practice of holding their own retrospectives. The results
 of these retrospectives should then inform the function-wide retrospective for
 any given release. [More information on running effective retrospectives is
@@ -167,18 +167,18 @@ Engineering metrics are gathered to support a healthy dialog amongst the enginee
 It is important to note that engineering metrics are project or team based and are not intended to track an individual's capacity or performance.
 
 - **Measuring throughput.** We are currently exploring using throughput to
-measure and track capacity.   [Throughput](https://weblogs.asp.net/wallen/throughput-vs-velocity/index.html.md), is a measure of the total number of issues that are completed and in production in a given period of time.
+measure and track capacity.   [Throughput](https://weblogs.asp.net/wallen/throughput-vs-velocity), is a measure of the total number of issues that are completed and in production in a given period of time.
 Unlike velocity, throughput does not require the use of story points or weights, instead we measure the number of issues completed by a team in the span of a week or a release.
 Each issue is represented by 1 unit/point.
 This calculation happens after the time period is complete and no pre-planning is required to capture this metric.
-The total count should not be limited to only issues that deliver features, it's important to include [engineering led](https://github.com/daijapan/test/tree/master/engineering/#engineering-led-initiatives/index.html.md) issues in this count as well.
+The total count should not be limited to only issues that deliver features, it's important to include [engineering led](https://github.com/daijapan/test/tree/master/engineering/#engineering-led-initiatives) issues in this count as well.
 This will insure that we properly reflect the team's capacity in a consistent way and focus on delivering at a predictable rate.
 
   *Why we adopted this model?*
 
   - The goal for using this measure is to incentivize teams to break issues to the smallest deliverable which lead to a smaller set of changes and the many benefits that come along with that.
-  - This practice aligns with one of our core values: [Iteration](https://github.com/daijapan/test/tree/master/values/#iteration/index.html.md), do the smallest thing possible and get it out as quickly as possible.
-  - Instead of spending time sizing and figuring out the weight of an issue, we should put this effort toward breaking issues to the smallest [deliverable](https://github.com/daijapan/test/tree/master/engineering/#code-quality-and-standards/index.html.md).
+  - This practice aligns with one of our core values: [Iteration](https://github.com/daijapan/test/tree/master/values/#iteration), do the smallest thing possible and get it out as quickly as possible.
+  - Instead of spending time sizing and figuring out the weight of an issue, we should put this effort toward breaking issues to the smallest [deliverable](https://github.com/daijapan/test/tree/master/engineering/#code-quality-and-standards).
   - Since throughput is a measure of actual work completed, it is far more
   accurate than using weights.
   - Throughput is a simpler model to implement for new teams since the measure

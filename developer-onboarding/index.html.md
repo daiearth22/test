@@ -19,17 +19,17 @@ If something is missing, add it (as goes with everything at GitLab/index.html.md
 We have multiple [GitLab environments](https://github.com/daijapan/test/tree/master/engineering/infrastructure/environments/index.html.md).
 
 On those instances, please enable the
-[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html/index.html.md)
+[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html)
 by pressing <kbd>p</kbd> then <kbd>b</kbd>.
 
 Then, bookmark and enable the
-[canary testing bookmarklet](https://github.com/daijapan/test/tree/master/engineering/#canary-testing/index.html.md)
+[canary testing bookmarklet](https://github.com/daijapan/test/tree/master/engineering/#canary-testing)
 for GitLab.com.
 
 ## Getting started with GitLab development
 
 To start development, follow the instructions for the
-[GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit/index.html.md).
+[GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit).
 
 ## GitLab Repositories
 
@@ -37,7 +37,7 @@ GitLab consists of many subprojects. A curated list of GitLab Repositories
 can be found at the [GitLab Engineering Projects](https://github.com/daijapan/test/tree/master/engineering/projects/index.html.md) page.
 
 Almost all repositories are available on both GitLab.com and dev.gitlab.org. We
-also mirror to dev.gitlab.org for availability reasons and [GitHub](https://github.com/gitlabhq/index.html.md)
+also mirror to dev.gitlab.org for availability reasons and [GitHub](https://github.com/gitlabhq)
 for historical reasons.
 
 All issues should be filed on GitLab.com.
@@ -88,7 +88,7 @@ another developer or the CTO for advice.
 
 In GitLab all code should go through a review process before it can be merged.
 Make sure you submit a merge request for any changes you've made.
-When the merge request is ready, it should be assigned to [someone else on the team](https://github.com/daijapan/test/tree/master/engineering/#code-reviews/index.html.md).
+When the merge request is ready, it should be assigned to [someone else on the team](https://github.com/daijapan/test/tree/master/engineering/#code-reviews).
 This person is then responsible for reviewing your code and merging it.
 Optionally, you can request another developer to help or review by writing a comment.
 If a merge request is not assigned, it will probably be ignored and create
@@ -119,7 +119,7 @@ or clone [license-app][license-app] and generate your own licenses.
 [License-app][license-app] and [license.gitlab.com][license-app-hosted]
 are only available for GitLab employees.
 
-For detail steps and guidance for generating license keys refers to [How to Request / Install GitLab License Key](https://goo.gl/VbNaZj/index.html.md) document.
+For detail steps and guidance for generating license keys refers to [How to Request / Install GitLab License Key](https://goo.gl/VbNaZj) document.
 
 [license-app]: https://github.com/daijapan/test/tree/master/engineering/projects/#license-app
 [license-app-hosted]: https://license.gitlab.com
@@ -127,12 +127,12 @@ For detail steps and guidance for generating license keys refers to [How to Requ
 ### Ensure that your changes apply cleanly to GitLab EE
 
 GitLab Community Edition is merged every 3 hours to GitLab Enterprise Edition (look for
-the [`CE Upstream` merge requests]/index.html.md) and as a developer it's your responsibility
+the [`CE Upstream` merge requests]) and as a developer it's your responsibility
 to ensure that your merge requests [apply cleanly to GitLab EE][ce-ee-docs].
 Please consult [Automatic CE->EE merge][ce-ee-docs] for
 more details.
 
-Please see [GitLab Enterprise Edition (EE/index.html.md)][gitlab-ee].
+Please see [GitLab Enterprise Edition (EE)][gitlab-ee].
 
 [`CE Upstream` merge requests]: https://gitlab.com/gitlab-org/gitlab-ee/merge_requests?label_name%5B%5D=CE+upstream
 [ce-ee-docs]: https://docs.gitlab.com/ee/development/automatic_ce_ee_merge.html
@@ -146,13 +146,13 @@ orphaned because the original author left, lost their credentials, passed away,
 etc. When publishing a Gem you can add some or all of the following people as
 co-owners:
 
-* [Dmitriy Zaporozhets](https://rubygems.org/profiles/dzaporozhets/index.html.md)
-* [Douwe Maan](https://rubygems.org/profiles/DouweM/index.html.md)
-* [Marin Jankovski](https://rubygems.org/profiles/marinjankovski/index.html.md)
-* [Rémy Coutable](https://rubygems.org/profiles/rymai/index.html.md)
-* [Robert Speicher](https://rubygems.org/profiles/rspeicher/index.html.md)
-* [Stan Hu](https://rubygems.org/profiles/stanhu/index.html.md)
-* [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse/index.html.md)
+* [Dmitriy Zaporozhets](https://rubygems.org/profiles/dzaporozhets)
+* [Douwe Maan](https://rubygems.org/profiles/DouweM)
+* [Marin Jankovski](https://rubygems.org/profiles/marinjankovski)
+* [Rémy Coutable](https://rubygems.org/profiles/rymai)
+* [Robert Speicher](https://rubygems.org/profiles/rspeicher)
+* [Stan Hu](https://rubygems.org/profiles/stanhu)
+* [Yorick Peterse](https://rubygems.org/profiles/YorickPeterse)
 
 You're of course free to add other developers as well.
 

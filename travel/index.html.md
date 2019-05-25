@@ -22,7 +22,7 @@ title: "Travel"
 1. Understand that the guidelines of [Spending Company Money](https://github.com/daijapan/test/tree/master/spending-company-money/index.html.md), especially the part about spending it like it is your own money, still apply for all expenses.
 1. Always bring a credit card with you when traveling for company business if you have one.
 1. Hotels will generally expect you to have a physical credit card to present upon check-in. This credit card will be kept on file for the duration of your stay. Even if your lodging was pre-paid by the company or by using a company credit card, the Hotel may still require a card to be on file for "incidentals".
-1. If you incur any work-travel related expenses (on your personal card or a GitLab company card/index.html.md), please make sure to save the original receipt.
+1. If you incur any work-travel related expenses (on your personal card or a GitLab company card), please make sure to save the original receipt.
 1. When your trip is complete, please file an expense report via Expensify or include the receipts on your next monthly invoice.
 
 ## Self Stay Incentive Policy <a name="self-stay"></a>
@@ -34,27 +34,27 @@ report or invoice.  Employees will be paid through payroll by submitting the scr
 
 ## Booking travel and lodging with Egencia<a name="egencia"></a>
 
-Before booking any flights please ensure that you have the proper [visas](https://github.com/daijapan/test/tree/master/people-operations/visas/#arranging-a-visa-for-travel-/index.html.md) in place.
+Before booking any flights please ensure that you have the proper [visas](https://github.com/daijapan/test/tree/master/people-operations/visas/#arranging-a-visa-for-travel-) in place.
 
 ### Setting up your Egencia account<a name="setup-egencia"></a>
 
-Below is some more information to help you get set up with your [Egencia](https://www.egencia.com/index.html.md) account.  
+Below is some more information to help you get set up with your [Egencia](https://www.egencia.com) account.  
 
-1. You will receive an email from Egencia with your username. (Contact People Ops if you do not receive anything/index.html.md).
+1. You will receive an email from Egencia with your username. (Contact People Ops if you do not receive anything).
 1. With the link, from step one in this email, you can set a new secure password.
-1. Once you are in your dashboard, set up your info in your profile (see link at top right corner of page/index.html.md).
-1. Make sure to add your phone number in all three "phone number" fields (it can be the same number/index.html.md).
-1. Add your passport information to your profile (only passport information is accepted in Egencia at this time/index.html.md), this will populate your info directly when booking a flight.
+1. Once you are in your dashboard, set up your info in your profile (see link at top right corner of page).
+1. Make sure to add your phone number in all three "phone number" fields (it can be the same number).
+1. Add your passport information to your profile (only passport information is accepted in Egencia at this time), this will populate your info directly when booking a flight.
 1. Now let's start booking!
 
 ### Booking travel through Egencia <a name="booking-travel"></a>
 
-If you book through [Egencia](https://www.egencia.com/index.html.md), the costs will be added
+If you book through [Egencia](https://www.egencia.com), the costs will be added
 to the GitLab invoice and **no credit card is needed**.
 
 1. Please note that some budget airlines might not show in Egencia, so make sure
-to check those to be sure there is no better option out there. (SouthWest, JetBlue, etc./index.html.md).
-1. Login to your account. If you've not yet set up your account, do this [first](#setup-egencia/index.html.md).
+to check those to be sure there is no better option out there. (SouthWest, JetBlue, etc.).
+1. Login to your account. If you've not yet set up your account, do this [first](#setup-egencia).
 1. The dashboard gives you the option to start a booking directly. The options are
 to book flights, train tickets, hotels, or rental cars.
 1. Input info for the flight you want to book.
@@ -74,7 +74,7 @@ Note: Once a flight is booked, re-routing is at person’s own cost unless reque
 1. Enter your passport information in the "Secure flight" window. This will be
 pre-populated if you have previously set up your profile correctly. At this point, you do have the
 option of using your US drivers license for domestic flights within the US.
-1. Enter home, work, and mobile phone number (they can be the same number/index.html.md). This
+1. Enter home, work, and mobile phone number (they can be the same number). This
 will be pre-populated if you already set up your profile before.
 1. Enter your seat preferences and frequent flyer program info if wanted.
 1. Enter your reason for booking, this is required for every booking.
@@ -132,55 +132,55 @@ Working remotely while being abroad can be quite different. For example it can b
 
 Planning flights far in advance can help you get cheaper fares when booking. For example you can set alerts when there is a significant drop in price for your travel destination.
 
-- [Google Flights](https://www.google.com/flights/index.html.md) - Great for comparing and setting up alerts
-- [Skyscanner](https://www.skyscanner.com/index.html.md) - Great for comparing and setting up alerts
-- [Kiwi](https://www.kiwi.com/index.html.md) - Great experience for booking flights on mobile devices
-- [Airwander](http://airwander.com/index.html.md) - Great for booking flights with stopovers
+- [Google Flights](https://www.google.com/flights/) - Great for comparing and setting up alerts
+- [Skyscanner](https://www.skyscanner.com) - Great for comparing and setting up alerts
+- [Kiwi](https://www.kiwi.com/) - Great experience for booking flights on mobile devices
+- [Airwander](http://airwander.com/) - Great for booking flights with stopovers
 
 #### Navigation
 
 Offline navigation content is key when you are not certain of an internet connection.
 
-- [Maps.me](http://maps.me/en/home/index.html.md) - Large offline maps, lots of destination content
-- [Google Maps](https://www.google.com/maps/index.html.md) - Google maps allows offline downloads for self selectable areas
+- [Maps.me](http://maps.me/en/home) - Large offline maps, lots of destination content
+- [Google Maps](https://www.google.com/maps) - Google maps allows offline downloads for self selectable areas
 
 #### Communication
 
 When you have an internet connection, it can save you quite a bit of money to be able to communicate just using data.
 
-- [Whatsapp](https://www.whatsapp.com/index.html.md) - Most used app, which supports chat and video/voice calling
-- [Telegram](https://telegram.org/index.html.md) - Great for places where Whatsapp isn't working
-- [Slack](https://slack.com/index.html.md)
-- [Google Duo](https://duo.google.com/index.html.md) - Great for video and/or voice calling, especially on low bandwidth connections
+- [Whatsapp](https://www.whatsapp.com/) - Most used app, which supports chat and video/voice calling
+- [Telegram](https://telegram.org/) - Great for places where Whatsapp isn't working
+- [Slack](https://slack.com/)
+- [Google Duo](https://duo.google.com/) - Great for video and/or voice calling, especially on low bandwidth connections
 
 #### Special Shoutouts
 
 Application which are all around wonderful to have when traveling.
 
-- [Google Now](http://www.google.nl/landing/now/index.html.md) - an intelligent personal assistant developed by Google. Learn more about [Google Now on Wikipedia](https://en.wikipedia.org/wiki/Google_Now/index.html.md).
-- [Google Trips](https://get.google.com/trips/index.html.md) - Makes planning your day very easy with suggestions for things to see and do
+- [Google Now](http://www.google.nl/landing/now/) - an intelligent personal assistant developed by Google. Learn more about [Google Now on Wikipedia](https://en.wikipedia.org/wiki/Google_Now).
+- [Google Trips](https://get.google.com/trips/) - Makes planning your day very easy with suggestions for things to see and do
 
 #### Handling Currencies
 
 The following tools make paying someone back in their own currency a lot easier.
 
-- [PayPal](https://www.paypal.com/index.html.md)
-- [TransferWise](https://transferwise.com/index.html.md)
+- [PayPal](https://www.paypal.com)
+- [TransferWise](https://transferwise.com/)
 
 #### Splitting Costs
 
 Traveling together or letting someone else pay something for you? This makes it easier to see how costs add up or should be split up.
 
-- [Splitwise](https://www.splitwise.com/index.html.md) - Supports a great amount of currencies and is well designed
+- [Splitwise](https://www.splitwise.com/) - Supports a great amount of currencies and is well designed
 
 #### Internet Problems and VPNs
 
-- In China most services we use daily are not working due to [the great firewall of China](https://en.wikipedia.org/wiki/Great_Firewall/index.html.md). Whatsapp seems to work though!
+- In China most services we use daily are not working due to [the great firewall of China](https://en.wikipedia.org/wiki/Great_Firewall). Whatsapp seems to work though!
 
 VPNs can help you reach services or sites that are blocked, get contents that are not available abroad or let you browse the internet as if you were home (with your own language preselected/index.html.md).
 
-- [ZenMate](https://zenmate.com/index.html.md) - Great application with a good 7 days free trial
-- [Opera](http://www.opera.com/index.html.md) - Has a built in free VPN
+- [ZenMate](https://zenmate.com/) - Great application with a good 7 days free trial
+- [Opera](http://www.opera.com/) - Has a built in free VPN
 
 *Note that a VPN may not always work as intended. For example both Netflix and China have blacklisted certain VPNs, limiting their usefulness.*
 
@@ -188,13 +188,13 @@ VPNs can help you reach services or sites that are blocked, get contents that ar
 
 The following services provide offline functionality for their content if you have a paid membership.
 
-- [Spotify](https://www.spotify.com/index.html.md)
-- [Soundcloud](https://soundcloud.com/index.html.md)
-- [Netflix](https://netflix.com/index.html.md)
+- [Spotify](https://www.spotify.com)
+- [Soundcloud](https://soundcloud.com)
+- [Netflix](https://netflix.com)
 
 #### Power
 
 Electricity is a requirement on your journey abroad. Be it to power your phone or your laptop.
 
-- [Anker powerbanks](https://www.anker.com/index.html.md) - Great value for the price, including USB-C options
-- [Skross world adapter pro](http://www.skross.com/en/product/87/world-adapter-pro.html/index.html.md) - All around great travel adapter, usable in almost every country
+- [Anker powerbanks](https://www.anker.com/) - Great value for the price, including USB-C options
+- [Skross world adapter pro](http://www.skross.com/en/product/87/world-adapter-pro.html) - All around great travel adapter, usable in almost every country

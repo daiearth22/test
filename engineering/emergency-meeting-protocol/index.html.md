@@ -17,7 +17,7 @@ The guidelines below should be considered in case of emergency meetings.
 There are many urgent and important situations that may require an emergency
 meeting, including severe customer-impacting issues, security breaches, or any
 other time-sensitive situation that has a clear and serious business impact. In
-these situations, it is most [efficient](https://github.com/daijapan/test/tree/master/values/#efficiency/index.html.md) to call
+these situations, it is most [efficient](https://github.com/daijapan/test/tree/master/values/#efficiency) to call
 an emergency meeting to resolve the issue as quickly as possible.
 
 ### Video Call

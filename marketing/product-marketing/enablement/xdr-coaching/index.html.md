@@ -22,15 +22,15 @@ title: "XDR Enablement"
 
 
 **Related Reading: ** 
-* [10 digital transformation success stories](https://www.cio.com/article/3149977/digital-transformation/digital-transformation-examples.html?nsdr=true#tk.cio_rs/index.html.md)
-* [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html/index.html.md)
-* [Complexity a killer when it comes to digital transformation success](https://www.cio.com/article/3269493/digital-transformation/complexity-a-killer-when-it-comes-to-digital-transformation-success.html/index.html.md)
+* [10 digital transformation success stories](https://www.cio.com/article/3149977/digital-transformation/digital-transformation-examples.html?nsdr=true#tk.cio_rs)
+* [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html)
+* [Complexity a killer when it comes to digital transformation success](https://www.cio.com/article/3269493/digital-transformation/complexity-a-killer-when-it-comes-to-digital-transformation-success.html)
 * [5 Big Challenges CIOs face](https://www.mrc-productivity.com/blog/2017/11/5-big-challenges-facing-cios-leaders-2018/index.html.md)
 * [9 forces shaping the future of IT](https://www.cio.com/article/3206770/it-strategy/9-forces-shaping-the-future-of-it.html?upd=1538513299753/index.html.md)
-* [12 biggest issues IT faces](https://www.cio.com/article/3245772/it-strategy/the-12-biggest-issues-it-faces-today.html/index.html.md)
-* [Survey: Compliance Drives IT Security](https://www.cio.com/article/2447696/compliance/survey--compliance-drives-it-security.html/index.html.md)
+* [12 biggest issues IT faces](https://www.cio.com/article/3245772/it-strategy/the-12-biggest-issues-it-faces-today.html)
+* [Survey: Compliance Drives IT Security](https://www.cio.com/article/2447696/compliance/survey--compliance-drives-it-security.html)
 * [Financial Services Regulatory Compliance](https://about.gitlab.com/solutions/financial-services-regulatory-compliance/index.html.md)
-* [Collaboration key to achieving business goals](https://www.cio.com/article/3170784/collaboration/collaboration-key-to-achieving-business-goals.html/index.html.md)
+* [Collaboration key to achieving business goals](https://www.cio.com/article/3170784/collaboration/collaboration-key-to-achieving-business-goals.html)
 
 ### IT Roles . (2018-10-10 and 10-17/index.html.md)
 
@@ -43,7 +43,7 @@ Who cares about what? Which personas need what, what pains do they have?
    1. VP Apps - meeting business demand for innovation, updates, and capability 
    1. VP Ops - keep the business running efficiently.  Uptime, recovery, ITIL
    1. VP DevOps? - new role. Most likely leading transformation.  Might be focused on release automation.
-   1. VP Shared Svcs - common services for IT (Project Mgt, Portfolio Mgt, Resource Mgt, perhaps QA, etc/index.html.md)
+   1. VP Shared Svcs - common services for IT (Project Mgt, Portfolio Mgt, Resource Mgt, perhaps QA, etc)
    1. VP PMO / EPMO - gathering and managing business projects/demand, execution, on-time, on budget
 1. **Directors**
    1. Service Mgt - Service Desk, Incident mgt, responding to outages, recovery
@@ -65,5 +65,5 @@ Who cares about what? Which personas need what, what pains do they have?
 
 **Pre-work:**  Read and review these articles:
 * [IT Job Roles](https://targetpostgrad.com/subjects/computer-science-and-it/it-job-roles-and-responsibilities-explained/index.html.md)
-* [IT OrgCharts and Roles](http://www.bmcsoftware.in/guides/itil-itsm-roles-responsibilities.html/index.html.md)
+* [IT OrgCharts and Roles](http://www.bmcsoftware.in/guides/itil-itsm-roles-responsibilities.html)
 * [CIO Role](https://www.thebalancecareers.com/business-or-it-what-s-the-main-job-of-a-cio-2071252/index.html.md)

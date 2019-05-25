@@ -20,7 +20,7 @@ authentication, access control, and subscriptions.
 * I have a question. Who do I ask?
 
 In GitLab issues, questions should start by @ mentioning the Product Manager for the [Manage product
-category](https://github.com/daijapan/test/tree/master/product/categories/#dev/index.html.md). GitLabbers can also use [#g_manage](https://gitlab.slack.com/messages/CBFCUM0RX/index.html.md).
+category](https://github.com/daijapan/test/tree/master/product/categories/#dev). GitLabbers can also use [#g_manage](https://gitlab.slack.com/messages/CBFCUM0RX).
 
 ### How we work
 
@@ -31,11 +31,11 @@ category](https://github.com/daijapan/test/tree/master/product/categories/#dev/i
 
 #### Planning
 
-We plan in monthly cycles in accordance with our [Product Development Timeline](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/workflow/#product-development-timeline/index.html.md). 
+We plan in monthly cycles in accordance with our [Product Development Timeline](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/workflow/#product-development-timeline). 
 Release scope for an upcoming release should be finalized by the `1st`.
 
 To scope the release, Product is responsible for maintaining a prioritized list of issues. We use
-[this prioritization board](https://gitlab.com/groups/gitlab-org/-/boards/759099?=&label_name[]=Manage&label_name[]=backend/index.html.md) 
+[this prioritization board](https://gitlab.com/groups/gitlab-org/-/boards/759099?=&label_name[]=Manage&label_name[]=backend) 
 as the SSOT. Issues are tagged with the "prioritized" label and stack-ranked in the respective column. We use the following timeline:
 
 * On or around the `24th`: Product meets with Engineering Managers for a preliminary issue review. Issues are tagged with a milestone.
@@ -47,20 +47,20 @@ as the SSOT. Issues are tagged with the "prioritized" label and stack-ranked in 
 Developers will start the release with assigned issues. If a developer has completed work on an issue, 
 they may open the [prioritization board](https://gitlab.com/groups/gitlab-org/-/boards/683524?scope=all&utf8=%E2%9C%93&state=opened&label_name[]=Manage&label_name[]=prioritized/index.html.md) 
 and begin working on the next prioritized issue. Issues should be worked on in priority order 
-(the "prioritized" column will always be sorted by descending priority; the issue at the top is most important/index.html.md).
+(the "prioritized" column will always be sorted by descending priority; the issue at the top is most important).
 
 #### Retrospectives
 
-After the `8th`, the Manage team conducts an [asynchronous retrospective](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/management/team-retrospectives/index.html.md). You can find current and past retrospectives for Manage in [https://gitlab.com/gl-retrospectives/manage/issues/](https://gitlab.com/gl-retrospectives/manage/issues/index.html.md).
+After the `8th`, the Manage team conducts an [asynchronous retrospective](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/management/team-retrospectives/index.html.md). You can find current and past retrospectives for Manage in [https://gitlab.com/gl-retrospectives/manage/issues/](https://gitlab.com/gl-retrospectives/manage/issues/).
 
 ### Links and resources
 {: #links}
 
 * Our Slack channel
-  * [#g_manage](https://gitlab.slack.com/messages/CBFCUM0RX/index.html.md)
+  * [#g_manage](https://gitlab.slack.com/messages/CBFCUM0RX)
 * Calendar
-  * GitLabbers can add [this Manage team calendar](https://calendar.google.com/calendar/b/1?cid=Z2l0bGFiLmNvbV9rOWYyN2lqamExaGoxNzZvbmNuMWU4cXF2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t/index.html.md) in Google Calendar.
+  * GitLabbers can add [this Manage team calendar](https://calendar.google.com/calendar/b/1?cid=Z2l0bGFiLmNvbV9rOWYyN2lqamExaGoxNzZvbmNuMWU4cXF2a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) in Google Calendar.
 * Meeting agendas
-  * Agendas and notes from team meetings can be found in [this Google Doc](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit/index.html.md). For transparency across the team, we use one agenda document.
+  * Agendas and notes from team meetings can be found in [this Google Doc](https://docs.google.com/document/d/1kE8udlwjAiMjZW4p1yARUPNmBgHYReK4Ks5xOJW6Tdw/edit). For transparency across the team, we use one agenda document.
 * Recorded meetings
-  * Recordings should be added to YouTube and added to [this playlist](https://www.youtube.com/playlist?list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m/index.html.md).
+  * Recordings should be added to YouTube and added to [this playlist](https://www.youtube.com/playlist?list=PLFGfElNsQthZ-D0khZ_NSb5Bdl2xkF97m).

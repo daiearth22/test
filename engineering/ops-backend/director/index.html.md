@@ -14,7 +14,7 @@ Hello, my name is Dalia Havens and I’m one of the directors of engineering her
 ## My Work Habits 
 The good, the bad and yes the ugly.
 
-I’ll start with the ugly to get it out of the way, I like to think I’m a recovering workaholic but the recovery part doesn’t seem to happen. I love my work and the specialty of engineering management. My work hours tend to be consistent during the day and have a hard stop when my 2 little ones are home. I sometimes go back to my laptop at night to do some focused work (like writing this readme/index.html.md). I need to do better about disconnecting during time off and after hours (I admit/index.html.md) so please don’t take cues that I expect anyone to work this way. I encourage you to give me feedback when you see me doing this.
+I’ll start with the ugly to get it out of the way, I like to think I’m a recovering workaholic but the recovery part doesn’t seem to happen. I love my work and the specialty of engineering management. My work hours tend to be consistent during the day and have a hard stop when my 2 little ones are home. I sometimes go back to my laptop at night to do some focused work (like writing this readme). I need to do better about disconnecting during time off and after hours (I admit) so please don’t take cues that I expect anyone to work this way. I encourage you to give me feedback when you see me doing this.
 
 ## My Management Style
 
@@ -38,19 +38,19 @@ I appreciate direct feedback, you don’t need to beat around the bush. You don�
 I may not be the best at giving feedback but I do try to make it timely and clear. I will be the first to admit that I have had to learn some hard lessons throughout my career, but like everything in life I recognize my shortcomings, I’m working on it, I’m growing and I will always try to start with heart.
 
 ## My Reading Stack
-- If you are new or taking on a new role I will usually recommend [The First 90 Days by Michael Watkins](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE/index.html.md). 
-- [The advantage by Patrick Lencioni](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529/ref=sr_1_1?ie=UTF8&qid=1537843853&sr=8-1&keywords=the+advantage+by+patrick+lencioni/index.html.md) is a quick but key read for any leadership team.
-- [Crucial conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?ie=UTF8&qid=1537843701&sr=8-1&keywords=crucial+conversation/index.html.md) is also another book I would recommend to everyone. I haven’t mastered it yet (or even come close/index.html.md).
-- [Leadership and self-deception](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1523097809/ref=dp_ob_title_bk/index.html.md) is good and fast read (there is a theme here if you haven’t noticed, I like easily consumable material/index.html.md).
+- If you are new or taking on a new role I will usually recommend [The First 90 Days by Michael Watkins](https://www.amazon.com/First-Days-Updated-Expanded-Strategies-ebook/dp/B00B6U63ZE). 
+- [The advantage by Patrick Lencioni](https://www.amazon.com/Advantage-Organizational-Health-Everything-Business/dp/0470941529/ref=sr_1_1?ie=UTF8&qid=1537843853&sr=8-1&keywords=the+advantage+by+patrick+lencioni) is a quick but key read for any leadership team.
+- [Crucial conversations](https://www.amazon.com/Crucial-Conversations-Talking-Stakes-Second/dp/0071771328/ref=sr_1_1?ie=UTF8&qid=1537843701&sr=8-1&keywords=crucial+conversation) is also another book I would recommend to everyone. I haven’t mastered it yet (or even come close).
+- [Leadership and self-deception](https://www.amazon.com/Leadership-Self-Deception-Getting-Out-Box/dp/1523097809/ref=dp_ob_title_bk) is good and fast read (there is a theme here if you haven’t noticed, I like easily consumable material).
 - I enjoy reading the articles curated by Oren Ellenbogen on Friday mornings, you can subscribe to the mailing list here softwareleadweekly.com. 
 - http://devopsweekly.com Is usually on my list for Sunday afternoon reading. I would love to see GitLab articles on this thread.
 
-## Just for fun, I’ll let you in on a little secret: [Acronyms and initialisms](https://www.youtube.com/watch?v=y_HscBWJhNQ/index.html.md)
+## Just for fun, I’ll let you in on a little secret: [Acronyms and initialisms](https://www.youtube.com/watch?v=y_HscBWJhNQ)
 Here’s the thing, maybe it’s because I had a long tenure at a big company with so many acronyms and some duplicates of other industry wide ones that conversations were difficult if you didn’t know what they were referring to. If you start talking to a new team or product line you’d find yourself lost again because you were now in a deep search for what these letters mean. It’s common I know but I much prefer the spell it out route, it’s clear, inclusive and less distracting. 
 
-So that’s my rant about acronyms and initialisms, I encourage you to avoid them but I also know that the world is full of them and even I sometimes will give in and comply (I’m not proud of this/index.html.md).
+So that’s my rant about acronyms and initialisms, I encourage you to avoid them but I also know that the world is full of them and even I sometimes will give in and comply (I’m not proud of this).
 
-Similar [rant](https://gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764/index.html.md)  on this topic (I knew I was not alone/index.html.md).
+Similar [rant](https://gist.github.com/klaaspieter/12cd68f54bb71a3940eae5cdd4ea1764/index.html.md)  on this topic (I knew I was not alone).
 
 
 ## Yoga and my short list of hobbies

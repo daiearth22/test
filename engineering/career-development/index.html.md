@@ -28,12 +28,12 @@ Most career opportunities involve stepping into a positive of informal or formal
 Team members who are (or want to be/index.html.md) on track for promotion should be engaged in
 a career coaching conversation with their manager. Some basic information about
 this process can be found in the [People Ops
-handbook](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/#career-mapping-and-development/index.html.md).
+handbook](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/#career-mapping-and-development).
 Specific coaching plan templates are listed here to help start the conversation:
 
 - [Senior
-  Engineer](https://docs.google.com/document/d/11xZpY2RuTldp1g6bHRFYKwwlQjNjYaPquLPo5uD6hrg/edit#/index.html.md)
-- (Others to come/index.html.md)
+  Engineer](https://docs.google.com/document/d/11xZpY2RuTldp1g6bHRFYKwwlQjNjYaPquLPo5uD6hrg/edit#)
+- (Others to come)
 
 We ultimately want to build these documents around a clearly articulated career
 matrix for Engineering, but for now they are based on the [job family
@@ -58,7 +58,7 @@ Once someone reaches a Senior-level role, and wants to progress, they will need 
 
 ### Trying the Management Track
 
-It's important that people interested in the management track have opportunities to try it out prior to committing themselves. Managers can provide multiple opportunities to Senior and Staff Developers who want to consider moving into an available or upcoming manager role. Examples include delivering an functional group update (FGU/index.html.md), acting as the hiring manager for an intern position, or running a series of demo meetings for an important deliverable. These occasions for trying out management functions are useful and can provide good coaching opportunities for the individual looking to move to management. Some developers may find through these experiences that they are better suited to remain on the technical path, and this gives them the ability to decide before investing a significant amount of time in the transition. 
+It's important that people interested in the management track have opportunities to try it out prior to committing themselves. Managers can provide multiple opportunities to Senior and Staff Developers who want to consider moving into an available or upcoming manager role. Examples include delivering an functional group update (FGU), acting as the hiring manager for an intern position, or running a series of demo meetings for an important deliverable. These occasions for trying out management functions are useful and can provide good coaching opportunities for the individual looking to move to management. Some developers may find through these experiences that they are better suited to remain on the technical path, and this gives them the ability to decide before investing a significant amount of time in the transition. 
 
 In order to facilitate this transition, we recommend any person moving from an
 Individual Contributor role to a Management role work with their manager to
@@ -66,7 +66,7 @@ create a focused transition plan. The goal is to provide a concentrated look
 into the responsibilities and challenges of management with the understanding
 that, if the role is not for them, they can return to the IC track. A good
 example of how to build such a plan can be found in [this
-article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/index.html.md).  Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6/index.html.md).
+article](http://firstround.com/review/this-90-day-plan-turns-engineers-into-remarkable-managers/index.html.md).  Another good resource for when you are ready for the critical career path conversation is [this 30 mins video](https://www.youtube.com/watch?reload=9&v=hMz6QDURQOM&list=PLBzScQzZ83I8H8_0Qete6Bs5EcW3p0kZF&index=6).
 
 
 ## Roles
@@ -214,14 +214,14 @@ that they gain these skills as efficiently as possible.
 
 ## Senior Developers
 
-Note that we have a specific section for [Senior Developer](https://github.com/daijapan/test/tree/master/engineering/developer/#senior-developer/index.html.md) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Developer.
+Note that we have a specific section for [Senior Developer](https://github.com/daijapan/test/tree/master/engineering/developer/#senior-developer) because it's an important step in the technical development for every engineer. But "Senior" can optionally be applied to any role here indicating superior performance. However, it's not required to pass through "senior" for roles other than Developer.
 
 Senior developers typically receive fewer trivial comments on their merge requests. Attention to detail is very important to us. They also receive fewer _major_ comments because they understand the application architecture and select from proven patterns. We also expect senior developers to come up with simpler solutions to complex problems. Managing complexity is key to their work.
 
 
 ## Promotion
 
-We strive to set the clearest possible expectations with regard to performance and [promotions](https://github.com/daijapan/test/tree/master/people-operations/promotions-transfers/index.html.md). Nevertheless, some aspects are qualitative. Examples of attributes that are hard to quantify are communication skills, mentorship ability, accountability, and positive contributions to company culture and the sense of psychological safety on teams. For these attributes we primarily rely on the experience of our managers and the [360 feedback](https://github.com/daijapan/test/tree/master/people-operations/360-feedback/index.html.md) process (especially peer reviews/index.html.md). It's our belief that while a manager provides feedback and opportunities for improvement or development, that it's actually the team that elevates individuals.
+We strive to set the clearest possible expectations with regard to performance and [promotions](https://github.com/daijapan/test/tree/master/people-operations/promotions-transfers/index.html.md). Nevertheless, some aspects are qualitative. Examples of attributes that are hard to quantify are communication skills, mentorship ability, accountability, and positive contributions to company culture and the sense of psychological safety on teams. For these attributes we primarily rely on the experience of our managers and the [360 feedback](https://github.com/daijapan/test/tree/master/people-operations/360-feedback/index.html.md) process (especially peer reviews). It's our belief that while a manager provides feedback and opportunities for improvement or development, that it's actually the team that elevates individuals.
 
 #### Transfer Options
 

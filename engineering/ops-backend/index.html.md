@@ -9,7 +9,7 @@ title: "Ops Backend Department"
 - TOC
 {:toc}
 
-[Dalia Havens](https://about.gitlab.com/team/#dhavens/index.html.md) is the Director for Ops Backend. Feel free to check out her [README](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/ops-backend/director/index.html.md).
+[Dalia Havens](https://about.gitlab.com/team/#dhavens) is the Director for Ops Backend. Feel free to check out her [README](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/engineering/ops-backend/director/index.html.md).
 ## Teams
 
 There are a number of teams within the Ops Backend group:

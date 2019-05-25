@@ -18,9 +18,9 @@ two primary release managers and two trainee release managers each release. We
 split them by timezone to ensure good coverage:
 
 1. One release manager and one trainee in the Americas
-2. One release manager and one trainee in Europe/Middle East/Africa (EMEA/index.html.md) or
-   Asia Pacific (APAC/index.html.md) (we can have one in EMEA and the other in APAC, or both
-   in the same region/index.html.md)
+2. One release manager and one trainee in Europe/Middle East/Africa (EMEA) or
+   Asia Pacific (APAC) (we can have one in EMEA and the other in APAC, or both
+   in the same region)
 
 ## Being a release manager
 
@@ -50,7 +50,7 @@ team is expected to contribute, however:
 
 Because we provide four release managers and trainees each month, each team
 should expect to provide a release manager once every `4 / (release manager
-candidates/index.html.md)` months.
+candidates)` months.
 
 ### Impacts on team capacity
 
@@ -58,10 +58,10 @@ Because we have a [feature freeze on the 7th] of each month, the month the
 release manager is working does not match the 'development month' with the same
 release number.
 
-* **Development month** runs from the 8th (kickoff/index.html.md) to the 7th (freeze/index.html.md).
-* **Release month** runs from the 1st (first release candidate/index.html.md) to the 7th of
-  the following month (expected last patch for that release/index.html.md). However, the
-  release month schedule is less demanding after the 22nd (release date/index.html.md).
+* **Development month** runs from the 8th (kickoff/index.html.md) to the 7th (freeze).
+* **Release month** runs from the 1st (first release candidate) to the 7th of
+  the following month (expected last patch for that release). However, the
+  release month schedule is less demanding after the 22nd (release date).
 
 So if a developer is a release manager for the 16.3 release, most of the time
 commitment will be during the 16.4 development month. For more information, see
@@ -71,7 +71,7 @@ guide to the time needed for someone working on the 16.3 release is:
 
 | Development month | Trainee commitment | Release manager commitment |
 | --- | --- | --- |
-| 16.3 | 50% (start work on 22nd/index.html.md) | 25% (start work on 1st/index.html.md) |
+| 16.3 | 50% (start work on 22nd) | 25% (start work on 1st) |
 | 16.4 | 95% | 95% |
 | 16.5 | 10% | 10% |
 

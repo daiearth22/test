@@ -91,13 +91,13 @@ title: "Business Operations"
 Overview of systems, workflows and processes for the three functional groups - [Sales](https://github.com/daijapan/test/tree/master/sales/index.html.md), [Marketing](https://github.com/daijapan/test/tree/master/marketing/index.html.md) and [Customer Success](https://github.com/daijapan/test/tree/master/customer-success/index.html.md) - that work closely together. This section is a singular reference point for operational management of the database and where the most up-to-date workflows, routing, rules and definition sets are managed.  Tracking all tools, license allocation, admins and contracts for the combined Go-To-Market tech stack. Tips, tricks and how to's for the various applications and external resources that will help user be more productive in the business systems.
 
 
-## Reaching the Teams (internally/index.html.md)
+## Reaching the Teams (internally)
 - **Public Issue Tracker**: A short list of the main, public issue trackers. For respective teams, there may be additional resources. Please use confidential issues for topics that should only be visible to team members at GitLab
-    - [Sales](https://gitlab.com/gitlab-com/sales/issues/index.html.md) - general sales related needs & issues
-    - [Salesforce](https://gitlab.com/gitlab-com/salesforce/issues/index.html.md) - Salesforce specific needs, issues and questions
-    - [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues/index.html.md) - All issues related to website, product, design, events, webcasts, lead routing, social media and community relations
-    - [Outreach-io](https://gitlab.com/gitlab-com/outreach/issues/index.html.md) - Outreach.io specific needs, issues and questions
-    - [Customer Success SA Service Desk](https://gitlab.com/gitlab-com/customer-success/sa-service-desk/issues/index.html.md) - your go to place for pre-sales, post-sales, customer training and professional services
+    - [Sales](https://gitlab.com/gitlab-com/sales/issues/) - general sales related needs & issues
+    - [Salesforce](https://gitlab.com/gitlab-com/salesforce/issues) - Salesforce specific needs, issues and questions
+    - [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues) - All issues related to website, product, design, events, webcasts, lead routing, social media and community relations
+    - [Outreach-io](https://gitlab.com/gitlab-com/outreach/issues) - Outreach.io specific needs, issues and questions
+    - [Customer Success SA Service Desk](https://gitlab.com/gitlab-com/customer-success/sa-service-desk/issues) - your go to place for pre-sales, post-sales, customer training and professional services
 - **Email**: Please use the "Email, Slack, and GitLab Groups and Aliases" document for the appropriate team alias.
 - **Slack**: A short list of the primary Slack channels used by these respective teams
     - `#sales`
@@ -118,12 +118,12 @@ Overview of systems, workflows and processes for the three functional groups - [
     <th class="tg-k6pi">Applications & Tools</th>
     <th class="tg-031e">Who Should Have Access</th>
     <th class="tg-yw4l">Whom to Contact w/Questions</th>
-    <th class="tg-yw4l">Admin(s/index.html.md)</th>
+    <th class="tg-yw4l">Admin(s)</th>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#avalara">Avalara</a></strong></td>
     <td>Finance Team</td>
-    <td><strong>Wilson Lau (primary/index.html.md)</strong><br>Art Nasser</td>
+    <td><strong>Wilson Lau (primary)</strong><br>Art Nasser</td>
     <td>Wilson Lau<br>Art Nasser</td>
   </tr>
    <tr>
@@ -133,7 +133,7 @@ Overview of systems, workflows and processes for the three functional groups - [
     <td>JJ Cordz</td>
   </tr>
    <tr>
-    <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#by-appointment-only-bao">By Appointment Only (BAO/index.html.md)</a></strong></td>
+    <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#by-appointment-only-bao">By Appointment Only (BAO)</a></strong></td>
     <td>Online Marketing<br>SDR Team Lead</td>
     <td><strong>Jeffrey Broussard</strong></td>
     <td>Jeffrey Broussard<br>JJ Cordz</td>
@@ -147,7 +147,7 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#clearbit">Clearbit</a></strong></td>
     <td>Account Executives<br>Account Managers<br>Outbound SDR<br>Inbound BDR</td>
-    <td><strong>JJ Cordz (primary/index.html.md)</strong><br>Francis Aquino</td>
+    <td><strong>JJ Cordz (primary)</strong><br>Francis Aquino</td>
     <td>JJ Cordz<br>Francis Aquino</td>
   </tr>
   <tr>
@@ -195,7 +195,7 @@ Overview of systems, workflows and processes for the three functional groups - [
    <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#expensify">Expensify</a></strong></td>
     <td>Access via GitLab credentials</td>
-    <td><strong>Wilson Lau (primary/index.html.md)</strong><br>Art Nasser</td>
+    <td><strong>Wilson Lau (primary)</strong><br>Art Nasser</td>
     <td>Wilson Lau<br>Art Nasser</td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#leandata">LeanData</a></strong></td>
     <td>Marketing OPS<br>Sales OPS</td>
-    <td><strong>JJ Cordz (primary/index.html.md)</strong><br>Francis Aquino</td>
+    <td><strong>JJ Cordz (primary)</strong><br>Francis Aquino</td>
     <td>JJ Cordz<br>Francis Aquino</td>
   </tr>
   <tr>
@@ -261,13 +261,13 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#moz-pro">Moz Pro</a></strong></td>
     <td>Online Marketing<br>Marketing OPS</td>
-    <td><strong>LJ Banks</strong><br>JJ Cordz (for access/index.html.md)</td>
+    <td><strong>LJ Banks</strong><br>JJ Cordz (for access)</td>
     <td>JJ Cordz</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#netsuite">NetSuite</a></strong></td>
     <td>Finance Team</td>
-    <td><strong>Art Nasser (primary/index.html.md)</strong><br>Wilson Lau</td>
+    <td><strong>Art Nasser (primary)</strong><br>Wilson Lau</td>
     <td>Art Nasser<br>Wilson Lau</td>
   </tr>
   <tr>
@@ -279,13 +279,13 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#outreachio">Outreach.io</a></strong></td>
     <td>Account Executives<br>Account Managers<br>Outbound SDR<br>Inbound BDR</td>
-    <td><strong>JJ Cordz (primary/index.html.md)</strong><br>Francis Aquino</td>
+    <td><strong>JJ Cordz (primary)</strong><br>Francis Aquino</td>
     <td>JJ Cordz<br>Francis Aquino<br>Michael Snow</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#OwnBackup">OwnBackup</a></strong></td>
     <td>Business Operations</td>
-    <td><strong>Michael Snow (primary/index.html.md)</strong><br>Francis Aquino (secondary/index.html.md)</td>
+    <td><strong>Michael Snow (primary)</strong><br>Francis Aquino (secondary)</td>
     <td>Michael Snow</td>
   </tr>
   <tr>
@@ -297,7 +297,7 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#salesforce">Salesforce</a></strong></td>
     <td>Sales Leadership<br>Account Executives<br>Account Managers<br>Outbound SDR<br>Inbound BDR<br>Solutions Architects<br>Marketing OPS<br>Product Marketing<br>Marketing Programs</td>
-    <td>Not related to quotes or lead routing: <strong>Francis Aquino (primary/index.html.md)</strong><br>Michael Snow<br><br>Lead Routing/Scoring/Source: <strong>JJ Cordz</strong></td>
+    <td>Not related to quotes or lead routing: <strong>Francis Aquino (primary)</strong><br>Michael Snow<br><br>Lead Routing/Scoring/Source: <strong>JJ Cordz</strong></td>
     <td>Francis Aquino<br>JJ Cordz<br>Michael Snow</td>
   </tr>
   <tr>
@@ -313,7 +313,7 @@ Overview of systems, workflows and processes for the three functional groups - [
     <td>Francis Aquino</td>
   </tr>
     <tr>
-    <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#snowflake">Snowflake (Data Warehouse/index.html.md)</a></strong></td>
+    <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#snowflake">Snowflake (Data Warehouse)</a></strong></td>
     <td>Data and Analytics Team<br>Meltano Team</td>
     <td><strong>Taylor Murphy</strong><br>Thomas La Piana</td>
     <td>Taylor Murphy</td>
@@ -348,7 +348,7 @@ Overview of systems, workflows and processes for the three functional groups - [
   </tr>
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#xactly">Xactly</a></strong></td>
-    <td>Sales Leadership<br>Finance Team</td><td><strong>Francis Aquino (primary/index.html.md)</strong><br>Wilson Lau</td>
+    <td>Sales Leadership<br>Finance Team</td><td><strong>Francis Aquino (primary)</strong><br>Wilson Lau</td>
     <td>Francis Aquino<br>Wilson Lau</td>
   </tr>
   <tr>
@@ -372,7 +372,7 @@ Overview of systems, workflows and processes for the three functional groups - [
   <tr>
     <td><strong><a href="https://github.com/daijapan/test/tree/master/business-ops/tech-stack/#zuora">Zuora</a></strong></td>
     <td>Access via Salesforce</td>
-    <td><strong>Wilson Lau (primary/index.html.md)</strong><br>Francis Aquino (secondary/index.html.md)</td>
+    <td><strong>Wilson Lau (primary)</strong><br>Francis Aquino (secondary)</td>
     <td>Francis Aquino</td>
   </tr>
 </table>
@@ -397,9 +397,9 @@ Also see "Operations License Tracking & Contract Details" which can be found on 
 | High-Intent | an event, webcast, demo that is a strong indicator of purchase or evaluation |
 | Inquiry | an Inbound request or response to an outbound marketing effort |
 | IQM | Initial Qualifying Meeting |
-| MQL | Marketo Qualified Lead - an inquiry that has been qualified through systematic means (e.g. through demographic/firmographic/behavior lead scoring/index.html.md) |
+| MQL | Marketo Qualified Lead - an inquiry that has been qualified through systematic means (e.g. through demographic/firmographic/behavior lead scoring) |
 | NCSA | North, Central, South America |
-| Qualified Lead | A lead a Sales Development Representative or Business Development Representative has qualified, converted to an opportunity and assigned to a Sales Representative (Stage `0-Pending Acceptance`/index.html.md) |
+| Qualified Lead | A lead a Sales Development Representative or Business Development Representative has qualified, converted to an opportunity and assigned to a Sales Representative (Stage `0-Pending Acceptance`) |
 | RD | Regional Director |
 | Sales Admin | Sales Administrator |
 | Sales Serve | A sales method where a quota bearing member of the sales team closes the deal |
@@ -407,7 +407,7 @@ Also see "Operations License Tracking & Contract Details" which can be found on 
 | SDR | Sales Development Representative |
 | Self Serve | A sales method where a customer purchases online through our web store |
 | SLA | Service Level Agreement |
-| SCLAU | Abbreviation for SAO (Sales Accepted Opportunity/index.html.md) Count Large and Up |
+| SCLAU | Abbreviation for SAO (Sales Accepted Opportunity) Count Large and Up |
 | SQO | Sales Qualified Opportunity |
 | TEDD | Technology, Engineering, Development and Design - used to estimate the maximum potential users of GitLab at a company |
 | Won Opportunity | Contract signed to Purchase GitLab |
@@ -416,7 +416,7 @@ Also see "Operations License Tracking & Contract Details" which can be found on 
 
 ## Customer Lifecycle
 
-A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams. Each subsequent milestone is a subset of the previous milestone, and represents a progression from not knowing GitLab to being a customer (and fan/index.html.md) of GitLab.
+A customer lifecycle is a term used to track the different milestones prospective customers go through as they learn about GitLab and interact with our sales and marketing teams. Each subsequent milestone is a subset of the previous milestone, and represents a progression from not knowing GitLab to being a customer (and fan) of GitLab.
 
 At the highest level of abstraction, we use the terms `lead` `opportunity` and `customer` to represent a person's progression towards becoming a customer of GitLab. Those three terms also correspond to record types in salesforce.com
 
@@ -445,15 +445,15 @@ When going from Qualifying to Qualified Lead the lead is duplicated to an opport
 [Sales Accepted Opportunity]: #criteria-for-sales-accepted-opportunity-sao
 
 ## SAL Sales Capacity
-The following calcuation is used to measure/plan for sales capacity.  This is a calculation only and should be used to set goals and plan.  Sales capacity is an individual metric that is based on several factors (lead source, tenure of salesperson, competitive landscape, geographic location, rep productivity/index.html.md) not included in the formula below:
+The following calcuation is used to measure/plan for sales capacity.  This is a calculation only and should be used to set goals and plan.  Sales capacity is an individual metric that is based on several factors (lead source, tenure of salesperson, competitive landscape, geographic location, rep productivity) not included in the formula below:
 
 * Days to close - 180 days
 * Months to close - 6 months
 * Win rate - 33%
-* Months to lose - 3 months (half of months to close, expecting constant fallout/index.html.md)
-* Months on average - 4 (33.3% times 6 and 66.7% of 3/index.html.md)
-* Capacity Goal (active opportunities in [Stage 1-6](#customer-lifecycle/index.html.md)/index.html.md) - 40 opportunities
-* [SCLAU](#glossary/index.html.md) per month - 10 (40 opportunities / 4 months/index.html.md)
+* Months to lose - 3 months (half of months to close, expecting constant fallout)
+* Months on average - 4 (33.3% times 6 and 66.7% of 3)
+* Capacity Goal (active opportunities in [Stage 1-6](#customer-lifecycle/index.html.md)) - 40 opportunities
+* [SCLAU](#glossary/index.html.md) per month - 10 (40 opportunities / 4 months)
 
 
 ## How tos & Setup  
@@ -474,7 +474,7 @@ Webcasts are an excellent tool used by Sales, Marketing and Customer Success to 
 #### Best Practices
 
 1. Give yourself **at least** 30 days of promotion.
-2. Send invitation emails 3 weeks out, 2 weeks out, 1 week out, and 2 hours before event. [Sample emails can be found here](https://docs.google.com/document/d/1_Vw-KgOJp-qHQJWP5uir99tAfPqy3VL9hFEmvnQLfeA/edit#/index.html.md).
+2. Send invitation emails 3 weeks out, 2 weeks out, 1 week out, and 2 hours before event. [Sample emails can be found here](https://docs.google.com/document/d/1_Vw-KgOJp-qHQJWP5uir99tAfPqy3VL9hFEmvnQLfeA/edit#).
 3. Only send promotional emails Tuesday, Wednesday, or Thursday for optimal results.
 4. Send reminder emails to registrants 1 week out, day before, and one hour before the event.
 5. Host webcasts on a Wednesday or Thursday.
@@ -537,7 +537,7 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
 1. Create webcast in Zoom
    - Log in to Zoom, and select the webcast from the `Webinars` tab
    - Add webcast project manager as altnerative host and add webcast speakers as panelists
-   - Add polling questions to the webcast (if applicable/index.html.md)
+   - Add polling questions to the webcast (if applicable)
 
 **Adding alt-host and panelist to a webcast**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4YvV8AoyqXc?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -559,7 +559,7 @@ Try to get a good sleep the night before, and, if the presentation is in the mor
       - Webinar Topic
       - Q&A
       - Poll
-4. Edit the landing page to have the appropriate webcast description, date, time. Click on `branding` and update the header (optional/index.html.md)
+4. Edit the landing page to have the appropriate webcast description, date, time. Click on `branding` and update the header (optional)
 
 **Hosting the webinar**
 
@@ -567,11 +567,11 @@ Will add instructions on how to start the webcast in zoom, promote panelists, po
 
 ### Requesting an Email
 
-To request an email, create an issue in [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues/index.html.md), using the `Email-Request-mpm.md` issue template. Please be as complete as possible in providing detail related to the email, goal, target audience and any other pertinant details.  
+To request an email, create an issue in [Marketing](https://gitlab.com/gitlab-com/marketing/general/issues), using the `Email-Request-mpm.md` issue template. Please be as complete as possible in providing detail related to the email, goal, target audience and any other pertinant details.  
 
-Email requests should be submitted **no less than** 48 hours before intended send date so the new request can be added into the responsible Markting Program Manager's (MPM/index.html.md) workflow. The responsible MPM will be determined by type of email requested, [see division of duties](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-programs/#responsibilities/index.html.md).   
+Email requests should be submitted **no less than** 48 hours before intended send date so the new request can be added into the responsible Markting Program Manager's (MPM) workflow. The responsible MPM will be determined by type of email requested, [see division of duties](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-programs/#responsibilities).   
 
-All email sends, stand-alone or part of an event, require their own SFDC campaign that is synced to the Marketo program. This is the way we track engagement of the email in a clear and transparent way. Then combine that information with the event (if there is one/index.html.md).    
+All email sends, stand-alone or part of an event, require their own SFDC campaign that is synced to the Marketo program. This is the way we track engagement of the email in a clear and transparent way. Then combine that information with the event (if there is one).    
 
 By default **all** email tests will be sent to `content@`, if you would like additional people to receive a test email *prior* to sending it out, please specify that in the request template. :
 - **Sender Name**: Typically we use GitLab Team for most outgoing communications; for Security Alerts we use GitLab Security. Choosing a name that is consistent with the type and/or content of email being sent is important, if unsure make a note and we will make recommendation  
@@ -579,7 +579,7 @@ By default **all** email tests will be sent to `content@`, if you would like add
 - **Subject Line**: 50 character max is preferred
 - **Email Body Copy**: Can be a text snippet within issue, clearly identified comment on issue or attach a Google doc with copy
 - **Target Date to Send Email**: at a minimum a few days notice is preferred because we need to balancing the number of emails being sent to our database so they are not perceived (or marked/index.html.md) as spam; however, a simple email can be turned in a few hours if absolutely necessary
-- **Recipient List**: Emails can be sent to one of the [existing segments](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-operations//#email-segments/index.html.md) or a recipient list can be provided as a .csv file
+- **Recipient List**: Emails can be sent to one of the [existing segments](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-operations//#email-segments) or a recipient list can be provided as a .csv file
 
 
 
@@ -631,7 +631,7 @@ The MQL scoring model below is correct as of 30 September 2018. Additional chang
 
 ##### Negative Point Values
   * -5 pts
-     * Email is @ â€œgmail, hotmail, yahoo, aolâ€ (or other free-domained email/index.html.md)
+     * Email is @ â€œgmail, hotmail, yahoo, aolâ€ (or other free-domained email)
   * -10 pts
      * Title is â€œblank, numerical, developer, engineerâ€
   * -25 pts
@@ -645,17 +645,17 @@ The MQL scoring model below is correct as of 30 September 2018. Additional chang
 Sales Segmentation is being modified to be based on `Total Employee` count. More details coming in Q4'18.
 
 #### Region/Vertical
-**Asia Pacific ([APAC](https://docs.google.com/document/d/1Ar0Y49XF0pnvWjhr5-jr0MNKdxfRY2FkS4x9y7KCZw8/edit#/index.html.md)/index.html.md)**: Regional Director - Michael Alessio      
-**Europe, Middle East and Africa ([EMEA](http://genesisworld.com/assets/uploads/2014/11/map_EMEA.jpg/index.html.md)/index.html.md)**: Regional Director - Richard Pidgeon      
-**Latin America (LATAM/index.html.md)**: Channel Sales Manager - Jim Torres      
+**Asia Pacific ([APAC](https://docs.google.com/document/d/1Ar0Y49XF0pnvWjhr5-jr0MNKdxfRY2FkS4x9y7KCZw8/edit#))**: Regional Director - Michael Alessio      
+**Europe, Middle East and Africa ([EMEA](http://genesisworld.com/assets/uploads/2014/11/map_EMEA.jpg))**: Regional Director - Richard Pidgeon      
+**Latin America (LATAM)**: Channel Sales Manager - Jim Torres      
 **North America - [US East](https://dev.gitlab.org/gitlab/salesforce/issues/118/index.html.md)**: Regional Director - Mark Rogge      
 **North America - [US West](https://dev.gitlab.org/gitlab/salesforce/issues/118/index.html.md)**: Regional Director - Haydn Mackay      
 **Public Sector**: Director of Federal Sales - Paul Almeida       
 
-In Marketo we have modified the country values to match Salesforce to allow for seamless syncronization between the two systems. When creating new forms in Marketo, you can use the "Master Country List" (viewable on the Google Drive/index.html.md), copying column A into the form builder.
+In Marketo we have modified the country values to match Salesforce to allow for seamless syncronization between the two systems. When creating new forms in Marketo, you can use the "Master Country List" (viewable on the Google Drive), copying column A into the form builder.
 
 ### Initial Source
-`Initial Source` is first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update both the `Initial Source` and `Lead Source` fields. If merging records, keep the `Initial Source` that is oldest (or set first/index.html.md). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the #Lead-Questions Slack channel.
+`Initial Source` is first "known" touch attribution or when a website visitor becomes a known name in our database, once set it should never be changed or overwritten. For this reason Salesforce is set up so that you are unable to update both the `Initial Source` and `Lead Source` fields. If merging records, keep the `Initial Source` that is oldest (or set first). When creating Lead/Contact records and you are unsure what `Initial Source` should be used, ask in the #Lead-Questions Slack channel.
 
 ### Lead & Contact Statuses
 The Lead & Contact objects in Salesforce have unified statuses with the following definitions. If you have questions about current status, please ask in #lead-questions channel on Slack.
@@ -667,35 +667,35 @@ The Lead & Contact objects in Salesforce have unified statuses with the followin
 | MQL | Marketo Qualified through systematic means |
 | Accepted | Actively working to get in touch with the lead/contact |
 | Qualifying | In 2-way conversation with lead/contact |
-| Qualified | Progressing to next step of sales funnel (typically OPP created & hand off to Sales team/index.html.md) |
+| Qualified | Progressing to next step of sales funnel (typically OPP created & hand off to Sales team) |
 | Unqualified | Contact information is not now or ever valid in future; Spam form fill-out |
 | Nurture | Record is not ready for our services or buying conversation now, possibly later |
 | Bad Data | Incorrect data - to potentially be researched to find correct data to contact by other means |
 | Web Portal Purchase | Used when lead/contact completed a purchase through self-serve channel & duplicate record exists |
 
 ### Lead Routing
-The lead routing rules are determined by the incoming source (`Trial`, `Contact Us`, etc/index.html.md) and factors related to `Sales Segmentation` and `Region`.
+The lead routing rules are determined by the incoming source (`Trial`, `Contact Us`, etc) and factors related to `Sales Segmentation` and `Region`.
 
 #### Contact Us Requests
-All `Contact Us` requests must be followed up within **one (1/index.html.md) business day** Service Level Agreement (SLA/index.html.md) and follow up must be tracked as an activity on the record within Salesforce.
+All `Contact Us` requests must be followed up within **one (1) business day** Service Level Agreement (SLA) and follow up must be tracked as an activity on the record within Salesforce.
 
 `Strategic`, `Large` and `Mid-Market` Segments: Routed to BDR for qualification
 - The BDR team is responsible to ensure communication happens internally and externally within the SLA timeframe.
-- Strategic Account Leaders (SAL/index.html.md) will receive an automated notification when an inbound LEAD in a `Strategic` account makes an inquiry.
+- Strategic Account Leaders (SAL) will receive an automated notification when an inbound LEAD in a `Strategic` account makes an inquiry.
 
-`SMB` Segment: Routed to the Customer Advocate team based on `Region` (EMEA, NCSA or APAC/index.html.md)
+`SMB` Segment: Routed to the Customer Advocate team based on `Region` (EMEA, NCSA or APAC)
 `Unknown` Segment: Routed to the BDR team for prequalification and segment assignment.
 
 U.S. Public Sector: Routed to the U.S. Public Sector SDR and Inside Sales team.
-- [GitLab Public Sector Rules of Engagement](https://gitlab.comhttps://github.com/daijapan/test/tree/master/sales/public-sector/engaging-public-sector.html/index.html.md)
+- [GitLab Public Sector Rules of Engagement](https://gitlab.comhttps://github.com/daijapan/test/tree/master/sales/public-sector/engaging-public-sector.html)
 
 #### Professional Service Requests    
-All `Professional Service Requests` must be treated like a [`Contact Us` request](#contact-us-requests/index.html.md) and followed up within **one (1/index.html.md) business day** Service Level Agreement (SLA/index.html.md). Follow up must be tracked as an activity on the record within SFDC.   
+All `Professional Service Requests` must be treated like a [`Contact Us` request](#contact-us-requests) and followed up within **one (1) business day** Service Level Agreement (SLA). Follow up must be tracked as an activity on the record within SFDC.   
 
-Requests submitted through the professional services page will be routed following `Global Account Ownership` rules. Notification of form submission will be sent to the Strategic Account Leader (SAL/index.html.md) and Sales Development Representative (SDR/index.html.md) as well as Customer Success manager. Initial response to form submission is the responsibility of the Account Owner (i.e. SAL/index.html.md).     
+Requests submitted through the professional services page will be routed following `Global Account Ownership` rules. Notification of form submission will be sent to the Strategic Account Leader (SAL) and Sales Development Representative (SDR) as well as Customer Success manager. Initial response to form submission is the responsibility of the Account Owner (i.e. SAL).     
 
 #### Trial Requests
-Trials can be requested through [web form](/free-trial/index.html.md) or within product UI for both self-hosted Enterprise or SaaS. Default trial length is thirty (30/index.html.md) days. Trial leads are routed to the BDR team based on `Region`, regardless of sales segment.
+Trials can be requested through [web form](/free-trial/) or within product UI for both self-hosted Enterprise or SaaS. Default trial length is thirty (30/index.html.md) days. Trial leads are routed to the BDR team based on `Region`, regardless of sales segment.
 Regional distribution of Trial leads are:
    - APAC: US/APAC BDR Round Robin
    - EMEA: EMEA BDR Round Robin
@@ -706,11 +706,11 @@ Regional distribution of Trial leads are:
 **Leads that come in for Accounts that have Existing Opportunities**
 - BDR to verify if related to the existing `Opportunity`:
      - If **YES**: BDR will convert the LEAD record to a CONTACT and relate it to the existing `Opportunity` record in SFDC.
-     - If **NO** (i.e. New `Opportunity` with New Owner/index.html.md): BDR will create a new `Opportunity` and assign to the appropriate Account Owner.
+     - If **NO** (i.e. New `Opportunity` with New Owner): BDR will create a new `Opportunity` and assign to the appropriate Account Owner.
 - In either case, the BDR will notify all Account Owners to maintain open and transparent communication between all parties.
 
 **Someone submits a `Contact Us` inquiry requesting a direct quote or shows buyer readiness**
-- BDR to convert the LEAD to a CONTACT and create an `Opportunity` and immediately assign the opportunity to the Account Owner/SAL. The BDR will send an intro email to the SAL and LEAD/CONTACT. No Initial Qualifying Meeting (IQM/index.html.md) will be scheduled by the BDR.
+- BDR to convert the LEAD to a CONTACT and create an `Opportunity` and immediately assign the opportunity to the Account Owner/SAL. The BDR will send an intro email to the SAL and LEAD/CONTACT. No Initial Qualifying Meeting (IQM) will be scheduled by the BDR.
 - In the event `Opportunity` routing or ownership is not clear, BDR team will perform initial research/outreach to confirm appropriate affiliation and routing.
 
 **Someone submits a `Contact Us` inquiry requesting a third-party quote request**
@@ -718,17 +718,17 @@ Regional distribution of Trial leads are:
 
 
 ### Record Ownership
-Contacts on accounts owned by a member of the Field Sales Team (RD/AE/AM/SAL/index.html.md), will be owned by the named Account Owner (i.e both the Account and Contact ownership will match/index.html.md). When an SDR is assigned to an Account to support and assist with outreach, the SDR will be added to the `GitLab Team` on the Account object within SFDC, which then populates down to the related Contact records.
+Contacts on accounts owned by a member of the Field Sales Team (RD/AE/AM/SAL), will be owned by the named Account Owner (i.e both the Account and Contact ownership will match). When an SDR is assigned to an Account to support and assist with outreach, the SDR will be added to the `GitLab Team` on the Account object within SFDC, which then populates down to the related Contact records.
 
 Records, both `Lead` and `Contact`, need to be synced to Outreach to ensure email activity is properly mapped back to `Activity History` in SFDC. The owner of the record in SFDC **does not** need to match the owner in Outreach.  
 
 
 #### Record Creation in Salesforce   
-ACCOUNT/CONTACT records in Salesforce are created in a number of ways - [list imports](#list-imports/index.html.md), field event booth scans, research, networking, webcasts, content downloads. Ideally all ACCOUNTS exist in Salesforce and team members are only creating CONTACT records; however, if a connection is made at an event and follow up needs to be done *prior* to official event list upload occurs team members should do the following:   
+ACCOUNT/CONTACT records in Salesforce are created in a number of ways - [list imports](#list-imports), field event booth scans, research, networking, webcasts, content downloads. Ideally all ACCOUNTS exist in Salesforce and team members are only creating CONTACT records; however, if a connection is made at an event and follow up needs to be done *prior* to official event list upload occurs team members should do the following:   
    - Search Salesforce to be sure ACCOUNT does not already exist **AND** search using the person's email address to ensure duplicate record is not created 
    - Record **does not** exist:
         - Create `Standard` ACCOUNT type - required fields are `Account Name` & `Account Type` 
-        - Create `Standard` CONTACT type - required fields are `Last Name`, `Account Name` (use lookup tool to find ACCOUNT just created/index.html.md) & `Initial Source` (i.e. where is this name coming from `Conference` = Field Event, `SDR Generated` or `AE Generated` = regular networking event, etc/index.html.md)   
+        - Create `Standard` CONTACT type - required fields are `Last Name`, `Account Name` (use lookup tool to find ACCOUNT just created/index.html.md) & `Initial Source` (i.e. where is this name coming from `Conference` = Field Event, `SDR Generated` or `AE Generated` = regular networking event, etc)   
         - Be accurate where the name is collect from, `Unknown` is **not** acceptable. 
         - The `Initial Source` on a CONTACT record *does not* equal `Source` on an opportunity. Refer to [`Initial Source`](#initial-source/index.html.md) for guidance on why this is important.    
    - Record **does** exist: 
@@ -751,13 +751,13 @@ You may obtain a list from an external source. If you would like the list upload
    - If you are not the owner of the records, you must provide a column that includes the Owner for each record. You will be the owner for any row where owner is NULL.
 
 Once the initial data cleanup is complete, you will send the file to Sales and Marketing Operations. You must include the following details on your email:
-   - Source of the list (trade show, external database, etc/index.html.md)
+   - Source of the list (trade show, external database, etc)
    - Desired Campaign Name
    - Any marketing opt-outs.
 
-File will be reviewed and may be returned if it does not meet the initial data cleanup requirements, or may have other issues not mentioned above. Once the file is accepted, please allow for a five (5/index.html.md) day turnaround time.
+File will be reviewed and may be returned if it does not meet the initial data cleanup requirements, or may have other issues not mentioned above. Once the file is accepted, please allow for a five (5) day turnaround time.
 
-**Video:** [How to upload/import a list to SFDC from Discoverorg](https://drive.google.com/file/d/1saQqwLuVpy50LfIH0tkXY_dUt4Rybxth/view?usp=sharing/index.html.md)
+**Video:** [How to upload/import a list to SFDC from Discoverorg](https://drive.google.com/file/d/1saQqwLuVpy50LfIH0tkXY_dUt4Rybxth/view?usp=sharing)
 
 #### Rules of Engagement
 
@@ -777,7 +777,7 @@ If someone has shown interest in educational topics like high level webcast, whi
 
 LEAD/CONTACT Records with the `Initial Source` of `GitLab.com` are **not** to be engaged, prospected or targeted unless they have taken a handraising 'active' activity, as defined below.
 
-For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-operations/index.html#email-communication-policy/index.html.md).
+For information about GitLab's email policy and the types and number of emails we send, please see our [Email Communication Policy](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/marketing-operations/index.html#email-communication-policy).
 
 #### Active vs. Passive
 
@@ -787,12 +787,12 @@ A LEAD or CONTACT is considered 'Active' if they have taken an `Trial - Enterpri
 
 ## Opportunities
 
-### Criteria for Sales Accepted Opportunity (SAO/index.html.md)
+### Criteria for Sales Accepted Opportunity (SAO)
 
 The following criteria are **required** for all SAOs:
 
 * Confirmation of right person/right profile - the prospect you are speaking with is involved in any project or team related to the potential purchase of GitLab, either as an evaluator, decision maker, technical buyer, or influencer and is interested in hearing more about GitLab.
-* Confirmation of the business problem(s/index.html.md) the prospect has?  Why they are looking at GitLab?
+* Confirmation of the business problem(s) the prospect has?  Why they are looking at GitLab?
 * You do not need full BANT to deem an opportunity as sales accepted and to move it to stage 1-Discovery. All that stage 1-Discovery means is that you are in the process of prospect discovery: you are qualifying the opportunity.
 
 * During the BDR/SDR qualification, several data points may be captured, but are **not required** for an SAO:
@@ -802,11 +802,11 @@ The following criteria are **required** for all SAOs:
   * Solutions to be replaced- from the list of tools that are in place, which of those solutions are up for replacement.
   * Competition- a list of solutions that we will compete with.
 
-Once the opportunity is created, it should be set to "0-Pending Acceptance" stage. Please see the [Opportunity Stage](#opportunity-stages/index.html.md) for stage definitions and activities.
+Once the opportunity is created, it should be set to "0-Pending Acceptance" stage. Please see the [Opportunity Stage](#opportunity-stages) for stage definitions and activities.
 
 ### Opportunity Stages
 
-To help move sales through the sales process, [here](https://docs.google.com/document/d/1ag7YY9aJ93j0CRZb-DrbfgH3vmHprTEdjG7l3O57xEk/edit/index.html.md) is a list of questions to ask at each stage
+To help move sales through the sales process, [here](https://docs.google.com/document/d/1ag7YY9aJ93j0CRZb-DrbfgH3vmHprTEdjG7l3O57xEk/edit) is a list of questions to ask at each stage
 
 **00-Pre Opportunity**- This stage should be used when an opportunity does not meet our opportunity criteria. However, there is a potential for business, and it should be tracked for possible business.
 * What to Complete in This Stage:
@@ -814,57 +814,57 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
   * If there is no opportunity then the stage would be updated to 0-Unqualified.
 * Creating an Opportunity in this stage from Contacts
   * If you are qualifying a contact for a new business opportuity open an opportunity in this stage and use the qualifications questions in the qualifictation section on the opportunity while qualifying the contacts.
-  * "Convert" Opportnities from this stage to **0-Pending Acceptance** when the opportunity meets [our criteria for an opportunity](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/sdr/#when-to-create-an-opportunity/index.html.md)
-  * Follow [our process](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/sdr/#creating-an-opportunity-from-the-contact-record/index.html.md) on creating opportunities from a contact record.
+  * "Convert" Opportnities from this stage to **0-Pending Acceptance** when the opportunity meets [our criteria for an opportunity](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/sdr/#when-to-create-an-opportunity)
+  * Follow [our process](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/sdr/#creating-an-opportunity-from-the-contact-record) on creating opportunities from a contact record.
 
 **0-Pending Acceptance**: This is the initial stage once an opportunity is created.
 * What to Complete in This Stage:
-  * For BDR or SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](#criteria-for-sales-accepted-opportunity-sao/index.html.md).
+  * For BDR or SDR sourced opportunities, the opportunity meets [Sales Accepted Opportunity criteria](#criteria-for-sales-accepted-opportunity-sao).
   * The BDR or SDR has scheduled a call via Google Calendar, sent invites, created an event on the account object, named the event: Gitlab Introductory Meeting - {{Account Name}}
   * Once it is confirmed that the opportunity meets our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to the next stage. The date the opportunity moves from this to the next stage in the sales cycle will populate the `Sales Accepted Date` field on the opportunity record.
-  * If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `8-Unqualified` stage (this is the only time an opportunity can move into `8-Unqualified` stage/index.html.md).
+  * If the details on the opportunity do not meet our Sales Accepted Opportunity criteria, the SAL or AE should move the opportunity to an `8-Unqualified` stage (this is the only time an opportunity can move into `8-Unqualified` stage).
   * All Opps that are sales assisted must first enter this stage before they can be moved further in the pipeline. If they do not enter this stage at some point you will encounter a validation rule error.
 
 **1-Discovery**: Uncover as much intelligence about the project as you can, which will be confirmed at later stages throughout the sales cycle.
 * What to Complete in This Stage:
-  * Begin filling out [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification/index.html.md)
-  * Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit/index.html.md)
+  * Begin filling out [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification)
+  * Send Plan Letter/Recap Email to Attendees- [Example](https://docs.google.com/document/d/16Gurj_MVREmKoqXTdB1F0OQ3eyq1gzbTNU8LNHHuoEM/edit)
   * Scheduled Scoping Call
-  * Should the opportunity progress from `1-Discovery` to the next stage (not 7-Closed Lost or 9-Duplicate/index.html.md), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
+  * Should the opportunity progress from `1-Discovery` to the next stage (not 7-Closed Lost or 9-Duplicate), it will be considered a `Sales Qualified Opportunity`. The following values are entered once the opportunity progresses from this stage:
      * `Sales Qualified` is True.
      * `Sales Qualified Date` is the date the opportunity moves from this stage to the next open or won stage.
      * `Initial IACV` captures the value in the `Incremental ACV` field. `Initial IACV` is a snapshot field that will not change, even when the `Incremental ACV` field is updated and will be used for `Deal Size` analysis.
 
 **2-Scoping**: Uncover business challenges/objectives, the competitive landscape, realizing fit.
 * What to Complete in This Stage:
-  * Complete a Demo (Optional/index.html.md)
+  * Complete a Demo (Optional)
   * Schedule a Technical Evaluation Call
-  * Confirm and collect new [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification/index.html.md) information.
+  * Confirm and collect new [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification) information.
 
 **3-Technical Evaluation**: Confirming technical requirements. A proof-of-concept (POC/index.html.md) might occur at this stage. This is also the stage to confirm information before a proposal is delivered.
 * What to Complete in This Stage:
-  *  Enter POC Notes and POC Success Criteria (if applicable/index.html.md) and enter into the POC Notes and POC Success Criteria fields on the opportunity.
+  *  Enter POC Notes and POC Success Criteria (if applicable) and enter into the POC Notes and POC Success Criteria fields on the opportunity.
   *  Confirm *Technical Requirements, POC Scope*
   *  Confirm *Technical Win/POC Success*
-  *  Confirm and collect new [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification/index.html.md) information.
+  *  Confirm and collect new [MEDDPIC](https://github.com/daijapan/test/tree/master/sales/#capturing-meddpic-questions-for-deeper-qualification) information.
 
 **4-Proposal**: Business and technical challenges and been uncovered and resolved. A proposal is drafted and delivered to the prospect.
 * What to Complete in This Stage:
-  * Confirm Bill to Information (who will receive the invoices/index.html.md), Sold to Information (who will receive the license key/index.html.md). You should also confirm whether or not the customer will issue a PO, and whether there is a vendor registration form required by the customer.
+  * Confirm Bill to Information (who will receive the invoices), Sold to Information (who will receive the license key). You should also confirm whether or not the customer will issue a PO, and whether there is a vendor registration form required by the customer.
   * Deliver formal contract to the prospect with complete bill to and sold to information. Remember that quotes with incomplete or incorrect information will be rejected by Deal Desk.
   * An MSA may be delivered separately
-  * Clear understanding of purchase/contract review process and a close plan (actions to be taken, named of people to complete actions and dates for each action/index.html.md) documented in the Purchasing Plan field.
+  * Clear understanding of purchase/contract review process and a close plan (actions to be taken, named of people to complete actions and dates for each action) documented in the Purchasing Plan field.
 
 **5-Negotiating**: The prospect or customer has received the proposal and is in contract negotiations.
 * What to Complete in This Stage:
   * Agreement on business terms
-  * All proposals should include the standard GitLab [Terms](/terms/index.html.md)
+  * All proposals should include the standard GitLab [Terms](/terms/)
   * Determine if customer will be referenceable when the opportunity closes. If the answer is:
        * "Yes" update the `Referenceable Customer` section on the Account object with appropriate reference information   
        * "No" the discussion of being a reference can be revisited at a later date    
   * Modifications will not be accepted to the standard terms for any opportunity that is less than $25k, or for Starter edition.
   * If the above threshold is met, requests for modifications to the standard terms should be sent to Legal through SalesForce, using Chatter. Be sure to include the relevant Account and Opportunity information in the request.
-  * If the Account is seeking to use their own paper, requests should be made to legal using the [Legal Issue Tracker](mailto:legal@gitlab.com/index.html.md).
+  * If the Account is seeking to use their own paper, requests should be made to legal using the [Legal Issue Tracker](mailto:legal@gitlab.com).
 
 **6-Awaiting Signature**: The prospect or customer has verbally agreed to the terms and conditions outlined in the proposal and has submitted for signature.
 * What to Complete in This Stage:
@@ -872,14 +872,14 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
   * Obtain a purchase order, if applicable.
   * Work with GitLab AR to deliver any tax and/or complete any vendor registration processes.
   * Ensure all relevant documents, MSA, PO, and other forms uploaded to SFDC in the Notes and Attachments section of the opportunity record.
-  * EULA (End User Licence Agreement/index.html.md) has been accepted by end-user organization (if applicable/index.html.md).
+  * EULA (End User Licence Agreement) has been accepted by end-user organization (if applicable).
   * If this is a large/strategic account, or if IACV is +$12,000, enter `Closed Won Details` summarizing why we won the opportunity.
   * Subscription created in Zuora.
   * Opportunity has been submitted for Finance approval.
 
 **7-Closed Won**: Congratulations!! The terms have been agreed to by both parties and the quote has been approved by Finance.
 * What to Complete in This Stage:
-  * Introduce Customer Success/Account Management (if applicable/index.html.md)
+  * Introduce Customer Success/Account Management (if applicable)
   * Set a calendar reminder for 30 day follow up
   * If applicable, initiate Customer Onboarding or Premium Support onboarding
 
@@ -890,8 +890,8 @@ To help move sales through the sales process, [here](https://docs.google.com/doc
      * If they selected a competitor, why? Was it due to features or pricing?
      * If decided not to move forward with a project, what were the reasons? Did they not understand the value? Was there not a compelling event or reason?
      * Again, please be as thorugh as you can as this information will prove valuable as we learn from these experiences.
-  * Please note that for new business deals where the opportunity is with a Large/Strategic account OR the Incremental Annual Contract Value (IACV/index.html.md) is equal or greater than USD 12,000, then a notification will be sent to the [#lost-deals](https://gitlab.slack.com/messages/C8RP2BBA7/index.html.md) Slack channel.
-  * Uncover a time for follow up (incumbent solution contract expiration date/index.html.md)
+  * Please note that for new business deals where the opportunity is with a Large/Strategic account OR the Incremental Annual Contract Value (IACV) is equal or greater than USD 12,000, then a notification will be sent to the [#lost-deals](https://gitlab.slack.com/messages/C8RP2BBA7) Slack channel.
+  * Uncover a time for follow up (incumbent solution contract expiration date)
   * Note that if an opportunity is dead/stalled, mark the Stage as 8-Closed Lost. Should the prospect/customer re-engage before 30 days, you can reopen this opportunity. However, if they re-engage beyond 30 days, you will need to create a new opportunity.
   * If the `Closed Lost Reason` is "Merged into another opportunity" please link this closed opportunity to the opportunity you are merging it into by using the `Merged Opportunity` lookup field. Otherwise, you will encounter a validation rule error.
 
@@ -912,7 +912,7 @@ If a previously met criteria has become unmet, you are required to revert back t
 ## Types of Accounts
 
 ### Accounts Created in Salesforce utilizing CE Usage Ping Data
-The [CE Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html/index.html.md) provides GitLab with some limited insight into how end users are utilizing the platform. The raw information is cleaned, enriched and then pushed to SFDC as an Account by the Data and Analytics team.
+The [CE Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) provides GitLab with some limited insight into how end users are utilizing the platform. The raw information is cleaned, enriched and then pushed to SFDC as an Account by the Data and Analytics team.
 
 If there is not an existing account match in Salesforce, a new account record will be created with the following information populated:
 
@@ -934,29 +934,29 @@ If there is not an existing account match in Salesforce, a new account record wi
 | Using CE | Checked True |
 
 **Process**
-1. Sales Team members can use this data to proactively identify `Prospect - CE User` accounts that fit their target segement(s/index.html.md). Accounts owned by `Sales Admin` can be adopted by a Sales Team member changing ownership in Salesforce. The adoption of any `Sales Admin` owned records will trigger an email alert that is sent to the Account Research Specialist for transparency and awareness of what account records have been claimed.
+1. Sales Team members can use this data to proactively identify `Prospect - CE User` accounts that fit their target segement(s). Accounts owned by `Sales Admin` can be adopted by a Sales Team member changing ownership in Salesforce. The adoption of any `Sales Admin` owned records will trigger an email alert that is sent to the Account Research Specialist for transparency and awareness of what account records have been claimed.
 2. The Account Research Specialist will be responsible for reviewing the `Prospect - CE User` accounts on a regular basis to determine additional account records that should be worked either by a Sales Team member or Outbound SDR.
-3. When an account record has been identified for follow up, the Account Research Specialist will work with the appropriate Regional Director (RD/index.html.md) to determine Outbound SDR assignment based on work load and available capacity.
-4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (DiscoverOrg, LinkedIn Sales Navigator, etc/index.html.md) to add contacts to the account record and populate the firmographic profile of the account.
+3. When an account record has been identified for follow up, the Account Research Specialist will work with the appropriate Regional Director (RD) to determine Outbound SDR assignment based on work load and available capacity.
+4. The assigned Outbound SDR will work the `Prospect - CE User` account the same as any other known `CE User` account leveraging the tools at their disposal (DiscoverOrg, LinkedIn Sales Navigator, etc) to add contacts to the account record and populate the firmographic profile of the account.
 
 ## Reporting
 
 ### Marketing Reports
 
-The Online Growth team is in charge of updating reports and dashboards for marketing meetings. Our key metric is pipe-to-spend.  Pipe compared to marketing spend shows how effective our marketing is in filling the pipeline. This report will include all pipe, not just large and up, and is better than cost per lead as it will account for each type of lead in our hybrid sales model and show the value of leads in larger organizations as they generate more pipe. More information on pipe-to-spend as a marketing metric can be found in [Salesforce](https://success.salesforce.com/ideaView?id=087300000006thQ/index.html.md) and [Marketo](https://blog.marketo.com/2012/08/my-favourite-marketing-metric.html/index.html.md). 
+The Online Growth team is in charge of updating reports and dashboards for marketing meetings. Our key metric is pipe-to-spend.  Pipe compared to marketing spend shows how effective our marketing is in filling the pipeline. This report will include all pipe, not just large and up, and is better than cost per lead as it will account for each type of lead in our hybrid sales model and show the value of leads in larger organizations as they generate more pipe. More information on pipe-to-spend as a marketing metric can be found in [Salesforce](https://success.salesforce.com/ideaView?id=087300000006thQ) and [Marketo](https://blog.marketo.com/2012/08/my-favourite-marketing-metric.html). 
 
 Marketing metrics sources are here:
-- [Pipe](https://na34.salesforce.com/00O61000004IXYV/index.html.md) used to for account for pipeline. This will be divided by spend. The SST for pipe-to-spend will be in Looker.
+- [Pipe](https://na34.salesforce.com/00O61000004IXYV) used to for account for pipeline. This will be divided by spend. The SST for pipe-to-spend will be in Looker.
 - [Sales Pipeline Looker dashboard](https://gitlab.looker.com/dashboards/27/index.html.md)
 - [Web Traffic by source](https://analytics.google.com/analytics/web/#report/acquisition-channels/a37019925w65271535p67064032/index.html.md)
-- [Online Growth Web Metrics Dashboard](https://datastudio.google.com/open/1lSOfaMEBPVpFtLCpFuzvV3I_DfRdtngB/index.html.md)
-- [SCLAU Dashboard](https://na34.salesforce.com/01Z61000000Qbm2/index.html.md)
+- [Online Growth Web Metrics Dashboard](https://datastudio.google.com/open/1lSOfaMEBPVpFtLCpFuzvV3I_DfRdtngB)
+- [SCLAU Dashboard](https://na34.salesforce.com/01Z61000000Qbm2)
 
 ### Report on SCLAU Opportunity Creation
 
-An area of focus is the [large and strategic sales segments](https://github.com/daijapan/test/tree/master/sales/#market-segmentation/index.html.md). For visibility into performance in these market segments we use a [Large and Up Opportunity Performance dashboard](https://na34.salesforce.com/01Z61000000J0h1/index.html.md) in salesforce.com. It tracks the measures [pending acceptance](#customer-lifecycle/index.html.md) opportunities, [SAO](#customer-lifecycle/index.html.md), and [SQO](#customer-lifecycle/index.html.md).
+An area of focus is the [large and strategic sales segments](https://github.com/daijapan/test/tree/master/sales/#market-segmentation). For visibility into performance in these market segments we use a [Large and Up Opportunity Performance dashboard](https://na34.salesforce.com/01Z61000000J0h1) in salesforce.com. It tracks the measures [pending acceptance](#customer-lifecycle/index.html.md) opportunities, [SAO](#customer-lifecycle/index.html.md), and [SQO](#customer-lifecycle/index.html.md).
 
-The dashboard analyzes opportunity measures by the dimensions `initial source type` [sales segmentation](#segmentation/index.html.md) and [sales qualification source](https://github.com/daijapan/test/tree/master/sales/#tracking-sales-qualified-source-in-the-opportunity/index.html.md). We set our demand generation targets based on SAO count in large and up segments by `initial source type` and `sales qualification source` as follows:
+The dashboard analyzes opportunity measures by the dimensions `initial source type` [sales segmentation](#segmentation) and [sales qualification source](https://github.com/daijapan/test/tree/master/sales/#tracking-sales-qualified-source-in-the-opportunity). We set our demand generation targets based on SAO count in large and up segments by `initial source type` and `sales qualification source` as follows:
 
 - BDR Generated - opportunity is created by a BDR qualifying inbound demand. Sales qualification source is `BDR Generated`.
 - SDR Generated - opportunity is created by SDR prospecting. Sales qualification source is `SDR Generated`.

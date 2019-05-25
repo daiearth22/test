@@ -24,7 +24,7 @@ Within Zendesk, the SLAs are set as follows. Under Business Rules in the Admin c
 Service Level Agreements are defined. Currently only one is defined, with different response times
 required depending on the _priority_  of the ticket which can be Urgent, High, Normal, or Low.
 
-Emergency tickets (SLA category 1 per the list above/index.html.md) are tagged as "Urgent" using a 30 minute max response time setting.
+Emergency tickets (SLA category 1 per the list above) are tagged as "Urgent" using a 30 minute max response time setting.
 
 SLA category 2 items are tagged as either High or Normal priority.
 
@@ -34,5 +34,5 @@ SLA category 2 items are tagged as either High or Normal priority.
 An email is sent to everyone in the support team when an SLA breach is imminent, see
 the [automation in Zendesk](https://gitlab.Zendesk.com/agent/admin/automations/edit/80833987/index.html.md).
 
-Within Zendesk, currently we do _not_ have an SLA assigned (and no automated warnings/index.html.md)
+Within Zendesk, currently we do _not_ have an SLA assigned (and no automated warnings)
 to any tickets from channels in category 3 and 4, but we do track response times.

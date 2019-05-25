@@ -28,7 +28,7 @@ If you do not have a supported operating system, or enough machine resources, yo
 can provision a Linux machine in the cloud to run your setup on.
 
 Tested on:
- - [Digital Ocean](https://www.digitalocean.com/index.html.md): `16 GB RAM / 8 CPUs`
+ - [Digital Ocean](https://www.digitalocean.com/): `16 GB RAM / 8 CPUs`
  - [Amazon EC2](https://aws.amazon.com/ec2/index.html.md): `t2.xlarge`
 
  You need to have ports `8443` and `80` open to the public for TCP traffic.
@@ -42,7 +42,7 @@ In order to run the demo, you need to install Docker, the OC Client Tools, and o
 
 You will need to install Docker on your OpenShift machine if you have not installed it already.
 
-The best way to install Docker is by going to their [official installation instructions](https://docs.docker.com/engine/installation/index.html.md)
+The best way to install Docker is by going to their [official installation instructions](https://docs.docker.com/engine/installation/)
 and following the install instructions for your OpenShift machine's operating system.
 
 The installation steps should walk you through running Docker's Hello World app.
@@ -119,7 +119,7 @@ THis can be done from the Preferences windows, and you need at least 4 CPUs and 
 ### Install the OC Client Tools
 
 The OC client tools are released with OpenShift Origin and are located on Origin's
-[GitHub Releases Page](https://github.com/openshift/origin/releases/index.html.md)
+[GitHub Releases Page](https://github.com/openshift/origin/releases)
 
 We will be running the Demo using the latest stable release of OpenShift Origin. Currently *1.3.2*
 
@@ -152,7 +152,7 @@ To install the tools, run the following from a terminal on the OpenShift host ma
      cd openshift-origin-client-tools-*
      sudo chflags nohidden /private
      sudo echo pwd >> /private/etc/paths.d/origin-paths
-     export PATH=$(pwd/index.html.md):$PATH
+     export PATH=$(pwd):$PATH
      ```
 
 1. Test that the tools are on your path:
@@ -198,16 +198,16 @@ changes to your cluster.
 
     ```
     cd omnibus-gitlab-*
-    echo "export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:\$PATH" >> ~/.bashrc
-    export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:$PATH
+    echo "export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:\$PATH" >> ~/.bashrc
+    export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:$PATH
     ```
 
   - Mac:
 
     ```
     cd omnibus-gitlab-*
-    sudo echo $(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper >> /private/etc/paths.d/origin-paths
-    export PATH=$(pwd/index.html.md)/docker/openshift/oc-cluster-wrapper:$PATH
+    sudo echo $(pwd)/docker/openshift/oc-cluster-wrapper >> /private/etc/paths.d/origin-paths
+    export PATH=$(pwd)/docker/openshift/oc-cluster-wrapper:$PATH
     ```
 
 1. Test that the script is on your path:
@@ -357,7 +357,7 @@ The create volume command used looks like:
 ```
 function create-volume {
   [ $# -lt 1 ] && echo "volumename is required" && exit 1
-  local __profile=$(cat $OPENSHIFT_HOME_DIR/active_profile/index.html.md)
+  local __profile=$(cat $OPENSHIFT_HOME_DIR/active_profile)
   local __volume=$1
   local __size=${2:-"10Gi"}
   local __path=${3:-$OPENSHIFT_HOME_DIR/profiles/${__profile}/volumes/${__volume}}

@@ -29,7 +29,7 @@ on what they need to deliver in any given month.
 
 The schedule for rotation should be set at least 3 releases in advance by
 cooperation of the Backend Engineering managers. The
-[pick-random-team-members](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/pick-random-team-members/index.html.md)
+[pick-random-team-members](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/bin/pick-random-team-members)
 script can be a good starting point for this selection, but the following should
 be taken into account:
 - Developer absences: this rotation should not supercede any planned vacations
@@ -69,7 +69,7 @@ theirs to manage and there is no atypical expectation about their availability
 while on rotation.
 
 In the event that there are no interrupt-driven tasks to complete, their
-priorities should be as follows (in order/index.html.md):
+priorities should be as follows (in order):
 
 1. **Preventative Work**: any work that will improve monitoring and visibility
   for production. By giving everyone better visibility into production, we
@@ -105,5 +105,5 @@ work.
 After this gets merged, we need to work through the following to kick the
 rotation off:
 
-- Create a log document (or should it be a series of issues?/index.html.md) for tracking Reaction's progress
+- Create a log document (or should it be a series of issues?) for tracking Reaction's progress
 - Add mention of Reaction rotation to Backend Dev JD?

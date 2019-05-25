@@ -25,7 +25,7 @@ fields.
 
 ## Digital Ocean and Docker Testing Environment
 
-For a Digital Ocean and Docker testing environment [follow this guide](https://docs.gitlab.com/ee/install/digitaloceandocker.html/index.html.md).
+For a Digital Ocean and Docker testing environment [follow this guide](https://docs.gitlab.com/ee/install/digitaloceandocker.html).
 
 
 ## VMWare Testing Environment
@@ -34,21 +34,21 @@ This guide involves configuring and setting up VMWare and Docker locally and ass
 
 #### Install VMWare
 
-+ Navigate to https://store.vmware.com and purchase â€œVMware Fusion 10 (for Mac OS X/index.html.md)â€ (or current version/index.html.md)
-   + Download â€œVMware Fusion 10 (for Mac OS X/index.html.md)â€ using the provided link
++ Navigate to https://store.vmware.com and purchase â€œVMware Fusion 10 (for Mac OS X)â€ (or current version)
+   + Download â€œVMware Fusion 10 (for Mac OS X)â€ using the provided link
    + Install VMWare Fusion 10
    + Launch VMWare Fusion
    + Enter license details when prompted
 
 #### Install Docker Community Edition
 
-1. [https://www.docker.com/community-edition](https://www.docker.com/community-edition/index.html.md)
+1. [https://www.docker.com/community-edition](https://www.docker.com/community-edition)
 
 #### Create new docker host
 
 This command will create a new VMware fusion virtual machine called `gitlab-test-env` that will act as a docker host.
 
-+ CPUs: Same as host (`-1`/index.html.md)
++ CPUs: Same as host (`-1`)
 + RAM: 4GB
 + Name: `gitlab-test-env`
 + Driver: `vmwarefusion`
@@ -72,7 +72,7 @@ In this example we'll create a GitLab EE 8.10.8 instance.
 First connect the docker client to the docker host you created previously.
 
 ```
-eval "$(docker-machine env gitlab-test-env/index.html.md)"
+eval "$(docker-machine env gitlab-test-env)"
 ```
 
 You can add this to your `~/.bash_profile` file to ensure the `docker` client uses the `gitlab-test-env` docker host
@@ -105,8 +105,8 @@ export NAME=gitlab-test-8.10
 #####  Create container
 ```
 docker run --detach \
---env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip gitlab-test-env/index.html.md):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
---hostname $(docker-machine ip gitlab-test-env/index.html.md) \
+--env GITLAB_OMNIBUS_CONFIG="external_url 'http://$(docker-machine ip gitlab-test-env):$HTTP_PORT'; gitlab_rails['gitlab_shell_ssh_port'] = $SSH_PORT;" \
+--hostname $(docker-machine ip gitlab-test-env) \
 -p $HTTP_PORT:$HTTP_PORT -p $SSH_PORT:22 \
 --name $NAME \
 gitlab/gitlab-ee:$VERSION
@@ -149,6 +149,6 @@ docker exec -it gitlab-ee gitlab-ctl reconfigure
 
 #### Resources
 
-+ [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/index.html.md)
++ [https://docs.gitlab.com/omnibus/docker/](https://docs.gitlab.com/omnibus/docker/)
 + [https://docs.docker.com/machine/get-started/](https://docs.docker.com/machine/get-started/index.html.md)
-+ [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/index.html.md)
++ [https://docs.docker.com/machine/reference/ip/](https://docs.docker.com/machine/reference/ip/)

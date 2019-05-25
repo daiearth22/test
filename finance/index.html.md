@@ -14,7 +14,7 @@ title: "Finance"
 ## Communication
 <a name="reach-finance"></a>
 
-- [**Public Issue Tracker**](https://gitlab.com/gitlab-com/finance/issues/index.html.md)- please use confidential issues for topics that should only be visible to team members at GitLab.
+- [**Public Issue Tracker**](https://gitlab.com/gitlab-com/finance/issues/)- please use confidential issues for topics that should only be visible to team members at GitLab.
 
 - [**Chat channel**](https://gitlab.slack.com/archives/finance/index.html.md)- please use the `#finance` chat channel in Slack for questions that don't seem appropriate for the issue tracker or internal email correspondence.
 
@@ -39,11 +39,11 @@ title: "Finance"
 
 ### Legal and Financial Information
 
-For commonly requested company information, please visit our [wiki page](https://gitlab.com/gitlab-com/finance/wikis/company-information/index.html.md).
+For commonly requested company information, please visit our [wiki page](https://gitlab.com/gitlab-com/finance/wikis/company-information).
 
 Forms
-* [Link to W9 Doc](https://drive.google.com/file/d/0B-ytP5bMib9TcEE3WmppMUR6WFVTVHhNSnhWWGZjdzVqM29N/view/index.html.md)
-* [Link to form CA-590](https://drive.google.com/a/gitlab.com/file/d/0BzE3Rq8kSQ6Tcmp3a19xcFBZOWs/view?usp=sharing/index.html.md)
+* [Link to W9 Doc](https://drive.google.com/file/d/0B-ytP5bMib9TcEE3WmppMUR6WFVTVHhNSnhWWGZjdzVqM29N/view)
+* [Link to form CA-590](https://drive.google.com/a/gitlab.com/file/d/0BzE3Rq8kSQ6Tcmp3a19xcFBZOWs/view?usp=sharing)
 
 ### Company Accounts
 <a name="company-accounts"></a>
@@ -53,7 +53,7 @@ on 1Password:
 
 - FedEx
 - Amazon
-- IND (Immigratie en Naturalisatie Dienst, in the Netherlands/index.html.md) company number
+- IND (Immigratie en Naturalisatie Dienst, in the Netherlands) company number
 
 If you need this information but cannot find it in your shared vaults, check with PeopleOps to get access.
 
@@ -62,7 +62,7 @@ If you need this information but cannot find it in your shared vaults, check wit
 <a name="invoices"></a>
 
 Vendor and contractor invoices are to be sent to ap@gitlab.com. An [invoice
-template](https://drive.google.com/open?id=1eA0fOmbRysYrL4YVufRRydl2B_9UwWRtxKwKu2iTCHo/index.html.md) can be found in Google Docs by the name of "Invoice Template".
+template](https://drive.google.com/open?id=1eA0fOmbRysYrL4YVufRRydl2B_9UwWRtxKwKu2iTCHo) can be found in Google Docs by the name of "Invoice Template".
 
 Contractors can send the invoice around the middle of the month to ensure payment by the end of it. Include any [expenses](https://github.com/daijapan/test/tree/master/spending-company-money/index.html.md) in the invoice.
 

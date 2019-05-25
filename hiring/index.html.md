@@ -23,7 +23,7 @@ title: "Hiring"
 - [Benefits](https://github.com/daijapan/test/tree/master/benefits/index.html.md)
 - [Visas](https://github.com/daijapan/test/tree/master/people-operations/visas/index.html.md)
 - [Compensation](https://github.com/daijapan/test/tree/master/people-operations/global-compensation/index.html.md)
-- [Jobs](/jobs/index.html.md)
+- [Jobs](/jobs/)
 
 ## On this page
 {:.no_toc}
@@ -42,8 +42,8 @@ We don't use the word "job" to refer to a job family or vacancy because it is am
 
 People at GitLab can be a specialist on one thing and expert in many:
 
-- A [specialization](/team/structure/#specialist/index.html.md) is specific to a job family, each team member can have only one, it defined on the relevant job family page. A specialist uses the compensation benchmark of the job family.
-- An [expertise](/team/structure/#expert/index.html.md) is not specific to a a job family, each team member can have multiple ones, the expertises a team member has are listed on our team page.
+- A [specialization](/team/structure/#specialist) is specific to a job family, each team member can have only one, it defined on the relevant job family page. A specialist uses the compensation benchmark of the job family.
+- An [expertise](/team/structure/#expert) is not specific to a a job family, each team member can have multiple ones, the expertises a team member has are listed on our team page.
 
 The following parts describe what someone does at GitLab:
 
@@ -55,7 +55,7 @@ The following parts describe what someone does at GitLab:
 
 We use the following terms to refer to a combination of the above:
 
-- Title (level and job family, listed on the contract/index.html.md): Senior Developer
+- Title (level and job family, listed on the contract): Senior Developer
 - Headline (all parts except expertise, listed on vacancies/index.html.md): Senior Developer, Gitaly specialist, EMEA
 
 Please use the same order as in the examples above, a few notes:
@@ -69,17 +69,17 @@ We preface a title with interim when we're hiring for the position.
 ## Equal Employment Opportunity
 
  Diversity is one of GitLab's core [values](https://github.com/daijapan/test/tree/master/values/index.html.md) and
- GitLab is dedicated to providing equal employment opportunities (EEO/index.html.md) to all team members
+ GitLab is dedicated to providing equal employment opportunities (EEO) to all team members
  and candidates for employment without regard to race, color, religion, gender,
  national origin, age, disability, or genetics. One example of how put this into practice
- is through sponsorship of [diversity events](/2016/03/24/sponsorship-update/index.html.md)
+ is through sponsorship of [diversity events](/2016/03/24/sponsorship-update/)
 
  GitLab complies with all applicable laws governing nondiscrimination in employment. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer,
  leaves of absence, compensation, and training. GitLab expressly prohibits any form of workplace harassment.
  Improper interference with the ability of GitLab’s team members to perform their role duties
  may result in discipline up to and including discharge. If you have any complaints, concerns,
- or suggestions to do better please [contact People Ops](https://github.com/daijapan/test/tree/master/people-operations/#reach-peopleops/index.html.md).
+ or suggestions to do better please [contact People Ops](https://github.com/daijapan/test/tree/master/people-operations/#reach-peopleops).
 
 ## Country Hiring Guidelines
 
-Please go to [country hiring guidelines](/jobs/faq/#country-hiring-guidelines/index.html.md) for more information.
+Please go to [country hiring guidelines](/jobs/faq/#country-hiring-guidelines) for more information.

@@ -36,11 +36,11 @@ When a customer reports problems when registering their license key, please chec
 
 1.  If the customer reports the following validation error:
 
-    ![You have applied a True-up for 2 users but you need one for 3 users.](/imageshttps://github.com/daijapan/test/tree/master/support/support_license-troubleshooting.png/index.html.md)
+    ![You have applied a True-up for 2 users but you need one for 3 users.](/imageshttps://github.com/daijapan/test/tree/master/support/support_license-troubleshooting.png)
 
     That usually means that the number of true-up purchased is invalid. If you consider that the customer has purchased an adequate true-up please follow these steps:
 
-    1. Go to the [license app](https://license.gitlab.com/index.html.md)
+    1. Go to the [license app](https://license.gitlab.com/)
     2. Find the last license key by email or company name
     3. Duplicate the license key
     4. Edit the `true up count` field with the correct number
@@ -50,9 +50,9 @@ When a customer reports problems when registering their license key, please chec
 
 ## GitLab.com Subscriptions
 
-In order to purchase a GitLab.com subscription, we need the customer to have an account on [GitLab.com](https://gitlab.com/users/sign_in/index.html.md). Please ask the customer to create an account first, in case they don't have one yet.
+In order to purchase a GitLab.com subscription, we need the customer to have an account on [GitLab.com](https://gitlab.com/users/sign_in). Please ask the customer to create an account first, in case they don't have one yet.
 
-If the customer can't see their Groups when purchasing a subscription, please let them know that they need to create a Group on [GitLab.com](https://gitlab.com/users/sign_in/index.html.md) first.
+If the customer can't see their Groups when purchasing a subscription, please let them know that they need to create a Group on [GitLab.com](https://gitlab.com/users/sign_in) first.
 
 ### Troubleshooting sales-assisted transactions for GitLab.com
 

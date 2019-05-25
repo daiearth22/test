@@ -13,15 +13,15 @@ At the conclusion of each project, we will conduct a post-mortem using the templ
 
 ## Scheduling a Post Mortem
 
-1. Create an issue on ([everything starts with an issue](https://github.com/daijapan/test/tree/master/communication/#everything-starts-with-an-issue/index.html.md)/index.html.md)
-1. Use the [post mortem template](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md/index.html.md).  Changes to that template can be added as an MR to the Professional Services project.
+1. Create an issue on ([everything starts with an issue](https://github.com/daijapan/test/tree/master/communication/#everything-starts-with-an-issue))
+1. Use the [post mortem template](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md).  Changes to that template can be added as an MR to the Professional Services project.
 1. Ensure that the `Post Mortem` label is applied to the issue
 1. Create a calendar event for the post-mortem, including a link the issue and this page.
-  - Include the SAL, TAM, IE(s/index.html.md), your manager and any other interested GitLab parties
+  - Include the SAL, TAM, IE(s), your manager and any other interested GitLab parties
 
 ## Conducting a Post Mortem
 
-Each post-mortem meeting should follow (roughly/index.html.md) this agenda here.
+Each post-mortem meeting should follow (roughly) this agenda here.
 
 ### Agenda
 
@@ -32,14 +32,14 @@ Each post-mortem meeting should follow (roughly/index.html.md) this agenda here.
   - **Address behavior, but don't label people**
   - **People are not their work** Always make suggestions about examples of work, not the person. Say, "you didn't respond to my feedback about the design," instead of, "you never listen." And, when receiving feedback, keep in mind that feedback is the best way to improve and that others want to see you succeed.
   - **Directness** is about being transparent with each other. We try to channel our inner Ben Horowitz by being both straightforward and kind, an uncommon cocktail of no-bullshit and no-asshole. Feedback is always about your work and not your person. That doesn't mean will be easy to give nor receive it.
-  - [Say Thanks](https://github.com/daijapan/test/tree/master/communication/#say-thanks/index.html.md)
+  - [Say Thanks](https://github.com/daijapan/test/tree/master/communication/#say-thanks)
   - **No ego** Don't defend a point to win an argument or double-down on a mistake. You are not your work; you don't have to defend your point. You do have to search for the right answer with help from others.
   - **Make a proposal** If you need to decide something as a team make a proposal instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time. 
 1. All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 #### Discussion
-1. Go through the [post mortem template](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md/index.html.md).
-  - Identify key demographics for the engagement (customer contacts, GitLab team members, dates, etc./index.html.md)
+1. Go through the [post mortem template](https://gitlab.com/gitlab-com/customer-success/professional-services/blob/master/.gitlab/issue_templates/Post%20Mortem.md).
+  - Identify key demographics for the engagement (customer contacts, GitLab team members, dates, etc.)
   - Ensure to update links to the SOW for this engagement as well as the customer folder on Google Drive
   - Capture any remaining customer-facing action items and assign an owner
 1. Lessons learned
@@ -53,5 +53,5 @@ Each post-mortem meeting should follow (roughly/index.html.md) this agenda here.
 All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 ### Sources
-* [Google SRE Handbook](https://landing.google.com/sre/book/chapters/postmortem.html/index.html.md)
-* [SAFe Iteration Retropectives](https://www.scaledagileframework.com/iteration-retrospective/index.html.md)
+* [Google SRE Handbook](https://landing.google.com/sre/book/chapters/postmortem.html)
+* [SAFe Iteration Retropectives](https://www.scaledagileframework.com/iteration-retrospective/)

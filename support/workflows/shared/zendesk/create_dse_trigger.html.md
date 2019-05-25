@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: Creating a DSE trigger (for Resellers/index.html.md)
+title: Creating a DSE trigger (for Resellers)
 category: Zendesk
 ---
 
@@ -49,4 +49,4 @@ Ticket: Assignee {AGENT}
 Ticket: Priority High
 
 ```
-*Replace {RESELLER} with the organization name (see first step/index.html.md). Replace {AGENT} with the Support Engineers first name.*
+*Replace {RESELLER} with the organization name (see first step). Replace {AGENT} with the Support Engineers first name.*

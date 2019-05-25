@@ -11,7 +11,7 @@ Our process for signing any contract is documented in [https://github.com/daijap
 <table border="1">
   <tr>
     <td></td>
-    <td colspan="4" align="center"><b>Functional Approval<sup>(4/index.html.md)</sup></b></td>
+    <td colspan="4" align="center"><b>Functional Approval<sup>(4)</sup></b></td>
     <td colspan="3" align="center"><b>Financial Approval</b></td>
   </tr>
   <tr>
@@ -33,8 +33,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -61,8 +61,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -76,8 +76,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -104,8 +104,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -119,8 +119,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
   </tr>
   <tr>
@@ -147,8 +147,8 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td>above $100K</td>
     <td></td>
     <td></td>
-    <td>Approves <sup>(1/index.html.md)</sup></td>
-    <td>Approves<sup>(2/index.html.md)</sup></td>
+    <td>Approves <sup>(1)</sup></td>
+    <td>Approves<sup>(2)</sup></td>
     <td></td>
     <td>Approves</td>
     <td></td>
@@ -327,7 +327,7 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td></td>
     <td></td>
     <td></td>
-    <td>Approves<sup>(3/index.html.md)</sup></td>
+    <td>Approves<sup>(3)</sup></td>
     <td></td>
     <td></td>
     <td></td>
@@ -478,7 +478,7 @@ Our process for signing any contract is documented in [https://github.com/daijap
     <td></td>
   </tr>
   <tr>
-    <td colspan="4">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course/index.html.md)</td>
+    <td colspan="4">Decisions to file a lawsuit or accept an injunction or consent decree (other than collection of receivables in due course)</td>
     <td>Approves</td>
     <td></td>
     <td></td>
@@ -516,10 +516,10 @@ Our process for signing any contract is documented in [https://github.com/daijap
 
 **Notes/Comments**:  
 
-- (1/index.html.md) If in Plan  
-- (2/index.html.md) If Not Included in Company Plan
-- (3/index.html.md) Approved by Compensation Committee (or Board if no Compensation Committee/index.html.md)
-- (4/index.html.md) Approval from [function](https://about.gitlab.com/team/structure/#table/index.html.md) responsible for supporting associated objectives and goals 
+- (1) If in Plan  
+- (2) If Not Included in Company Plan
+- (3) Approved by Compensation Committee (or Board if no Compensation Committee/index.html.md)
+- (4) Approval from [function](https://about.gitlab.com/team/structure/#table) responsible for supporting associated objectives and goals 
 
 ## Banking Controls
 

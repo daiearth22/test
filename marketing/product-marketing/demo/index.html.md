@@ -14,12 +14,12 @@ title: "Demos"
 There are 3 basic demos types:
 * Vision - designed to show where we are going (this might include forward looking ideas not yet developed/index.html.md)
 * Use Case Based - designed to show how GitLab solves a particular use case (how we should be selling/index.html.md)
-* Feature - designed to enable a deeper dive into details of product features (on prospect request/index.html.md)
+* Feature - designed to enable a deeper dive into details of product features (on prospect request)
 
 These demos come in different formats:
 * videos - good for everyone to self-demo by passively watching
-* click-throughs (screenshots on slides/index.html.md) - good for disconnected situations (like conferences/index.html.md) and for interactive self demos
-* live (instructions for how to set up and run demos live/index.html.md) - enables everyone (especially GitLab sales/index.html.md) to set up and run through the demo live on their own system resources. Allows for spontaneous deep diving - not always a good thing/index.html.md).
+* click-throughs (screenshots on slides) - good for disconnected situations (like conferences) and for interactive self demos
+* live (instructions for how to set up and run demos live) - enables everyone (especially GitLab sales/index.html.md) to set up and run through the demo live on their own system resources. Allows for spontaneous deep diving - not always a good thing).
 
 # Videos
 
@@ -58,7 +58,7 @@ These demos come in different formats:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTNeBj0TJWca1PVwccxUTXWDWYqaIyB6Q1fRYCfjtMzeK8DtpmAcG1o6ipFBi-lhYKVTAA9kYBWyKKu/embed?start=false&loop=false&delayms=600000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## Auto DevOps (in 3 minutes/index.html.md) (Juy 2018/index.html.md)
+## Auto DevOps (in 3 minutes) (Juy 2018/index.html.md)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQ4xltHhYRO_zgbo7exF6BwR09jvPmyFzR4XvjdlpYMRqT4dctx61XCkLjfR-8sq6QyOsoEFBBJjJh/embed?start=false&loop=false&delayms=600000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
@@ -70,7 +70,7 @@ These demos come in different formats:
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ6mgFN_gj8q3hOY6_vyStbqkcKAN1FCEaxUYdopH2HwqnweU12Jol35mFqh8vyHXVDFEisVgomrcFs/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-# Live (instructions/index.html.md)
+# Live (instructions)
 
 * [Idea to Production](i2p/index.html.md) - Highlights GitLab’s single platform for the complete
 DevOps lifecycle, from idea to production, through issues, planning, merge request, CI, CD, and monitoring.

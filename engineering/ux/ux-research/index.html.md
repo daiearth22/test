@@ -47,7 +47,7 @@ UX Researchers are invited to sit in on the monthly planning and scheduling meet
     * In the CE and EE projects, review all issues labeled with `Product Vision 2018`.
     * In the CE and EE projects, review all issues labeled with `UX Research` and `design artifact`. If the issue does not require UX Research, the `UX Research` label should be removed.
 1.  Self-assign to issues
-    * For issues that you want to work on, assign yourself to the issue. Add the `UX Research` label (if not already present/index.html.md) and add a `Milestone`.
+    * For issues that you want to work on, assign yourself to the issue. Add the `UX Research` label (if not already present) and add a `Milestone`.
     * Ping UX Manager and the relevant Product Manager in a comment within the issue.
 
 ### Working on issues
@@ -56,7 +56,7 @@ Once you have decided to work on a particular issue, most of your work and docum
 
 1. Create a research issue:
     * If there is not already an issue in the [UX research](https://gitlab.com/gitlab-org/ux-research/index.html.md) project, create one. There are templates available for surveys, moderated and unmoderated studies which will pre-populate some of the below.
-    * Label the issue with the area of GitLab you’re testing (for example, `navigation`/index.html.md) and the status of the issue (`in progress`/index.html.md).
+    * Label the issue with the area of GitLab you’re testing (for example, `navigation`) and the status of the issue (`in progress`).
     * Mark the issue as `confidential` until the research is completed so it doesn’t influence user behavior.
     * Assign the issue to yourself.
     * Every issue should have a progress checklist. This makes it easier for people to understand where the research is up to.
@@ -66,12 +66,12 @@ Once you have decided to work on a particular issue, most of your work and docum
 1. Document findings within a report.
 1. Update the issue you created in the UX research project:
     * Add the findings report.
-    * Unmark the issue within the UX research project as `confidential`. (In some cases the issue may need to remain confidential if sensitive information is shared. If you’re unsure of whether an issue should remain confidential, please check with Sarah O’Donnell `@sarahod` or Katherine Okpara `@katokpara`/index.html.md).
+    * Unmark the issue within the UX research project as `confidential`. (In some cases the issue may need to remain confidential if sensitive information is shared. If you’re unsure of whether an issue should remain confidential, please check with Sarah O’Donnell `@sarahod` or Katherine Okpara `@katokpara`).
     * Update the status of the issue to `done`.
 1. Inform people of your research:
     * Within the issue, encourage discussion between yourself, UX Designers and Product Managers about which findings should be turned into issues within the GitLab CE or EE project.
     * Create the agreed, new issues within the GitLab CE or EE project. If relevant issues already exist, add your findings to the existing issue description or comments. Always link your findings back to the issue within the UX Research project.
-    * Label any new issues as [appropriate](https://github.com/daijapan/test/tree/master/engineering/workflow/#workflow-labels/index.html.md).
+    * Label any new issues as [appropriate](https://github.com/daijapan/test/tree/master/engineering/workflow/#workflow-labels).
     * Close the issue within the UX Research project.
     * Add the report to the [UX Research Archive](https://gitlab.com/gitlab-org/ux-research-archive/index.html.md) and label as appropriate.
 

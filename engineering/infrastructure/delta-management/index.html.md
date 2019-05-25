@@ -11,7 +11,7 @@ title: "Delta Management"
 
 # Deltas
 
-Deltas (or exceptions/index.html.md) are deviations from standard configuration on GitLab.com that are applied outside established
+Deltas (or exceptions) are deviations from standard configuration on GitLab.com that are applied outside established
 change channels in order to address issues that are causing or have the potential to cause instability in the
 environment.
 

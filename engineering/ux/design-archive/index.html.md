@@ -16,7 +16,7 @@ The following is a collection of key design issues broken down by specific areas
 
 ### Merge Request and MR Widget
 
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=merge%20requests/index.html.md) to view all UX Ready issues labeled merge request.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=merge%20requests) to view all UX Ready issues labeled merge request.
 
 [11.1 - Styling of MR widget info and pipeline sections]( https://gitlab.com/gitlab-org/gitlab-ce/issues/46795/index.html.md)
 
@@ -32,7 +32,7 @@ Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2
 
 ### Issues
 
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+ready&label_name%5B%5D=issues&scope=all&sort=milestone&state=all/index.html.md) to view all UX Ready issues labeled issues.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=UX+ready&label_name%5B%5D=issues&scope=all&sort=milestone&state=all) to view all UX Ready issues labeled issues.
 
 [backlog - Skeleton loading of issue title and description](https://gitlab.com/gitlab-org/gitlab-ce/issues/31892/index.html.md)
 
@@ -50,7 +50,7 @@ Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?label_name%5B%5D=U
 
 ### Issue boards
 
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=boards/index.html.md) to view all UX Ready issues labeled boards.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=boards) to view all UX Ready issues labeled boards.
 
 [backlog - Skeleton loading for issue board](https://gitlab.com/gitlab-org/gitlab-ce/issues/29666/index.html.md)
 
@@ -64,37 +64,37 @@ Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2
 
 [9.1 - Style and format issue board cards](https://gitlab.com/gitlab-org/gitlab-ce/issues/27093/index.html.md)
 
-### Issuables (designs common between issues and merge requests/index.html.md)
+### Issuables (designs common between issues and merge requests)
 
 [11.0 - Combining system notes](https://gitlab.com/gitlab-org/gitlab-ce/issues/33166/index.html.md)
 
 [11.0 - Ability to filter system notes](https://gitlab.com/gitlab-org/gitlab-ce/issues/26723/index.html.md)
 
-[11.0 - Consistent design for issue and merge request (MR/index.html.md) list items (row/index.html.md) and board cards](https://gitlab.com/gitlab-org/gitlab-design/issues/83/index.html.md)
+[11.0 - Consistent design for issue and merge request (MR) list items (row) and board cards](https://gitlab.com/gitlab-org/gitlab-design/issues/83)
 
 
 ### Settings
 
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=settings/index.html.md) to view all UX Ready issues labeled settings.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=settings) to view all UX Ready issues labeled settings.
 
 [in progress - Improve combined settings views](https://gitlab.com/gitlab-org/gitlab-ce/issues/28451/index.html.md)
 
 [10.0 - Make project and features visibility settings less confusing](https://gitlab.com/gitlab-org/gitlab-ce/issues/32665/index.html.md)
 
 ### Autodevops
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=auto%20devops/index.html.md) to view all UX Ready issues labeled autodevops.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=auto%20devops) to view all UX Ready issues labeled autodevops.
 
 [10.8 - Make autodevops first class](https://gitlab.com/gitlab-org/gitlab-ce/issues/43466/index.html.md)
 
 ### Navigation
 
-Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=navigation/index.html.md) to view all UX Ready issues labeled navigation.
+Use [this link](https://gitlab.com/groups/gitlab-org/-/issues?scope=all&utf8=%E2%9C%93&state=all&label_name[]=UX%20ready&label_name[]=navigation) to view all UX Ready issues labeled navigation.
 
-[10.0 - Unveiling GitLab’s Navigation Blog Post](/2017/09/13/unveiling-gitlabs-new-navigation/index.html.md)
+[10.0 - Unveiling GitLab’s Navigation Blog Post](/2017/09/13/unveiling-gitlabs-new-navigation/)
 
 [10.0 - Meta Global vs. Contextual navigation](https://gitlab.com/gitlab-org/gitlab-ce/issues/32794/index.html.md)
 
-[9.4  - Redesigning GitLab’s Navigation Blog Post](/2017/07/17/redesigning-gitlabs-navigation/index.html.md)
+[9.4  - Redesigning GitLab’s Navigation Blog Post](/2017/07/17/redesigning-gitlabs-navigation/)
 
 [9.4 - Global vs. Contextual Navigation Feedback Issue](https://gitlab.com/gitlab-org/gitlab-ce/issues/34917/index.html.md)
 

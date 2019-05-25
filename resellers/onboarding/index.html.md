@@ -21,7 +21,7 @@ title: "Resellers Onboarding"
 
 ## New Reseller Onboarding Checklist
 
-To onboard a new reseller, copy the list from below and paste it into a new issue in the [resellers project](https://gitlab.com/gitlab-com/resellers/issues/index.html.md).
+To onboard a new reseller, copy the list from below and paste it into a new issue in the [resellers project](https://gitlab.com/gitlab-com/resellers/issues/).
 
 This list looks strange in this handbook but this is to ensure you can copy paste it into an issue. When you paste it in an issue it will have checkboxes that you can click to complete.
 
@@ -43,14 +43,14 @@ The topics are ordered by priority in which they need to be tackled, and the mai
   List them here:  
   * Business Contact:
   * Sales Contact:
-  * Technical Contact: (your consultant/SE and/or technical support person/index.html.md)
+  * Technical Contact: (your consultant/SE and/or technical support person)
   * Marketing Contact:
-  * Billing Contact: (To who's attention we should send invoices/index.html.md)
+  * Billing Contact: (To who's attention we should send invoices)
   
 US ONLY - [ ] Uniform Sales and Use Tax Exemption Certificate completed and emailed to partners@ gitlab.com
 
 ## [Website Listing] (/resellers/index.html.md) - To be completed before we can list you on our website
-- [ ] partner.com/GitLab landing page set up per guidelines in the [Resellers Handbook](https://github.com/daijapan/test/tree/master/resellers/#landing-page/index.html.md)
+- [ ] partner.com/GitLab landing page set up per guidelines in the [Resellers Handbook](https://github.com/daijapan/test/tree/master/resellers/#landing-page)
 - [ ] hi-res logo added to this issue (svg, png, or tiff/index.html.md)
 - [ ] 250 character English Language Company overview added as a comment below
 - [ ] 250 character Local Language Company overview added as a comment below
@@ -63,18 +63,18 @@ US ONLY - [ ] Uniform Sales and Use Tax Exemption Certificate completed and emai
   * Other:
   
 ## Promotion - to be completed before we can announce you to our customer base 
-- [ ] `Partner` listed on /resellers (ie: complete the section above/index.html.md)
+- [ ] `Partner` listed on /resellers (ie: complete the section above)
 - [ ] Press release completed See: ***List issue here***
 MARKET PARTNERS ONLY - [ ] Localised introduction email added to this issue 
-- [ ] Localised referral emails added to this issue [Example](https://github.com/daijapan/test/tree/master/resellers/#lead-referral-and-follow-up for an example/index.html.md)
+- [ ] Localised referral emails added to this issue [Example](https://github.com/daijapan/test/tree/master/resellers/#lead-referral-and-follow-up for an example)
 
 ## Other 
 MARKET PARTNERS ONLY - [ ] Local TLD acquired
 - [ ] Introduce your value to our blog readers per https://github.com/daijapan/test/tree/master/marketing/blog/#team-members-posts
 
-# Tasks for Partner Marketing (`@partner marketing manager`/index.html.md): 
+# Tasks for Partner Marketing (`@partner marketing manager`): 
 ## General on-boarding 
-- [ ] GitLab@reseller email address added to [news@gitlab.com mailing list](/contact/index.html.md)
+- [ ] GitLab@reseller email address added to [news@gitlab.com mailing list](/contact/)
 - [ ] Partner email address added to partner newsletter mail list
 
 ## Swag 
@@ -86,7 +86,7 @@ MARKET PARTNERS ONLY - [ ] Local TLD acquired
 - [ ] referal email templates added to outreach `@mollybeth`
 - [ ] BDR/Reseller introduction call completed
 
-# Tasks for Channel Team: (`@Channel Partner Manager`/index.html.md)
+# Tasks for Channel Team: (`@Channel Partner Manager`)
 ## General on-boarding 
 - [ ] Add partner to [reseller spreadsheet](https://docs.google.com/spreadsheets/d/1tQjPMRUuzsDR4mNj74aY-W8jBQH4u9h7PpEsw088Zx0/edit#gid=1395032632/index.html.md)
 - [ ] Welcome aboard email sent
@@ -117,7 +117,7 @@ MARKET PARTNERS ONLY - [ ] Local TLD acquired
 - [ ] Press Release Issue created ***Link issue here***  
   with the following tasks:  
   
-> - [ ] [Press release questionnaire] (https://docs.google.com/forms/d/1IBrpLR8BcLO1G9W-vvYSwdNmBNmbXW-mYeJlfx0iM9Y/viewform?edit_requested=true/index.html.md)  completed by `@partner marketing contact`
+> - [ ] [Press release questionnaire] (https://docs.google.com/forms/d/1IBrpLR8BcLO1G9W-vvYSwdNmBNmbXW-mYeJlfx0iM9Y/viewform?edit_requested=true)  completed by `@partner marketing contact`
 > - [ ] Quote provided by `@partner manager`
 > - [ ] Press release draft created by `@partner marketing manager`
 > - [ ] Press release approved by `@partner marketing contact`

@@ -25,7 +25,7 @@ This dehumanizes us and we lose our best asset: _Support from a human._ When you
 >
 > Let us know if there is anything else we can help with. �
 
-### We Aren’t a Cannery (but we sometimes use canned goods/index.html.md)
+### We Aren’t a Cannery (but we sometimes use canned goods)
 
 At GitLab, we consider the elements of our responses carefully. If you find yourself 
 wanting to use canned responses, or are saying the same things over and over, it's 
@@ -66,11 +66,11 @@ An _okay_ response is:
 
 Notice we asked for what we needed, and we’ll be able to help. Let’s make it great using the sandwich method:
 
-> “It will be helpful to get as many logs as possible during the slowness to help us isolate the problem. You can find them in /var/log/gitlab (This is our ask/index.html.md)
+> “It will be helpful to get as many logs as possible during the slowness to help us isolate the problem. You can find them in /var/log/gitlab (This is our ask)
 > 
-> Usually when we see slowness, it’s isolated to a specific part of the application. Can you help us narrow down the issue by outlining when you see things slow down? (This is our premise for them to reenforce our expertise./index.html.md)
+> Usually when we see slowness, it’s isolated to a specific part of the application. Can you help us narrow down the issue by outlining when you see things slow down? (This is our premise for them to reenforce our expertise.)
 > 
-> Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.� (This is us reassuring them we’ll help./index.html.md)
+> Once you send these over and help us understand how you are getting to the slow state we’ll be happy to help you dive in some more.� (This is us reassuring them we’ll help.)
 
 We’ve asked for what we need early. Hit them with it, so they can start thinking
 on it and if they stop reading right there, they didn’t miss the ask. We’ve given 

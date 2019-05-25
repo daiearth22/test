@@ -1,6 +1,6 @@
 ---
 layout: markdown_page
-title: "Meltano (BizOps Product/index.html.md)"
+title: "Meltano (BizOps Product)"
 ---
 
 ## On this page
@@ -15,11 +15,11 @@ title: "Meltano (BizOps Product/index.html.md)"
 
 ## Team
 
-* [Sid](https://gitlab.com/sytses/index.html.md) - CEO
-* [Jacob](https://gitlab.com/jschatz1/index.html.md) - Team Lead
-* [Micaël](https://gitlab.com/mbergeron/index.html.md) - Developer
-* [Yannis](https://gitlab.com/iroussos/index.html.md) - Sr. Developer
-* [Josh](https://gitlab.com/joshlambert/index.html.md) - Interim PM
+* [Sid](https://gitlab.com/sytses) - CEO
+* [Jacob](https://gitlab.com/jschatz1) - Team Lead
+* [Micaël](https://gitlab.com/mbergeron) - Developer
+* [Yannis](https://gitlab.com/iroussos) - Sr. Developer
+* [Josh](https://gitlab.com/joshlambert) - Interim PM
 
 ## Code
 

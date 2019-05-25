@@ -15,7 +15,7 @@ The role of field marketing is to identify and support critical sales and market
 
 ## Field Events   
 
-To find out what upcoming events GitLab and our resellers will be involved in please visit our [Events Page](/events/index.html.md). If you have any questions or an event suggestion for us please email `events@gitlab.com`.
+To find out what upcoming events GitLab and our resellers will be involved in please visit our [Events Page](/events/). If you have any questions or an event suggestion for us please email `events@gitlab.com`.
 
 ### Field Event Goals
 
@@ -45,8 +45,8 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 
 - If there is an event or conference you think would be a perfect fit for us to get involved in or sponsor based on the "evaluating and event" criteria above, the process for submitting that suggestion goes as follows:
  1. Please *only request* event support/ sponsorship if your engagement fits the following criteria:
-		1. The event will further business aims of GitLab (see event goals/index.html.md).  
-	    2. The event has an audience of **250+ people** (the exception being meet-ups - see below for more info on meet-ups/index.html.md)
+		1. The event will further business aims of GitLab (see event goals).  
+	    2. The event has an audience of **250+ people** (the exception being meet-ups - see below for more info on meet-ups)
 	    3. The event is a more than a month away.
 1. If your event fits the criteria above and you would like support from marketing, create an issue in the [marketing project](https://gitlab.com/gitlab-com/marketing/general/index.html.md) using the Events template.
 1. Fill out any relevant information you have and tell us what potential growth opportunities can be gained from investing in this event. Someone from Marketing will be in touch about to discuss your request further within one week.
@@ -76,7 +76,7 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
      -  Social ad or InMail copy + design
      -  Swag designs
      -  Pre and post event talking points for sales outreach
-     -  After event wrap up email(s/index.html.md)
+     -  After event wrap up email(s)
      -  Additional blog or content to support event strategy
      -  Targeted slide decks and demos for specific event audience
 
@@ -88,27 +88,27 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
   -  Target speakers for outreach
   -  Utilize previous years attendee list. That person may not be attending, but their colleague might be. Ask for intros. 
   -  Follow event hashtags to see who will be attending
-  -  Join local meetup and pre event events (this works well for large events like AWS/index.html.md)
+  -  Join local meetup and pre event events (this works well for large events like AWS)
   -  Join LinkedIn Groups and slack channels dedicated to event
   -  Download event app and engage with attendee via app. 
      - You can search for relevant talks and see who has registered for talks that might apply to potential customers. 
 - XDRs will help set up in person meetings to occur at event in coordination with assigned account reps.
 
-##### Scheduling Onsite Meetings (pre event/index.html.md)
+##### Scheduling Onsite Meetings (pre event)
 
 - There will be a spreadsheet with suggested meeting slots. AE's and XDR's are responsible for adding any meetings they have set with prospects or customers. 
-- The AE that sets the meeting will be responsible for completing the designated [client meetings prep sheet](https://gitlab.com/gitlab-com/marketing/general/blob/master/Client_meetings_prep_template.md/index.html.md). This sheet is intended to provide everyone attending the meeting with any background info on the prospect/ customer they should know going into the meeting, as well as any objectives or things to cover in said meeting. This sheet can be found in Google Docs as well as in every event issue. 
+- The AE that sets the meeting will be responsible for completing the designated [client meetings prep sheet](https://gitlab.com/gitlab-com/marketing/general/blob/master/Client_meetings_prep_template.md). This sheet is intended to provide everyone attending the meeting with any background info on the prospect/ customer they should know going into the meeting, as well as any objectives or things to cover in said meeting. This sheet can be found in Google Docs as well as in every event issue. 
 - The AE that sets the meeting will be responsible for creating the contact record in sfdc and adding that contact to the associated campaign. 
 - Meetings should be capped at 3-4 GitLabbers in attendance. We want to minimize disruption and get by with only the folks that will be most impactful to the meeting. Avoid million dollar meetings. 
 - If an exec is expected to be in meeting, AE will check for interest with prospects or customers and if there is, hand off to the EA team to handle scheduling. EA team owns scheduling **all exec meetings and engagements**
-- The AE will provide the EA team with a 1-page background on the meeting (company, attendees, focus for them and focus for GitLab + last minute contact details - phone and email/index.html.md) 1 week prior to the meeting
+- The AE will provide the EA team with a 1-page background on the meeting (company, attendees, focus for them and focus for GitLab + last minute contact details - phone and email) 1 week prior to the meeting
 - The AE that hosted the meeting will be responsible for updating the contact record with notes from the meeting and possibility doing hand off to account owner if they are not owner. 
 
 ##### Event Operations Checklist Before Event
 
-- Add event to [events page](/events/index.html.md). Instructions on how to add events can be found [here](https://github.com/daijapan/test/tree/master/marketing/corporate-marketing/#how-to-add-an-event-to-the-eventsyml/index.html.md)
+- Add event to [events page](/events/). Instructions on how to add events can be found [here](https://github.com/daijapan/test/tree/master/marketing/corporate-marketing/#how-to-add-an-event-to-the-eventsyml)
 - Add account based events with a link to a private issue
-- Create issue for event in [Marketing Project](https://gitlab.com/gitlab-com/marketing/general/issues/index.html.md) on gitlab.com (use [events issue template](https://gitlab.com/gitlab-com/marketing/general/blob/master/.gitlab/issue_templates/Event.md/index.html.md)/index.html.md).
+- Create issue for event in [Marketing Project](https://gitlab.com/gitlab-com/marketing/general/issues) on gitlab.com (use [events issue template](https://gitlab.com/gitlab-com/marketing/general/blob/master/.gitlab/issue_templates/Event.md)).
 - Marketing Programs will setup campaign for event in Salesforce. In the Event issue, include event **budget**, **goals for # of leads** and **expected SCLAU generation**. Other goals should be established and documented in the campaign for # meetings at event, and attendance at planned activities such as VIP dinners, lunches, etc., as applicable.
 - Team should add members to campaign to be invited to event, using the appropriate `Campaign Status`:   
      - `Engaged` = You have personally invited the person to the event.
@@ -122,8 +122,8 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 
 ##### Promoting Events Social
 
-- [Use social media](https://github.com/daijapan/test/tree/master/marketing/social-marketing/#event-promotion/index.html.md) to post as soon as committed to attending an event.
-- Possible Targeted Social Ads (media source depends on target audience and attendance goals/index.html.md). Timing depends on call to action.
+- [Use social media](https://github.com/daijapan/test/tree/master/marketing/social-marketing/#event-promotion) to post as soon as committed to attending an event.
+- Possible Targeted Social Ads (media source depends on target audience and attendance goals). Timing depends on call to action.
 - Schedule tweets one week before event and one to go out at event promoting presences and any relevant content.
 
 #### At Events/ In the Field
@@ -174,10 +174,10 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
     1. Donâ€™t reach for the badge without first asking if you can scan someones badge and don't lead a conversation with can I scan you. Ask folks politely, â€œWould you appreciate a follow up email?â€ or â€œMind if I scan your badge?â€ Many folks will say, â€œyes.â€ If they say, â€œNot really.â€ You can say, â€œGreat, we donâ€™t want to clutter up your inbox. You can always go online to about.gitlab.com if youâ€™d like to check back in with us.â€ 
     3. Trade scans for all swag if the attendee consents. If we have the space and staff, someone should be in charge of distributing and organizing swag, and scanning folks who come by for swag. 
 - Take good notes: 
-    1. Your initials (This way the email can be more personalized to say, â€œWe saw you chatted with [name] in the booth.â€/index.html.md) Add your initials + â€œfollow upâ€ if you personally can send them an email within a week of the conference. 
-    2. The tech stack (what tools they are using/index.html.md) 
-    3.  Any specifics needed in the follow up (schedule a call, send docs for X, interested in Y, etc./index.html.md) 
-    4. Tag the lead hot, mild, (cold/index.html.md)
+    1. Your initials (This way the email can be more personalized to say, â€œWe saw you chatted with [name] in the booth.â€) Add your initials + â€œfollow upâ€ if you personally can send them an email within a week of the conference. 
+    2. The tech stack (what tools they are using) 
+    3.  Any specifics needed in the follow up (schedule a call, send docs for X, interested in Y, etc.) 
+    4. Tag the lead hot, mild, (cold)
         1. Hot == 
         2. Mild == 
         3. Cold == everyone else. A lead will be cold by default. 
@@ -187,7 +187,7 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 ##### Suggested Attire   
 
 - Wear at least one piece of branded GitLab clothing. If you prefer to wear something dressier than the GitLab branded items available that is also acceptable. Feel free to wear our sticker on your shirt.
-- If the conference is business casual try some nice jeans (no holes/index.html.md) or dress pants.
+- If the conference is business casual try some nice jeans (no holes) or dress pants.
 - Clean, closed-toed shoes please.
 - A smile.
 
@@ -196,7 +196,7 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 - Bring:
     - Generic business cards
     - Stickers + any other swag
-    - Events laptop (for slide show/index.html.md) + charger + dongles
+    - Events laptop (for slide show) + charger + dongles
     - Backup power banks
     - Gum
     - One pagers + cheat sheets
@@ -232,7 +232,7 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
     - How did our swag go over?
         - Did we have enough/too much?
     - Contests
-        - Did the contest(s/index.html.md) effectively build our brand and connecting with our target audience?
+        - Did the contest(s) effectively build our brand and connecting with our target audience?
 - When the list is received from conference, the list will be shared with team & uploaded to SFDC campaign by Mktg OPS.
      - Records that are part of an existing named Account will be assigned to the named Account Owner by default.    
 - Data integrity is everyone's responsibility and we ask if you see that an `Account` you own and the **Account Name** does not match what is listed in Salesforce, please correct to match.    
@@ -248,8 +248,8 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 - The [SDR organization](https://github.com/daijapan/test/tree/master/marketing/marketing-sales-development/sdr/index.html.md) is responsible for ensuring leads from Field Marketing efforts have the correct [contact status](https://github.com/daijapan/test/tree/master/business-ops/#customer-lifecycle/index.html.md) throughout the life of the contact. 
 - If the AE/AM would like to do any personalized outreach to event records they will be responsible for coordinating efforts with SDR and documenting any activity and updating statuses in Salesforce. AE's will have one work week to take care of outreach and update the `Contact Status`. If not activity has happened in the first week SDR's will take over outreach.  
 - Check for existing account records before engaging contacts. Salesforce *cannot* fuzzy match records and only matches records using the `Email Address` field as the unique identifier. A LeanData workflow will be leveraged to match & merge duplicates or variations but no automated system is perfect.   
-- Marketing will send out **one** email to ALL event CONTACTS in Campaign (within 3 business days of event close/index.html.md).   
-- The Account Owner or delegated SDR will send a follow up email to their owned account contacts (within 3 business days of event close/index.html.md). The `Contact Status` **must** be updated to reflect [outreach status](https://github.com/daijapan/test/tree/master/business-ops/#lead--contact-statuses/index.html.md). 
+- Marketing will send out **one** email to ALL event CONTACTS in Campaign (within 3 business days of event close).   
+- The Account Owner or delegated SDR will send a follow up email to their owned account contacts (within 3 business days of event close). The `Contact Status` **must** be updated to reflect [outreach status](https://github.com/daijapan/test/tree/master/business-ops/#lead--contact-statuses). 
 - FMM campaign owner will check in on campaign and `Contact Status` one week, two weeks, one month, and three months out from event assisting in any additional nurturing efforts to move the needle forward. 
 
 ## Terminus Campaigns
@@ -262,4 +262,4 @@ To find out what upcoming events GitLab and our resellers will be involved in pl
 - The Pipe to Spend team manages Terminus, but Field Marketing contributes to identifying companies and messaging. 
 
 ## Swag 
-- Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](https://github.com/daijapan/test/tree/master/marketing/corporate-marketing/#swag/index.html.md). 
+- Swag selection and creation is managed by Corporate Marketing. All information on swag can be found in the [Corporate Marketing handbook](https://github.com/daijapan/test/tree/master/marketing/corporate-marketing/#swag). 

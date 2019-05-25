@@ -22,13 +22,13 @@ The following questions can be used to help develop the opportunity and advance 
     * What problems are they looking to solve?
         - If these problems are not solved, what happens?  What are the implications of these problems?
     * What tools are you using in your Dev Ops stack?
-        - Bug Tracker (Issue Tracker/index.html.md)
+        - Bug Tracker (Issue Tracker)
         - CI
         - Code Review
         - Deployment
         - Project Management/Agile Tools
-    * What performance issues are you experiencing in any of these areas (stack above/index.html.md)?
-    * Where is this interest/initiative coming from?  (At the top or only this lead - is it company, unit, or personal interest.  The higher the initiative, the more likely to close and quickly/index.html.md)
+    * What performance issues are you experiencing in any of these areas (stack above)?
+    * Where is this interest/initiative coming from?  (At the top or only this lead - is it company, unit, or personal interest.  The higher the initiative, the more likely to close and quickly)
     * What is the timing to purchase?
     * What are the requirements you have for this project?
         - What does success look like?
@@ -45,7 +45,7 @@ The following questions can be used to help develop the opportunity and advance 
     * Does each team/group purchase their own solutions or is their a department who does this?
         - If a centralized department, what is that groups name?
 
-1. Additional qualification questions if prospect signed up for free trial.  (Goal: Know how to ensure a successful trial/index.html.md)
+1. Additional qualification questions if prospect signed up for free trial.  (Goal: Know how to ensure a successful trial)
     * What would constitute a successful trial?
     * Are there certain features that are most important to you in your evaluation?
     * How many users are you interested in deploying on GitLab?
@@ -54,7 +54,7 @@ The following questions can be used to help develop the opportunity and advance 
     * Are you looking to bring one division of your company on to EE?
         - If only a group, what is preventing you from bringing on the entire company at this time?
 
-1. Opportunity Development Questions (Goal: develop their implicit and explicit needs.  Why they must make a decision/index.html.md)
+1. Opportunity Development Questions (Goal: develop their implicit and explicit needs.  Why they must make a decision)
     * How important is increased security/authentication for you and your company? For example, Two factor LDAP authentication
     * How important would it be to assign different user levels for team members to only be able to access certain areas of the source code?
     * Do you need to work with large binary files?

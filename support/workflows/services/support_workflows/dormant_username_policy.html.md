@@ -29,16 +29,16 @@ ______________
 
 ##### Workflow
 
-1. Search for the requested username in [GitLab.com admin](https://gitlab.com/admin/users/index.html.md), once found visit the users admin profile.
+1. Search for the requested username in [GitLab.com admin](https://gitlab.com/admin/users), once found visit the users admin profile.
 1. Apply the **â€œAccount::Dormant Username::Internal Checklistâ€** Macro
-1. Answer all questions in the **â€œInternal Checklistâ€** (Yes/No/index.html.md) ensuring to cross check the information found in the admin section. 
-1. If all answers are **Yes** for the internal checklist follow: [Username is available](#username-is-available/index.html.md) 
-1. if the username is not available follow: [Username is not available](#username-is-not-available/index.html.md)
+1. Answer all questions in the **â€œInternal Checklistâ€** (Yes/No) ensuring to cross check the information found in the admin section. 
+1. If all answers are **Yes** for the internal checklist follow: [Username is available](#username-is-available) 
+1. if the username is not available follow: [Username is not available](#username-is-not-available)
 
 ##### Username is available 
 
 1. Reply to the requester with the **Account::Dormant Username::First Response** Macro
-1. Create a **new ZenDesk ticket** with the **username owner's email address (found in admin/index.html.md)**. 
+1. Create a **new ZenDesk ticket** with the **username owner's email address (found in admin)**. 
 1. Apply the **â€œAccount::Dormant Username::Contact Username Ownerâ€** Macro and mark the ticket as **Pending**. 
 1. Make an internal comment providing a link to the ticket â€œrequesting user's ticketâ€
 1. Wait for **a response** or the ticket to be **automatically reopened** in a week.
@@ -47,7 +47,7 @@ ______________
 
 
 ##### Username owner responded
-If the username owners makes a response (donâ€™t remove my username/index.html.md) follow these steps:
+If the username owners makes a response (donâ€™t remove my username) follow these steps:
 
 1. Apply the **â€œAccount::Dormant Username::Cancel Requestâ€** Macro to the **username owners response**.
 1. Apply the **â€œAccount::Dormant Username::Failed Username Requestâ€** to the **username requesters ticket**. 
@@ -55,7 +55,7 @@ If the username owners makes a response (donâ€™t remove my username/index.html.m
 
 ##### Username owner has not responded
 
-If the contacted user makes no response (within a 2 week period/index.html.md) the ticket will be **automatically marked as open and an email sent to the assigned agent** 
+If the contacted user makes no response (within a 2 week period) the ticket will be **automatically marked as open and an email sent to the assigned agent** 
 
 If the username owners makes no response follow these steps:
 
@@ -85,12 +85,12 @@ __________________
 
 **Macros**
 
-* [Account::Dormant Username::Failed Username Request](https://gitlab.zendesk.com/rules/94534768/edit/index.html.md)
-* [Account::Dormant Username::Internal Checklist](https://gitlab.zendesk.com/rules/93505588/edit/index.html.md)
+* [Account::Dormant Username::Failed Username Request](https://gitlab.zendesk.com/rules/94534768/edit)
+* [Account::Dormant Username::Internal Checklist](https://gitlab.zendesk.com/rules/93505588/edit)
 * [Account::Dormant Username::First Response](https://gitlab.zendesk.com/rules/94687707/index.html.md)
-* [Account::Dormant Username::Contact Username Owner](https://gitlab.zendesk.com/rules/94531288/edit/index.html.md)
-* [Account::Dormant Username::Cancel Request](https://gitlab.zendesk.com/rules/94534828/edit/index.html.md)
+* [Account::Dormant Username::Contact Username Owner](https://gitlab.zendesk.com/rules/94531288/edit)
+* [Account::Dormant Username::Cancel Request](https://gitlab.zendesk.com/rules/94534828/edit)
 
 **Automations**
 
-* [Dormant Username Check](https://gitlab.zendesk.com/rules/94693587/edit/index.html.md)
+* [Dormant Username Check](https://gitlab.zendesk.com/rules/94693587/edit)

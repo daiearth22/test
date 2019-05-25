@@ -31,7 +31,7 @@ title: "FAQ from prospects"
 
   Documentation: https://docs.gitlab.com/ee/markdown/markdown.html#code-and-syntax-highlighting
 
-- Q: Is there a max size (disk size/index.html.md) per project?
+- Q: Is there a max size (disk size) per project?
 
   A: Projects have no limit in disk size. The size of each project is listed in the projects overview in the admin panel.
 

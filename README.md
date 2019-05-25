@@ -1,16 +1,16 @@
 ---
 layout: markdown_page
 title: Handbook
-twitter_image: '/images/tweets/handbook-gitlab.png'
+twitter_image: '/images/tweets/handbook'
 ---
 
-The GitLab team handbook is the central repository for how we run the company. Printed it consists of over [1,000 pages of text](https://github.com/daijapan/test/tree/master/tools-and-tips/#count-handbook-pages/index.html.md). As part of our value of being transparent the handbook is <a href="https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook">open to the world</a>, and we welcome feedback<a name="feedback"></a>. Please make a <a href="https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests">merge request</a> to suggest improvements or add clarifications.
+The GitLab team handbook is the central repository for how we run the company. Printed it consists of over [1,000 pages of text](https://github.com/daijapan/test/tree/master/tools-and-tips/#count-handbook-pages). As part of our value of being transparent the handbook is <a href="https://gitlab.com/gitlab-com/www-gitlab-com/tree/master/source/handbook">open to the world</a>, and we welcome feedback<a name="feedback"></a>. Please make a <a href="https://gitlab.com/gitlab-com/www-gitlab-com/merge_requests">merge request</a> to suggest improvements or add clarifications.
 Please use <a href="https://gitlab.com/gitlab-com/www-gitlab-com/issues">issues</a> to ask questions.
 
 * [General](https://github.com/daijapan/test/tree/master/index.html.md)
   * [Values](https://github.com/daijapan/test/tree/master/values/index.html.md)
   * [General Guidelines](https://github.com/daijapan/test/tree/master/general-guidelines/index.html.md)
-  * [Handbook Usage](https://github.com/daijapan/test/tree/masterhttps://github.com/daijapan/test/tree/master-usage/index.html.md)
+  * [Handbook Usage](https://github.com/daijapan/test/tree/master/handbook/index.html.md)
   * [Communication](https://github.com/daijapan/test/tree/master/communication/index.html.md)
   * [Security](https://github.com/daijapan/test/tree/master/security/index.html.md)
   * [Anti-Harassment Policy](https://github.com/daijapan/test/tree/master/anti-harassment/index.html.md)
@@ -93,7 +93,7 @@ Please use <a href="https://gitlab.com/gitlab-com/www-gitlab-com/issues">issues<
 .md-page h2 i.icon-color {
   color: rgb(107,79,187/index.html.md)
 }
-.md-page h2:nth-of-type(even/index.html.md) i.icon-color{
+.md-page h2:nth-of-type(even) i.icon-color{
   color:rgb(252,109,38/index.html.md);
 }
 .font-awesome {
@@ -120,7 +120,7 @@ ul.toc-list-icons li ul li i {
   padding-right: 15px;
   color: rgb(107,79,187/index.html.md);
 }
-ul.toc-list-icons li:nth-of-type(even/index.html.md) i {
+ul.toc-list-icons li:nth-of-type(even) i {
   color:rgb(252,109,38/index.html.md);
 }
 </style>

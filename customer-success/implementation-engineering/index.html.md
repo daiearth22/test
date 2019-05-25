@@ -14,20 +14,20 @@ The Implementation Engineering group at GitLab is a part of the [Customer Succes
 {:toc}
 
 ## Role & Responsibilities
-See the [Implementation Engineer role description](/job-families/sales/implementation-engineer/index.html.md)
+See the [Implementation Engineer role description](/job-families/sales/implementation-engineer/)
 
 ### Statement of Work creation
 
-The GitLab Implementation Engineering group is responsible for both maintaining the [GitLab SOW Template](https://docs.google.com/document/d/1X8_EiX8kgJdpaVlydbTJg5pn4RXeDvYOIyok2G1A69I/edit/index.html.md) (internal link/index.html.md) as well as the production of new Statements of Work for customer proposals.
+The GitLab Implementation Engineering group is responsible for both maintaining the [GitLab SOW Template](https://docs.google.com/document/d/1X8_EiX8kgJdpaVlydbTJg5pn4RXeDvYOIyok2G1A69I/edit) (internal link) as well as the production of new Statements of Work for customer proposals.
 
-To obtain a Statement of Work, open a new SOW issue using the template on the [Professional Services project](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/new?issuable_template=SOW%20Request/index.html.md) (internal link/index.html.md). 
+To obtain a Statement of Work, open a new SOW issue using the template on the [Professional Services project](https://gitlab.com/gitlab-com/customer-success/professional-services/issues/new?issuable_template=SOW%20Request) (internal link). 
 We prefer customers to mark up our agreement and SOW template if they request changes. If they require the use of their services terms or SOW, please contact the Implementation Engineering group.
 
 ### Services Delivery
 
 #### Implementation Plan
 
-Each services engagement will include an Implementation Plan compiled based on the Statement of Work and other discussions the Implementation Engineering group has with the customer.  The Implementation Engineering group also maintains the SOW template located [at this internal link](https://docs.google.com/document/d/1ohZtqR1mMZYWAOD7PBVc1xZIMGpzHNgccRxVZ9Nzirg/edit/index.html.md).
+Each services engagement will include an Implementation Plan compiled based on the Statement of Work and other discussions the Implementation Engineering group has with the customer.  The Implementation Engineering group also maintains the SOW template located [at this internal link](https://docs.google.com/document/d/1ohZtqR1mMZYWAOD7PBVc1xZIMGpzHNgccRxVZ9Nzirg/edit).
 
 ### Implementation Engineering Workflows
 
@@ -45,19 +45,19 @@ See [Professional Services Offerings](https://github.com/daijapan/test/tree/mast
 
 ### Contacting & Scheduling
 
-At GitLab, Implementation Engineering is part of the [Customer Success department](https://github.com/daijapan/test/tree/master/customer-success/index.html.md).  As such, you can engage with Implementation Engineering by following the guidelines for [engaging with any Solutions Architect](https://github.com/daijapan/test/tree/master/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect/index.html.md).  This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
+At GitLab, Implementation Engineering is part of the [Customer Success department](https://github.com/daijapan/test/tree/master/customer-success/index.html.md).  As such, you can engage with Implementation Engineering by following the guidelines for [engaging with any Solutions Architect](https://github.com/daijapan/test/tree/master/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect).  This process ensures that the Customer Success department as a whole can understand the inbound needs of the account executive and our customers.
 
 For scheduling specific customer engagements, we currently are slotting implementations while our group grows to support the demand for services.  If you have a concern about scheduling the engagement, this should be discussed at the Discovery phase.  In no case should you commit to dates before receipt of agreements, P.O., etc.
 
 ### Contacting Implementation Engineering
 
-To contact the Implementation Engineering group, the best way is to follow the guidelines for [Engaging a Solutions Architect](https://github.com/daijapan/test/tree/master/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect/index.html.md).  
+To contact the Implementation Engineering group, the best way is to follow the guidelines for [Engaging a Solutions Architect](https://github.com/daijapan/test/tree/master/customer-success/solutions-architects#when-and-how-to-engage-a-solutions-architect).  
 
 You can also reach the group via the [#customer-success Slack Channel](https://gitlab.slack.com/messages/C5D346V08/index.html.md).
 
 ### Implementation Engineering Issue Board
 
-The [Implementation Engineering Issue Board is available here](https://gitlab.com/gitlab-com/customer-success/professional-services/boards/index.html.md).  This board contains everything that the group is working on - from strategic initiatives to [SOW writing](#statement-of-work-creation/index.html.md), all group activity is available here.
+The [Implementation Engineering Issue Board is available here](https://gitlab.com/gitlab-com/customer-success/professional-services/boards).  This board contains everything that the group is working on - from strategic initiatives to [SOW writing](#statement-of-work-creation), all group activity is available here.
 
 #### SOW Issues
 

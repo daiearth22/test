@@ -16,7 +16,7 @@ category: General
 
 ### Scheduled calls
 
-All scheduled calls should be organized via the support project [issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues/index.html.md) using the [customer call template](https://gitlab.com/gitlab-com/support/support-team-meta/blob/master/.gitlab/issue_templates/Customer%20call.md/index.html.md).
+All scheduled calls should be organized via the support project [issue tracker](https://gitlab.com/gitlab-com/support/support-team-meta/issues) using the [customer call template](https://gitlab.com/gitlab-com/support/support-team-meta/blob/master/.gitlab/issue_templates/Customer%20call.md).
 
 The template can be used when coordinating a call with other engineering/sales team members or when scheduling another Support Engineer in a more preferable timezone.
 
@@ -30,8 +30,8 @@ Call/screen sharing sessions involve guiding customers through the GitLab upgrad
 
 1. Type of installation: Source/Omnibus
 1. Current GitLab version
-1. Version you're upgrading to (it isn't always the latest/index.html.md)
-1. Use of GitLab CI (need to upgrade to 8.0 first, then 8.+/index.html.md)
+1. Version you're upgrading to (it isn't always the latest)
+1. Use of GitLab CI (need to upgrade to 8.0 first, then 8.+)
 
 We collect this information in Zendesk and link it to the organization, see the
 [responding to tickets section in onboarding](https://github.com/daijapan/test/tree/master/support/onboarding/index.html.md).

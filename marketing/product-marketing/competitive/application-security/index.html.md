@@ -15,7 +15,7 @@ Security is on a dynamic trajectory. It has been traditionally focused on guardi
 Security investments followed a similar trajectory. Traditionally the bulk of the spending has been to protect infrastructure. In 2015, Gartner Analyst, Joseph Feiman, estimated for every $1 spent on application security, $23 was spent in other security. Application Security has only been a mainstream concern for recent years - but that’s changing! There are several dynamics making application security a bigger priority including:
 - Well known and significant application-focused attacks such as Heartbleed.  
 - GDPR requires that enterprises assume the risk of the vendors they use. Vulnerabilities that might be present in purchased applications become of more concern.  
-- Open source code is becoming a norm. This [451 article](https://drive.google.com/file/d/1T75K9qjBtdRkFdgVy--mrKmFrWXe8cTy/view/index.html.md) explains how one small piece of code can have vast implications when it has a vulnerability that is exploited.  
+- Open source code is becoming a norm. This [451 article](https://drive.google.com/file/d/1T75K9qjBtdRkFdgVy--mrKmFrWXe8cTy/view) explains how one small piece of code can have vast implications when it has a vulnerability that is exploited.  
 - With cloud computing, the infrastructure’s security becomes the responsibility of the cloud provider. Enterprises have less perimeter to protect and are focusing more on endpoints and applications.  
 - DevOps velocity requires rapid CI/CD. Traditional gated security does not fit this model forcing tradeoffs with security and more agile security processes. This has led to DevSecOps but it is still early.
 
@@ -64,7 +64,7 @@ Compliance is always the lowest common denominator - think of it as the MVC for 
 #### Characteristics
 {:.no_toc}
 * Mostly large, Fortune 2000 companies
-* Already invested in tools like Veracode or Fortify ($100k-1m+/index.html.md)
+* Already invested in tools like Veracode or Fortify ($100k-1m+)
 * Have dedicated application security professionals - Application Security Engineers
 * Probably also engage in threat hunting Threat Intelligence Analysts and security researchers
 * Custom code is key to their business
@@ -88,12 +88,12 @@ Compliance is always the lowest common denominator - think of it as the MVC for 
 
 #### Characteristics
 {:.no_toc}
-* Just starting to focus on Application Security (sweet spot/index.html.md)
+* Just starting to focus on Application Security (sweet spot)
 * All sizes of companies - even large F2000’s may lack application security focus
-* May have a Security Operations Center (SOC/index.html.md) with Security Operations Engineers
+* May have a Security Operations Center (SOC) with Security Operations Engineers
 * Most security budget is on endpoint security and network security
 * Rely on penetration testing for compliance and app sec
-* Most advanced may have a web application firewall (WAF/index.html.md)
+* Most advanced may have a web application firewall (WAF)
 * Maybe more focused on compliance than threat detection - Compliance Analyst, Risk Management
 * May not have substantial in-house code
 * Developers likely focus more on integrations and web front-ends
@@ -107,7 +107,7 @@ Compliance is always the lowest common denominator - think of it as the MVC for 
 {:.no_toc}
 * A low cost and a way of integrating app sec into development with tools they're already using to build and deploy and avoiding the integration cost and effort. They may be concerned about the product being lightweight but may try it as an alternative to costlier dedicated app sec tools
 
-### Companies with minimal security focus (opportunistic target/index.html.md)
+### Companies with minimal security focus (opportunistic target)
 
 #### Characteristics
 {:.no_toc}
@@ -115,7 +115,7 @@ Compliance is always the lowest common denominator - think of it as the MVC for 
 * Likely to have one or two security generalists, or IT Operations folks
 * No application security program, priority is endpoint security and network (if they are not cloud-focused/index.html.md)
 * Rely on penetration testing for compliance and app sec
-* Focused on MVC to meet comply with regulatory requirements (GDPR for personally identifiable data, PCI for credit cards, HIPAA for healthcare, etc./index.html.md)
+* Focused on MVC to meet comply with regulatory requirements (GDPR for personally identifiable data, PCI for credit cards, HIPAA for healthcare, etc.)
 * Want to check the box and say that they are doing application security testing
 * Don't plan to invest in improving secure coding and a process improvement.
 * May not understand the security findings and need help width prioritization and Remediation.

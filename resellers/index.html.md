@@ -25,7 +25,7 @@ Leads at GitLab are valuable, and do not age well. If we refer a lead to you, we
 
 ### Lead referral and follow up
 
-When GitLab refers leads to you, the lead will have received an email introduction to you first.  Those introduction(s/index.html.md) may look a little like this (usually in local language/index.html.md):
+When GitLab refers leads to you, the lead will have received an email introduction to you first.  Those introduction(s) may look a little like this (usually in local language):
 
 > Greetings `Customer Name`,
 >
@@ -74,10 +74,10 @@ If the lead goes a further week without being updated or responded to; then the 
 
 The steps to closing a deal are:
 
-1. [Deal Registration](#deal-registration/index.html.md)
-2. [Sign a quote](#gitlab-quote/index.html.md)
-3. [Customer accepts EULA](#gitlab-eula/index.html.md)
-4. [Customer receives license key](#licence-key-delivery/index.html.md)
+1. [Deal Registration](#deal-registration)
+2. [Sign a quote](#gitlab-quote)
+3. [Customer accepts EULA](#gitlab-eula)
+4. [Customer receives license key](#licence-key-delivery)
 5. [Remitting payment to GitLab](#paying-gitlab/index.html.md)
 
 
@@ -92,17 +92,17 @@ GitLab will not assign any resources, accept an order, give a quote, issue an ev
 
 If we reject your registration because another has already registered the deal, and you still fulfill the order, your contract may still entitle you to a fullfillment fee.
 
-You can register a deal only by completing the [deal registration form](https://docs.google.com/forms/d/1ugj5z4le6OJgR5qp5bPBCoxqlExvs2zVFjs67K2pEO4/viewform?usp=send_form/index.html.md)
+You can register a deal only by completing the [deal registration form](https://docs.google.com/forms/d/1ugj5z4le6OJgR5qp5bPBCoxqlExvs2zVFjs67K2pEO4/viewform?usp=send_form)
 
-When you complete the registration, the registration will be evaluated according to the [deal registration approval workflow](https://docs.google.com/drawings/d/1kcN13pM-NQ4SboxTbF1G_Upfi1_9n9RV4zOO2zuHaek/index.html.md).
+When you complete the registration, the registration will be evaluated according to the [deal registration approval workflow](https://docs.google.com/drawings/d/1kcN13pM-NQ4SboxTbF1G_Upfi1_9n9RV4zOO2zuHaek).
 
 - If approved we provide you with deal protection
 - Accumulate VIR contribution for any IACV if the deal is won
 - If approved a GitLab sales employee will be assigned to assist you in that opportunity.  This assistance may include things like:
     - Provide you with sales support and pre-sales technical assistance
-    - Providing an evaluation license for the customer.  See [evaluations](#evaluation-licenses-for-prospects/index.html.md) section below
+    - Providing an evaluation license for the customer.  See [evaluations](#evaluation-licenses-for-prospects) section below
     - Procvide you with any other intelligence that we may have on this account; possibly including:
-        - GitLab CE usage (if any/index.html.md) from [GitLab Version Check](https://github.com/daijapan/test/tree/master/sales-process/version_check/index.html.md).
+        - GitLab CE usage (if any) from [GitLab Version Check](https://github.com/daijapan/test/tree/master/sales-process/version_check/index.html.md).
         - Other usage elsewhere at that company and their affiliates
         - Any previous history with that customer
 
@@ -114,14 +114,14 @@ looks like this. Yours may differ slightly. This quote reflects your reseller pr
 exclusive of incentive bonus's and is not meant for the end customer. You will need to
 generate your own quote to the end customer.
 
-The quote will come with a [Sertifi](http://corp.sertifi.com/index.html.md) link. E-signing the quote
+The quote will come with a [Sertifi](http://corp.sertifi.com/) link. E-signing the quote
 with Sertifi will initiate the invoicing process and cause our systems to invoice you.
 Do not e-sign the quote until you are ready to be invoiced.  Do not e-sign the quote if
 your customer will be paying us directly.
 
 Note that we will not generate a quote, or fulfill an order, without an end user contact complete with email, shipping address, and postal code.
 
-![sample reseller invoice](/imageshttps://github.com/daijapan/test/tree/master/sample_reseller_invoice.png/index.html.md){: .shadow}
+![sample reseller invoice](/imageshttps://github.com/daijapan/test/tree/master/sample_reseller_invoice.png){: .shadow}
 
 ### License Key Delivery
 {: #license-key-delivery}
@@ -152,7 +152,7 @@ address. This will make sure that the PO gets attached to the appropriate opport
 
 #### Paying via Invoice
 
-To pay via invoice, simply e-sign the [reseller quote](#gitlab-quote/index.html.md) to initiate an
+To pay via invoice, simply e-sign the [reseller quote](#gitlab-quote) to initiate an
 invoice then remit payment in USD to the bank listed on your quote.
 
 ###  Execute the GitLab EULA
@@ -187,9 +187,9 @@ GitLab leads.
 ## Evaluation licenses for prospects
 {: #evaluation-licenses-for-prospects}
 
-We will issue you a 30 day evaluation license for your prospects if the deal is properly [registered](#deal-registration/index.html.md).  
+We will issue you a 30 day evaluation license for your prospects if the deal is properly [registered](#deal-registration).  
 We can renew this license if your customer needs more time.  
-Upon the second request for renewal (the 3rd license/index.html.md), we will assist you with a managed evaluation, where goals are set for the customer to meet, and one of our Solutions Architects will work with you and the prospect to bring them to completion before the 3rd evaluation expires.  
+Upon the second request for renewal (the 3rd license), we will assist you with a managed evaluation, where goals are set for the customer to meet, and one of our Solutions Architects will work with you and the prospect to bring them to completion before the 3rd evaluation expires.  
 
 ## Marketing
 
@@ -197,7 +197,7 @@ GitLab will strive to support you in your marketing efforts. Marketing activitie
 
 ### Events
 
-If you are participating in an event or talk and will be representing GitLab please add your event to the GitLab [events page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/events.yml/index.html.md) and submit MR to @emily. 
+If you are participating in an event or talk and will be representing GitLab please add your event to the GitLab [events page](https://gitlab.com/gitlab-com/www-gitlab-com/blob/master/data/events.yml) and submit MR to @emily. 
 
 ### Event Funds Requests
 
@@ -207,22 +207,22 @@ We will endeavor to provide funds to support up one event per reseller per quart
 
 *If request for sponsorship is accepted, you will be asked to provide photos of the event, participate in a blog post writing about your of the event, and provide a summary of the number of opportunities/leads gained.*
 
-Please submit your application for event support [here](https://gitlab.com/gitlab-com/resellers/issues/new/index.html.md) and chose the reseller template.
+Please submit your application for event support [here](https://gitlab.com/gitlab-com/resellers/issues/new) and chose the reseller template.
 
-Please submit your application for event support in a new issue in the [reseller page of gitlab.com](https://gitlab.com/gitlab-com/resellers/issues/index.html.md). When it allows you to select a template, choose the reseller template and fill in responses to the categories. All the relevant GitLab parties will be notified once you submit your issue and will be in touch shortly. You will be able to track the progress of your submission in the issue.
+Please submit your application for event support in a new issue in the [reseller page of gitlab.com](https://gitlab.com/gitlab-com/resellers/issues). When it allows you to select a template, choose the reseller template and fill in responses to the categories. All the relevant GitLab parties will be notified once you submit your issue and will be in touch shortly. You will be able to track the progress of your submission in the issue.
 
 ### Online Marketing Support Requests
 
-GitLab may, at our discretion, also assist you with your advertising campaigns by providing online marketing support in your region. When requesting assistance, be as complete as you can in describing what you need, who the audience is, channels, and the expected ROI. Please apply [here](https://gitlab.com/gitlab-com/resellers/issues/new/index.html.md) and chose the reseller template.
+GitLab may, at our discretion, also assist you with your advertising campaigns by providing online marketing support in your region. When requesting assistance, be as complete as you can in describing what you need, who the audience is, channels, and the expected ROI. Please apply [here](https://gitlab.com/gitlab-com/resellers/issues/new) and chose the reseller template.
 
 ### Swag Requests
 
-Please submit your application for GitLab branded swag [here](https://docs.google.com/forms/d/1x2qP8EyEu2Y_XmIt7txudUYh-PP_Tst6hRuNq3a7Ruc/edit?usp=sharing/index.html.md)
-We have been known to co-fund co-branded or locally produced SWAG. Send submit your idea [here](https://gitlab.com/gitlab-com/resellers/issues/new/index.html.md) and chose the reseller template.
+Please submit your application for GitLab branded swag [here](https://docs.google.com/forms/d/1x2qP8EyEu2Y_XmIt7txudUYh-PP_Tst6hRuNq3a7Ruc/edit?usp=sharing)
+We have been known to co-fund co-branded or locally produced SWAG. Send submit your idea [here](https://gitlab.com/gitlab-com/resellers/issues/new) and chose the reseller template.
 
 ### Marketing Collateral - Videos
 
-Reseller will be provided access to certain videos to be used in its marketing effort.  Reseller may modify the content of the videos, but only with respect to the length of the video and/or to localize the video for the local language where marketing efforts are being performed.  Reseller may publish the videos (modified or not/index.html.md) on Reseller's website, however it must be on social media, a page dedicated to promoting GitLab, or otherwise approved by GitLab. The GitLab page must also include "About GitLab" [copy](https://github.com/daijapan/test/tree/master/marketing/product-marketing/#single-sentence/index.html.md) (the reseller may use judgment as to which length description is appropriate/index.html.md), and  a link to about.gitlab.com.
+Reseller will be provided access to certain videos to be used in its marketing effort.  Reseller may modify the content of the videos, but only with respect to the length of the video and/or to localize the video for the local language where marketing efforts are being performed.  Reseller may publish the videos (modified or not) on Reseller's website, however it must be on social media, a page dedicated to promoting GitLab, or otherwise approved by GitLab. The GitLab page must also include "About GitLab" [copy](https://github.com/daijapan/test/tree/master/marketing/product-marketing/#single-sentence/index.html.md) (the reseller may use judgment as to which length description is appropriate), and  a link to about.gitlab.com.
 
 
 ## Technical Support
@@ -230,7 +230,7 @@ Reseller will be provided access to certain videos to be used in its marketing e
 While we do not require them to, we do expect that your customers will, for the most part, contact you if they need help.
 It is in both of our best interest that they do so, as the more touch points you have with them, the more likely you are to further develop business with them.
 We do not expect you to be as knowledgeable about our products as our own support staff, and do expect that you will need to escalate some issues to our support staff.
-To facilitate this, you will be assigned a [Dedicated Support Engineer (DSE/index.html.md)](https://github.com/daijapan/test/tree/master/support/#dedicated-support-engineers/index.html.md) to help your staff troubleshoot and resolve any issues that your customers may encounter. Your contact at GitLab can use the [Dedicated Support Engineer issue template](https://gitlab.com/gitlab-com/support/blob/master/.gitlab/issue_templates/Dedicated%20support%20engineer.md/index.html.md) to start the process of finding a suitable DSE.
+To facilitate this, you will be assigned a [Dedicated Support Engineer (DSE)](https://github.com/daijapan/test/tree/master/support/#dedicated-support-engineers) to help your staff troubleshoot and resolve any issues that your customers may encounter. Your contact at GitLab can use the [Dedicated Support Engineer issue template](https://gitlab.com/gitlab-com/support/blob/master/.gitlab/issue_templates/Dedicated%20support%20engineer.md) to start the process of finding a suitable DSE.
 We will make every attempt to assign you a DSE that is in your time zone and if possible, having appropriate language skills.
 
 You may contact your DSE at the email address in the README file of the [resellers project](https://gitlab.com/gitlab-com/resellers/index.html.md).
@@ -241,7 +241,7 @@ For this reason, all correspondence should be in English as that is the language
 
 When contacting your DSE, you will need to include the following for each incident:
 
-- Name and email address of the end user reporting the problem, their GitLab.com user ID (if they have one/index.html.md), and their company name.
+- Name and email address of the end user reporting the problem, their GitLab.com user ID (if they have one), and their company name.
 - What EE version they are using
 - Salient details about their setup
 - First date of issue occurrence
@@ -256,22 +256,22 @@ Your website will need to have a landing page with information about GitLab. You
 
 - We would prefer your landing page to be at `yoururl.com/GitLab` where this is not possible, we would ask you to set a redirect for that URL to the actual one.
 - We highly encourage your landing page to be in local language.  There are plenty of English language resources on GitLab, so providing them in the native tounge of your customers adds value.
-- You should use our [Authorized Reseller Logo](#Logo/index.html.md) on your page, and have it link back to us at `/resellers`
+- You should use our [Authorized Reseller Logo](#Logo) on your page, and have it link back to us at `/resellers`
 - There needs to be a _“What is GitLab?”_ paragraph
 - Where ever you mention a GitLab product or feature, there should be a link back to our corresponding item on ``
 
 Here is also a list of resources that you may find useful to include on your landing page.
 
-- [What is GitLab](/index.html.md)
-- [What is GitLab EE](/features/#enterprise/index.html.md)
-- [CE vs EE comparison](/products/#compare-options/index.html.md)
+- [What is GitLab]()
+- [What is GitLab EE](/features/#enterprise)
+- [CE vs EE comparison](/products/#compare-options)
 - [GitLab CI](/features/gitlab-ci-cd/index.html.md)
 - [GitLab Geo](/features/gitlab-geo/index.html.md)
-- [Pricing](/products/index.html.md)
+- [Pricing](/products/)
 - [GitLab Blog](/blog/index.html.md)
-- [GitLab Culture](/culture/index.html.md)
+- [GitLab Culture](/culture/)
 - [Gitlab on Twitter](https://twitter.com/gitlab/index.html.md)
-- [GitLab Team Handbook](https://github.com/daijapan/test/tree/master/index.html.md)
+- [GitLab Team Handbook](https://github.com/daijapan/test/tree/master/)
 
 ## Authorized Reseller Logos
 {: #Logo}
