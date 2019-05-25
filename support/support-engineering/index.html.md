@@ -23,8 +23,8 @@ We are on the vanguard of helping our customers, from single-instance Omnibus de
 
 As you work through tickets, please be aware of the following key processes:
 
-- [How to Prioritize Tickets](https://github.com/daijapan/test/tree/master/support/support-engineering/prioritizing-tickets.html)
-- [How to Submit issues to Product/Development](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/issue_escalations.html)
+- [How to Prioritize Tickets](https://github.com/daijapan/test/tree/master/support/support-engineering/prioritizing-tickets.html.md)
+- [How to Submit issues to Product/Development](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/issue_escalations.html.md)
 - [How to Submit Code to the GitLab Application](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/CONTRIBUTING.md)
 
 The above are links to the appropriate sections of our handbook which further outline how each work.

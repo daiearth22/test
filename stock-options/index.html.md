@@ -162,7 +162,7 @@ you should consult your tax advisor before making such decision.
 Also, while the company has the right to repurchase the unvested shares upon your
 termination of services, the company is not obligated to do so.  Accordingly you could
 lose some or all of the investment you made.  Because we are a young company there are
-lots of risks so be aware and informed of the risks. Please read this [quora thread about most startups failing](https://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) and this story of [people paying more in tax for their stock than they get back](http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html).
+lots of risks so be aware and informed of the risks. Please read this [quora thread about most startups failing](https://www.quora.com/What-is-the-truth-behind-9-out-of-10-startups-fail) and this story of [people paying more in tax for their stock than they get back](http://www.nytimes.com/2015/12/27/technology/when-a-unicorn-start-up-stumbles-its-employees-get-hurt.html.md).
 
 ## How to Exercise Your Stock Options<a name="how-to-exercise"></a>
 
@@ -260,4 +260,4 @@ Anyone is always welcome to ask our CFO any questions they have about their opti
 
 ## References
 
-Our team member Drew Blessing [wrote about what he learned about stock options](http://blessing.io/startups/stock-options/2016/02/15/navigating-your-stock-options.html) after starting to research them because he received them when joining us. His article is greatly appreciated but GitLab Inc. does not endorse it, any advice is his.
+Our team member Drew Blessing [wrote about what he learned about stock options](http://blessing.io/startups/stock-options/2016/02/15/navigating-your-stock-options.html.md) after starting to research them because he received them when joining us. His article is greatly appreciated but GitLab Inc. does not endorse it, any advice is his.

@@ -11,7 +11,7 @@ title: "Data Analysis"
 
 ## Redash data visualization tool
 Redash is a data visualization tool. Currently it has one data source, i.e. the database in `version.gitlab.com`.
-This database stores both CE and EE usage pings that are sent from customers who [enabled the feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html).
+This database stores both CE and EE usage pings that are sent from customers who [enabled the feature](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html.md).
 You can create and save SQL queries that execute against that database, and create charts based on those results, that can be refreshed dynamically.
 Log in to `http://redash.gitlab.com` using your GitLab Google credentials.
 

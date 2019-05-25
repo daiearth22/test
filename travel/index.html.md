@@ -197,4 +197,4 @@ The following services provide offline functionality for their content if you ha
 Electricity is a requirement on your journey abroad. Be it to power your phone or your laptop.
 
 - [Anker powerbanks](https://www.anker.com/) - Great value for the price, including USB-C options
-- [Skross world adapter pro](http://www.skross.com/en/product/87/world-adapter-pro.html) - All around great travel adapter, usable in almost every country
+- [Skross world adapter pro](http://www.skross.com/en/product/87/world-adapter-pro.html.md) - All around great travel adapter, usable in almost every country

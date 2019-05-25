@@ -375,7 +375,7 @@ GitLab utilizes [HackerOne](https://www.hackerone.com) for its bug bounty progra
     requested that the reporter creates one if desired, but the report can be
     closed as "Informational".
   - Report is invalid.  For example, we've gotten a number of reports for
-    [inline HTML in markdown](https://docs.gitlab.com/ee/user/markdown.html#inline-html)
+    [inline HTML in markdown](https://docs.gitlab.com/ee/user/markdown.html#inline-html.md)
     that do not exceed the capabilities of markdown itself.
 - If the report is valid, in-scope, and requires action or further investigation by
   the responsible engineering team:

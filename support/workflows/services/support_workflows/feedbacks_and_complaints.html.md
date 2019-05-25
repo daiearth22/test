@@ -33,7 +33,7 @@ For feature requests, guide the customer on how to create the issues in CE/EE. I
 
 ### Refunds
 
-If a customer requests a refund, please follow the [Handling Refund Requests workflow](https://github.com/daijapan/test/tree/master/support/workflows/shared/support_workflows/handling_refund_requests.html)
+If a customer requests a refund, please follow the [Handling Refund Requests workflow](https://github.com/daijapan/test/tree/master/support/workflows/shared/support_workflows/handling_refund_requests.html.md)
 
 ### Venting
 

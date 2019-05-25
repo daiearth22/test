@@ -25,7 +25,7 @@ fields.
 
 ## Digital Ocean and Docker Testing Environment
 
-For a Digital Ocean and Docker testing environment [follow this guide](https://docs.gitlab.com/ee/install/digitaloceandocker.html).
+For a Digital Ocean and Docker testing environment [follow this guide](https://docs.gitlab.com/ee/install/digitaloceandocker.html.md).
 
 
 ## VMWare Testing Environment

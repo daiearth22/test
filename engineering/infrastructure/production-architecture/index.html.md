@@ -16,12 +16,12 @@ are not integral to the public facing operations of GitLab.com.
 
 ## Other Related Pages
 
-- [Application Architecture documentation](https://docs.gitlab.com/ee/development/architecture.html)
+- [Application Architecture documentation](https://docs.gitlab.com/ee/development/architecture.html.md)
 - [GitLab.com Settings](/gitlab-com/settings/)
 - [Monitoring Performance of GitLab.com](monitoring/index.html.md)
-- [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
+- [GitLab performance monitoring documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html.md)
 - [Performance of the Application](https://github.com/daijapan/test/tree/master/engineering/performance/index.html.md)
-- [Gemnasium service production architecture](gemnasium-service.html)
+- [Gemnasium service production architecture](gemnasium-service.html.md)
 
 
 ## Current Architecture

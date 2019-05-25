@@ -72,7 +72,7 @@ Mapping helps managers and leaders internally develop the skills and knowledge t
  - [UX Team Example](https://docs.google.com/spreadsheets/d/1GugUY_vPMERSP7QvQ7kaUrsaFn84YFipQtPZ1f5i_Q4/edit#gid=1712199154/index.html.md)
 - [Career Plan](https://docs.google.com/document/d/1hJIzMnVhEz3X4k24oAwNnlgGhBeQ518Cps9kLVRRoWQ/edit)
 - [Template  - Development Scorecard](https://docs.google.com/spreadsheets/d/1DBrukzzsV6InaCkZf8_ngLeTcLQ9uj6ynE93qLmHkQA/edit#gid=1677297587/index.html.md)
-- [career plan template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html)
+- [career plan template](https://performancemanager.successfactors.com/doc/po/develop_employee/carsample.html.md)
 
 Managers should discuss career development at least once a month at the [1:1](https://github.com/daijapan/test/tree/master/leadership/1-1/index.html.md) and then support their team members with creating a plan to help them achieve their career goals. If you would to know more about this please checkout the [career mapping course video](https://www.youtube.com/watch?v=YoZH5Hhygc4/index.html.md)
 

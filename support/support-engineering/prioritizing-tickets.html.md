@@ -28,7 +28,7 @@ The channels are sorted in order of priority. There are 3 SLA categories, for 4 
 
 We strive to answer tickets faster than the SLA requires. The higher in the list a channel is, the sooner it should be answered.
 
-The above SLAs are based on ticket priority which can be set manually by support agents. See [setting ticket priority](https://github.com/daijapan/test/tree/master/support/workflows/zendesk/setting_ticket_priority.html)
+The above SLAs are based on ticket priority which can be set manually by support agents. See [setting ticket priority](https://github.com/daijapan/test/tree/master/support/workflows/zendesk/setting_ticket_priority.html.md)
 
 ### How We prioritize tickets
 
@@ -100,7 +100,7 @@ With the hot queue, we all work together and no one should be scared to start a 
 
 ### Zendesk SLA settings and Breach Alerts
 
-SLAs are set as Business Rules within Zendesk. For more information, please refer to the specific [Zendesk](https://github.com/daijapan/test/tree/master/support/workflows/shared/zendesk/zendesk_admin.html) page.
+SLAs are set as Business Rules within Zendesk. For more information, please refer to the specific [Zendesk](https://github.com/daijapan/test/tree/master/support/workflows/shared/zendesk/zendesk_admin.html.md) page.
 
 We have a slack integration that will notify us if a Premium ticket will breach within an hour. If you see one of these, start a thread and consider this a _small emergency_. If you need help, draw the attention of other support engineers by tagging them, and work to move the ticket forward.
 

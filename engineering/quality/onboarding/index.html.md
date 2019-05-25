@@ -14,13 +14,13 @@ and complete the issue.
 ## Links
 
 - Gitlab QA
-  - [Testing Guide / E2E Tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end_tests.html)
+  - [Testing Guide / E2E Tests](https://docs.gitlab.com/ee/development/testing_guide/end_to_end_tests.html.md)
   - [GitLab QA Orchestrator Documentation](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/README.md)
   - [GitLab QA Testing Documentation](https://gitlab.com/gitlab-org/gitlab-qa/blob/master/docs/README.md)
 - Tests
-  - [Testing Standards](https://docs.gitlab.com/ee/development/testing_guide/index.html)
+  - [Testing Standards](https://docs.gitlab.com/ee/development/testing_guide/index.html.md)
 - CI infrastructure for CE and EE
-  - [Testing from CI](https://docs.gitlab.com/ee/development/testing_guide/ci.html)
+  - [Testing from CI](https://docs.gitlab.com/ee/development/testing_guide/ci.html.md)
 - Tests statistics
   - [Redash Test Suite Statistics](https://redash.gitlab.com/dashboard/test-suite-statistics)
 - Insights dashboard

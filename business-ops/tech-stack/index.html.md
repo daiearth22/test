@@ -10,7 +10,7 @@ title: "Business Operations - Tech Stack Details"
 {:toc}  
 
 ## Avalara
-We use [Avalara](https://www1.avalara.com/us/en/index.html) to automate and manage all of our sales tax compliance obligations.
+We use [Avalara](https://www1.avalara.com/us/en/index.html.md) to automate and manage all of our sales tax compliance obligations.
 
 ## Bizible
 Bizible is our marketing attribution software that allows for connecting marketing and sales touch points over a prospect's or customer's lifecycle directly to revenue. It also allows up to directly tie the investment in our online advertising to records within our database.  Although Bizible has dashboards, we are not currently using the reporting to measure success or track marketing.  Bizible allows us to track our marketing activities at a more granular level within Salesforce, our single source of truth.

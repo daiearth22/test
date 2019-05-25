@@ -37,7 +37,7 @@ Contributions are due on gross annual income up to a maximum of:
 Pension/unemployment insurance: 78,000 EUR (West), 69,600 EUR (East)
 Health/nursing care insurance: 53,100 EUR
 
-Further information can also be found on the [Federal Government website](https://www.bundesregierung.de/Content/DE/Artikel/2017/09/2017-09-27-neue-bemessungsgrenzen-fuer-2018.html).
+Further information can also be found on the [Federal Government website](https://www.bundesregierung.de/Content/DE/Artikel/2017/09/2017-09-27-neue-bemessungsgrenzen-fuer-2018.html.md).
 
 ## GitLab GmbH Germany Leave Policy
 

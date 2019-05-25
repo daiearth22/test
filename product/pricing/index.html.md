@@ -51,7 +51,7 @@ Advanced Kubernetes management:
 ## Type of sell
 
 - A feature sell means that people want to buy the extra features. This can be done self-serve.
-- A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like the [conversational development index](https://docs.gitlab.com/ee/user/admin_area/monitoring/convdev.html), and a quarterly checkin with a technical account manager from customer success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
+- A benefit sell means that people buy the business outcomes that come with fully utilizing GitLab. You need case studies, metrics like the [conversational development index](https://docs.gitlab.com/ee/user/admin_area/monitoring/convdev.html.md), and a quarterly checkin with a technical account manager from customer success to review the status of the adoption plan. A competitive process can include a bake-off to show people are 10x faster in starting new projects with GitLab.
 - A transformation sell means that people want to transform as an organization. They want to reduce cycle time with 10x and want us to help them. We do workshops with transformation consultants, and define a complete shared project.
 
 ## Hybrid sales model
@@ -263,7 +263,7 @@ Alternatives that don't work:
 
 What is interesting is that GitLab creates more value as you adopt more of it.
 This shouldn't be confused with DevOps maturity.
-DevOps maturity is how advanced your practices are an how fast your DevOps lifecycle is, shown in [cycle analytics](https://docs.gitlab.com/ee/user/project/cycle_analytics.html).
+DevOps maturity is how advanced your practices are an how fast your DevOps lifecycle is, shown in [cycle analytics](https://docs.gitlab.com/ee/user/project/cycle_analytics.html.md).
 With the best practices embedded in GitLab you will mature faster than without it, GitLab enables a 200% faster DevOps lifecycle.
 But DevOps maturity is mostly about organizational change, GitLab the product is just an enabler of it.
 Even if an organization uses everything of GitLab (high DevOps score) they can still have a slow process (slow lifecycle).

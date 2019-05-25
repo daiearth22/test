@@ -24,7 +24,7 @@ The Quality team leads the test planning for all things related to Engineering w
   * One-off manual testing as needed (ideally this should be at a minimal and only required for adhoc/exploratory testing)
 
 
-GitLab Quality Test plan is based on [Google’s 10 min test plan](https://testing.googleblog.com/2011/09/10-minute-test-plan.html). 
+GitLab Quality Test plan is based on [Google’s 10 min test plan](https://testing.googleblog.com/2011/09/10-minute-test-plan.html.md). 
 This team plan uses the ACC Framework (Attribute, Components and Capabilities matrix)
 * Attributes: qualities the product should have
 * Components: major parts of the product

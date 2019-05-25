@@ -205,7 +205,7 @@ chat.
 #### GitLab Runner
 
 - Information on [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner#features)
-- [Runner documentation](http://docs.gitlab.com/ee/ci/runners/README.html)
+- [Runner documentation](http://docs.gitlab.com/ee/ci/runners/README.html.md)
 
 #### GitLab Workhorse
 

@@ -13,7 +13,7 @@ title: "Monitoring of GitLab.com"
 
 - [Production Architecture](production-architecture/index.html.md)
 - [GitLab.com Settings](/gitlab-com/settings/)
-- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
+- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html.md)
 - [Performance of the Application](https://github.com/daijapan/test/tree/master/engineering/performance/index.html.md)
 
 ## Monitoring
@@ -87,18 +87,18 @@ One can view how we log our infrasturcture as outlined by our
 
 To learn how to create Kibana dashboards use the following resources:
 
-- [Kibana Dashboard tutorial from Elastic.co](https://www.elastic.co/guide/en/kibana/current/tutorial-dashboard.html)
-- [Building a dashboard](https://www.elastic.co/guide/en/kibana/current/dashboard-getting-started.html)
-- [Using TimeLion for time series visualization](https://www.elastic.co/guide/en/kibana/current/timelion.html)
+- [Kibana Dashboard tutorial from Elastic.co](https://www.elastic.co/guide/en/kibana/current/tutorial-dashboard.html.md)
+- [Building a dashboard](https://www.elastic.co/guide/en/kibana/current/dashboard-getting-started.html.md)
+- [Using TimeLion for time series visualization](https://www.elastic.co/guide/en/kibana/current/timelion.html.md)
 
 ## GitLab Profiler
 
-[GitLab profiler data](https://redash.gitlab.com/dashboard/gitlab-profiler-statistics), accessible using your GitLab Google credentials, is a dashboard with links to [request profiles](https://docs.gitlab.com/ee/administration/monitoring/performance/request_profiling.html) and SQL queries run when loading pages on GitLab.com.
+[GitLab profiler data](https://redash.gitlab.com/dashboard/gitlab-profiler-statistics), accessible using your GitLab Google credentials, is a dashboard with links to [request profiles](https://docs.gitlab.com/ee/administration/monitoring/performance/request_profiling.html.md) and SQL queries run when loading pages on GitLab.com.
 
 To add a page to this dashboard, create a merge request to the [gitlab-com/gitlab-profiler](https://gitlab.com/gitlab-com/gitlab-profiler) project.
 
 ## Instrumenting Ruby to Monitor Performance
 
 Blocks of Ruby code can be "instrumented" to measure performance.
-  - [Documentation of instrumentation](https://docs.gitlab.com/ee/development/instrumentation.html) with more detail on [how to implement this](https://docs.gitlab.com/ee/development/instrumentation.html#instrumenting-ruby-blocks)
+  - [Documentation of instrumentation](https://docs.gitlab.com/ee/development/instrumentation.html.md) with more detail on [how to implement this](https://docs.gitlab.com/ee/development/instrumentation.html#instrumenting-ruby-blocks)
   - An example of how this is used for GitLab itself, can be found in this [initializer](https://gitlab.com/gitlab-org/gitlab-ce/blob/master/config/initializers/8_metrics.rb).

@@ -628,11 +628,11 @@ your e-mail ([STEP 2](#change-username-step-2)), which will be different
 
 - Access the username you want to request via `https://gitlab.com/mary`.
 - Check its activity and projects to see if he/she is an inactive user
-[according to the handbook](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html).
+[according to the handbook](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html.md).
 - Send your request to `support@gitlab.com`, explaining the reasons why
 you need that username.
 - There's no guarantee that the username will be available for you. Please
-check the [handbook guidelines for dormant usernames](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html).
+check the [handbook guidelines for dormant usernames](https://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/dormant_username_policy.html.md).
 
 **STEP 2: Create a new account with your new username**
 {: #change-username-step-2}
@@ -701,7 +701,7 @@ We have a [dedicated section](https://github.com/daijapan/test/tree/master/produ
 
 Note: you have to pay for these items yourself.
 
-- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html)
+- [Quiet comfort 35 Bose over ear noise canceling headphones](https://www.bose.com/en_us/products/headphones/over_ear_headphones/quietcomfort-35-wireless-ii.html.md)
 - [Shaped sleep mask](https://www.amazon.com/gp/product/B01HYIER7W/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) (so it doesn't touch your dyed out eyes)
 - Custom molded ear plugs (can be up to $200 hearing aid store but are usable in many situations, there are also [DYI kits](https://www.amazon.com/Radians-CEP001-Custom-Molded-Earplugs/dp/B003A28P4I) but Sid has not tried that)
 - [Melatonin](https://www.webmd.com/vitamins-supplements/ingredientmono-940-melatonin.aspx?activeingredientid=940/index.html.md) (possible unsafe during pregnancy and breast-feeding)

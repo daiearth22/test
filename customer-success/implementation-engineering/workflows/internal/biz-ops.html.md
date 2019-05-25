@@ -17,6 +17,6 @@ category: Internal
 1. This triggers the creation of a [SOW Project object](https://gitlab.com/gitlab-com/salesforce/issues/279/index.html.md) in Salesforce
 1. **Finance** bills customer for entire amount (unless the customer has changed these terms in the SOW)
 1. **Implementation Engineer** is assigned and conducts project [according to the Implementation Engineering workflows](https://github.com/daijapan/test/tree/master/customer-success/implementation-engineering/workflows/index.html.md) and Manager, Implementation Services advances the `SOW Project Object` in Salesforce
-1. **Implementation Engineer**: Once the customer has accepted work as completed, Implementation Engineering follows [financial wrap-up IE workflow](https://github.com/daijapan/test/tree/master/customer-success/implementation-engineering/workflows/internal/financial-wrapup.html)
+1. **Implementation Engineer**: Once the customer has accepted work as completed, Implementation Engineering follows [financial wrap-up IE workflow](https://github.com/daijapan/test/tree/master/customer-success/implementation-engineering/workflows/internal/financial-wrapup.html.md)
 1. **SAL or TAM**: Send sign off document to customer.
 1. **Finance** is responsible for any collections post-IE Financial Wrap-up steps

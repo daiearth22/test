@@ -53,5 +53,5 @@ Each post-mortem meeting should follow (roughly) this agenda here.
 All follow-up action items will be assigned to a team/individual before the end of the meeting. If the item is not going to be top priority leaving the meeting, don't make it a follow up an item.
 
 ### Sources
-* [Google SRE Handbook](https://landing.google.com/sre/book/chapters/postmortem.html)
+* [Google SRE Handbook](https://landing.google.com/sre/book/chapters/postmortem.html.md)
 * [SAFe Iteration Retropectives](https://www.scaledagileframework.com/iteration-retrospective/)

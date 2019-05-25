@@ -51,7 +51,7 @@ To make it easier to find your way around you can find a list of useful or impor
 As a database specialist the following tools can be very helpful:
 
 * [Private Grafana](https://dashboards.gitlab.net/): for both application and system level performance data.
-* [Performance Bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html): type `pb` in GitLab and a bar with performance metrics will show up at the top of the page. This tool is especially useful for viewing the queries executed and their timings.
+* [Performance Bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html.md): type `pb` in GitLab and a bar with performance metrics will show up at the top of the page. This tool is especially useful for viewing the queries executed and their timings.
 * [Sherlock](https://docs.gitlab.com/ee/development/profiling.html#sherlock): a tool similar to the performance bar but meant for development environments. Sherlock is able to show backtraces and the output of `EXPLAIN ANALYZE` for executed queries. Enable by starting Rails with `env ENABLE_SHERLOCK=1 bundle exec rails s`.
 * <https://explain.depesz.com/> for visualizing the output of `EXPLAIN ANALYZE`.
 
@@ -68,12 +68,12 @@ The following (private) Grafana dashboard are important / useful for database sp
 
 Basically everything under <https://docs.gitlab.com/ee/development/README.html#databases>, but the following guides in particular are important:
 
-* [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html)
-* [Adding database indexes](https://docs.gitlab.com/ee/development/adding_database_indexes.html)
-* [Post Deployment Migrations](https://docs.gitlab.com/ee/development/post_deployment_migrations.html)
-* [Background Migrations](https://docs.gitlab.com/ee/development/background_migrations.html)
-* [SQL Migration Style Guide](https://docs.gitlab.com/ee/development/migration_style_guide.html)
-* [SQL Query Guidelines](https://docs.gitlab.com/ee/development/sql.html)
+* [What requires downtime?](https://docs.gitlab.com/ee/development/what_requires_downtime.html.md)
+* [Adding database indexes](https://docs.gitlab.com/ee/development/adding_database_indexes.html.md)
+* [Post Deployment Migrations](https://docs.gitlab.com/ee/development/post_deployment_migrations.html.md)
+* [Background Migrations](https://docs.gitlab.com/ee/development/background_migrations.html.md)
+* [SQL Migration Style Guide](https://docs.gitlab.com/ee/development/migration_style_guide.html.md)
+* [SQL Query Guidelines](https://docs.gitlab.com/ee/development/sql.html.md)
 * [Infrastructure runbooks and documentation](https://gitlab.com/gitlab-com/runbooks#postgresql)
 
 For various other development related guides refer to <https://docs.gitlab.com/ee/development/README.html>.

@@ -18,7 +18,7 @@ Many items on this page are a guidelines for our [Executive Assistants](/job-fam
 
 ## Favorite places
 
-* Favorite lunch place: [Basil Thai in SoMa](http://www.basilthai.com/home.html).
+* Favorite lunch place: [Basil Thai in SoMa](http://www.basilthai.com/home.html.md).
 * Favorite dinner places: [Heirloom Cafe](https://heirloom-sf.com/), [Ozumo](http://www.ozumo.com/) (seated in the bar area/index.html.md).
 * Favorite drinks place: [Odd Job](http://oddjobsf.com/).
 

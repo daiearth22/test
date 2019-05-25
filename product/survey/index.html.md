@@ -130,7 +130,7 @@ Andreas: We agree, and this is planned for 2019. See the epic on [Auditing and d
 
 ##### Dependency management
 
-Fabio: we started working on it as part of the Secure stage ([dependency scanning](https://docs.gitlab.com/ee/user/project/merge_requests/dependency_scanning.html) and [license management](https://docs.gitlab.com/ee/user/project/merge_requests/license_management.html)), there is also a [proposal](https://gitlab.com/gitlab-org/gitlab-ee/issues/7476/index.html.md) to make dependency management first-class.
+Fabio: we started working on it as part of the Secure stage ([dependency scanning](https://docs.gitlab.com/ee/user/project/merge_requests/dependency_scanning.html.md) and [license management](https://docs.gitlab.com/ee/user/project/merge_requests/license_management.html.md)), there is also a [proposal](https://gitlab.com/gitlab-org/gitlab-ee/issues/7476/index.html.md) to make dependency management first-class.
 
 ##### More dashboards and reports for top-level management
 
@@ -193,7 +193,7 @@ Definitely agree. We want to deliver a global, performant search for GitLab in 2
 
 ##### Integrate with Trello
 
-We have a very [basic integration with Trello](https://docs.gitlab.com/ee/integration/trello_power_up.html), and would [welcome contributions](https://gitlab.com/gitlab-org/gitlab-ce/issues/44562/index.html.md).
+We have a very [basic integration with Trello](https://docs.gitlab.com/ee/integration/trello_power_up.html.md), and would [welcome contributions](https://gitlab.com/gitlab-org/gitlab-ce/issues/44562/index.html.md).
 
 ##### Better support for fully offline instances - can’t run Auto DevOps + SAST
 

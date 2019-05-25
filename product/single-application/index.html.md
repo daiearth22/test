@@ -83,7 +83,7 @@ offering plugins for the following reasons:
 1. The open source nature of GitLab ensures that that we can combine great open source products.
 1. Everyone can contribute to create a feature set that is [more complete than other tools](/comparison/). We'll focus on making all the parts work well together to create a better user experience.
 1. Because GitLab is open source the enhancements can become [part of
-the codebase instead](https://docs.gitlab.com/ee/project_services/project_services.html) of being external. This ensures the automated tests for all
+the codebase instead](https://docs.gitlab.com/ee/project_services/project_services.html.md) of being external. This ensures the automated tests for all
 functionality are continually run, ensuring that additions keep working. This is in contrast to externally maintained plugins that might not be updated.
 1. Having the enhancements as part of the codebase also
 ensures GitLab can continue to evolve with its additions instead of being bound
@@ -220,7 +220,7 @@ faster.
 Every GitLab projects comes with a container registry. That means there is no
 need for elaborate configuration to be able to use and push container images in
 CI. Rather, all you have to do is use a [pre-defined
-variable](https://docs.gitlab.com/ee/user/project/container_registry.html) in
+variable](https://docs.gitlab.com/ee/user/project/container_registry.html.md) in
 your CI configuration file (`.gitlab-ci.yml`).
 
 ### Use cases, not modules

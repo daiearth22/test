@@ -20,7 +20,7 @@ perspective as much as we can. As such, we start by defining Service
 Level Objectives below and document what service levels we currently aim
 to maintain for GitLab.com.
 
-Also see the [database team organization page](https://github.com/daijapan/test/tree/master/engineering/infrastructure/database/team.html).
+Also see the [database team organization page](https://github.com/daijapan/test/tree/master/engineering/infrastructure/database/team.html.md).
 
 ## Database SLOs
 
@@ -71,7 +71,7 @@ We allocate a downtime budget of 45 minutes per month for planned downtimes,
 although we strive to keep downtime as low as possible. The downtime
 budget can be used to introduce change to the system. If the budget is
 used up (planned or unplanned/index.html.md), we stop introducing change and focus on
-availability (similar to SRE [error budgets](https://landing.google.com/sre/book/chapters/embracing-risk.html)).
+availability (similar to SRE [error budgets](https://landing.google.com/sre/book/chapters/embracing-risk.html.md)).
 
 As for `DB-HA-PERF`, 99% of queries should finish below 200ms.
 

@@ -31,7 +31,7 @@ A: Sid Sijbrandij: “Continuous integration and deployment form the backbone of
 
 ### Q: Where can I view a copy of the press release?
 
-A: [https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html](https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html)
+A: [https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html](https://about.gitlab.com/press/releases/2018-03-22-gitlab-cicd-github-integration.html.md)
 
 ### Q: Is there a blog post providing more detail on the announcement?
 
@@ -57,7 +57,7 @@ A: Yes
 
 ### Q: Does GitLab CI/CD also integrate with BitBucket? Other solutions?
 
-A: Yes, but the process is more manual. GitLab CI/CD can connect to any git repo via URL, including BitBucket, and configure status webhooks manually. Docs on how to [manually enable GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/bitbucket_integration.html) (With GitHub the process is all automatic.)
+A: Yes, but the process is more manual. GitLab CI/CD can connect to any git repo via URL, including BitBucket, and configure status webhooks manually. Docs on how to [manually enable GitLab CI/CD.](https://docs.gitlab.com/ee/ci/ci_cd_for_external_repos/bitbucket_integration.html.md) (With GitHub the process is all automatic.)
 
 ### Q: How does GitLab CI/CD integration to GitHub work?
 
@@ -165,7 +165,7 @@ GitLab.com Silver, Gold (after 2019-03-22/index.html.md)
 | Create    | Code Review              | No                 |                                                                                                                                       |
 | Verify    | Continuous integration   | Yes                |                                                                                                                                       |
 | Verify    | Security Testing         | Yes                |                                                                                                                                       |
-| Package   | Container Registry       | Yes                | [On by default once instance container registry enabled](https://docs.gitlab.com/ee/administration/container_registry.html)                                                          |
+| Package   | Container Registry       | Yes                | [On by default once instance container registry enabled](https://docs.gitlab.com/ee/administration/container_registry.html.md)                                                          |
 | Release   | CD/Release automation    | Yes                | E.g. You CAN deploy to GCP using the GKE Integration                                                                                  |
 | Configure | Configuration management | Yes                |                                                                                                                                       |
 | Monitor   | Monitoring               | Yes                |                                                                                                                                       |
@@ -186,7 +186,7 @@ possibility, but requires additional complexity such as augmenting how we price.
 
 
 
-- JAXenter:[GitLab 10.6: CI/CD for GitHub, increased Kubernetes support](https://jaxenter.com/gitlab-10-6-142702.html), Jane Elizabeth, 3.23.18
+- JAXenter:[GitLab 10.6: CI/CD for GitHub, increased Kubernetes support](https://jaxenter.com/gitlab-10-6-142702.html.md), Jane Elizabeth, 3.23.18
     - “As part of their prior commitment to supporting open source, GitLab already offers all public projects their highest tier features for free. This means that open source projects on GitHub will be able to handle hundreds of concurrent jobs with 50,000 free pipeline minutes.�
 
 

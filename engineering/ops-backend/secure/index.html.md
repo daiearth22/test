@@ -25,33 +25,33 @@ We still refer to "_Security Products_" as the tools developed by the Secure Tea
 
 ##### SAST
 
-[SAST](https://docs.gitlab.com/ee/user/project/merge_requests/sast.html) (_Static Application Security Testing_) refers to static code analysis.
+[SAST](https://docs.gitlab.com/ee/user/project/merge_requests/sast.html.md) (_Static Application Security Testing_) refers to static code analysis.
 GitLab leverages the power of various opensource tools to provide a wide range of checks for many languages and support.
 These tools are wrapped inside docker images which ensure we get a standard output from there.
 An orchestrator, [developed by GitLab](https://gitlab.com/gitlab-org/security-products/sast), is in charge of running these images, and gathering all the data needed to generate the final report.
 
 ##### DAST
 
-[DAST](https://docs.gitlab.com/ee/user/project/merge_requests/dast.html) (_Dynamic Application Security Testing_) is used to hit a live application.
+[DAST](https://docs.gitlab.com/ee/user/project/merge_requests/dast.html.md) (_Dynamic Application Security Testing_) is used to hit a live application.
 Because some vulnerabilities can only be detected once all the code is actually running, this method complements the static code analysis.
 DAST is relying on [OWASP Zed Attach Proxy Project](https://gitlab.com/gitlab-org/security-products/zaproxy), modified by GitLab to enable authentication.
 
 ##### Dependency Scanning
 
-[Dependency Scanning](https://docs.gitlab.com/ee/user/project/merge_requests/dependency_scanning.html) is used to detect vulnerabilities introduced by external dependencies in the application.
+[Dependency Scanning](https://docs.gitlab.com/ee/user/project/merge_requests/dependency_scanning.html.md) is used to detect vulnerabilities introduced by external dependencies in the application.
 Because a large portion of the code shipped to production is actually coming from third-party libraries, it's important to monitor them as well.
 Dependency Scanning is relying mostly on the Gemnasium engine.
 
 ##### Container Scanning
 
-[Container Scanning](https://docs.gitlab.com/ee/user/project/merge_requests/container_scanning.html) is used when the application is shipped as a Docker image.
+[Container Scanning](https://docs.gitlab.com/ee/user/project/merge_requests/container_scanning.html.md) is used when the application is shipped as a Docker image.
 It's very common to build the final image on top of an existing one, which must be checked like every other portion of the application.
 For that, Container Scanning is relying on the [clair scanner](https://gitlab.com/gitlab-org/security-products/clair-scanner).
 
 
 ##### License Management
 
-[License Management](https://docs.gitlab.com/ee/user/project/merge_requests/license_management.html) helps with the licenses introduced by third-party libraries in the application.
+[License Management](https://docs.gitlab.com/ee/user/project/merge_requests/license_management.html.md) helps with the licenses introduced by third-party libraries in the application.
 Licence management relies on the [LicenceFinder](https://github.com/pivotal-legacy/LicenseFinder) gem.
 
 #### Release process

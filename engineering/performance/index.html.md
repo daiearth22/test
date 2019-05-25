@@ -14,9 +14,9 @@ title: "Performance"
 
 - [GitLab.com (infra) Architecture](https://github.com/daijapan/test/tree/master/engineering/infrastructure/production-architecture/index.html.md)
 - [Monitoring GitLab.com](https://github.com/daijapan/test/tree/master/engineering/monitoring/index.html.md)
-- [Application Architecture Documentation](https://docs.gitlab.com/ee/development/architecture.html)
+- [Application Architecture Documentation](https://docs.gitlab.com/ee/development/architecture.html.md)
 - [GitLab.com Settings](/gitlab-com/settings/)
-- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html)
+- [GitLab Performance Monitoring Documentation](https://docs.gitlab.com/ee/administration/monitoring/performance/introduction.html.md)
 
 **Meta issue** to track various issues listed here is at on the [infrastructure tracker](https://gitlab.com/gitlab-com/infrastructure/issues/2373/index.html.md).
 
@@ -189,7 +189,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
         Partials can include other partials. This is done for good code
         organization and reuse. As an example, when the _particular user_  from the
         example above loads `gitlab.com/dashboard/issues`, there are [56 nested / partial views rendered (search for `View::`)](http://profiler.gitlap.com/20170524/901687e2-9fa1-4256-8414-c4835dc31dbc.html.gz)
-         - Partial views may be cached via various [Rails techniques](http://guides.rubyonrails.org/caching_with_rails.html), such as Fragment Caching. In addition,
+         - Partial views may be cached via various [Rails techniques](http://guides.rubyonrails.org/caching_with_rails.html.md), such as Fragment Caching. In addition,
          GitLab has a Markdown cache stored in the database that is used to
          speed up the conversion of Markdown to HTML.
          - Perceived performance in the way of First Paint can be affected by
@@ -197,7 +197,7 @@ Consider the scenario of a user opening their browser, and surfing to their dash
          sending a "minimal" html blob to the user and relying on Javascript /
          AJAX / etc. to fetch additional elements that take the page from First
          Paint to "Fully Loaded". See the section about the frontend for more on this.
-    1. <a name="unicorn2html"></a> [Unicorn makes HTML](#tb-unicorn2html) (not measured/index.html.md)
+    1. <a name="unicorn2html"></a> [Unicorn makes HTML](#tb-unicorn2html.md) (not measured/index.html.md)
         - Once the Views are built, Unicorn completes making the "HTML blob" that
         is then returned to the browser.
         - Some of these blobs are expensive to compute, and are sometimes hard-coded
@@ -295,7 +295,7 @@ Consider the scenario of a user opening their browser, and surfing to their favo
 
 Guide to this table:
 - All times are reported in milliseconds.
-- `# per request` : average number of times this step occurs per request. For instance, an average "transaction" may require [0.2 SQL calls, 0.4 git calls, 1 call to cache](https://docs.google.com/spreadsheets/d/15mhXjwkx2lOXJps7lsp_o0zbwGSyOdYOTc8-McwBy0A/pubhtml), and 30 nested views to be built.
+- `# per request` : average number of times this step occurs per request. For instance, an average "transaction" may require [0.2 SQL calls, 0.4 git calls, 1 call to cache](https://docs.google.com/spreadsheets/d/15mhXjwkx2lOXJps7lsp_o0zbwGSyOdYOTc8-McwBy0A/pubhtml.md), and 30 nested views to be built.
 - `p99 Q2-17`: the p99 timing (in milliseconds) at the end of Q2, 2017
 - `p99 Now`: link to the dashboard that displays the _current_ p99 timing
 - `p99 Q3-17`: the target for the p99 timing by the end of Q3, 2017
@@ -324,7 +324,7 @@ Guide to this table:
 |<a name="tb-unicorn2nfs"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_Unicorn <i class="fas fa-arrows-alt-h fa-fw" aria-hidden="true"></i> NFS_](#unicorn2nfs)          | | _460_ | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/daily-overview?panelId=14&fullscreen&orgId=1)  | _200_ | [Move to Gitaly](https://gitlab.com/gitlab-org/gitaly/issues/313/index.html.md) - [sample result](https://gitlab.com/gitlab-com/infrastructure/issues/1912#note_31368476/index.html.md) |
 |<a name="tb-unicorn2redis"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_Unicorn <i class="fas fa-arrows-alt-h fa-fw" aria-hidden="true"></i> Redis_](unicorn2redis)       | |  _18_ | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/daily-overview?panelId=13&fullscreen&orgId=1) |     |   |
 |<a name="tb-unicorn-views"></a>[Unicorn constructs Views](#unicorn-views) |  | 1500   | [<i class="fas fa-tachometer-alt fa-fw" aria-hidden="true"></i>](https://dashboards.gitlab.net/dashboard/db/transaction-overview?panelId=8&fullscreen&orgId=1)  |  |       |
-|<a name="tb-unicorn2html"></a>[Unicorn makes HTML](#unicorn2html) |  |    |   |  |       |
+|<a name="tb-unicorn2html"></a>[Unicorn makes HTML](#unicorn2html.md) |  |    |   |  |       |
 |<a name="tb-html2browser"></a>[HTML to Browser](#html2browser) |  |    |   |  |       |
 |<a name="tb-unicorn2workhorse"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_Unicorn to Workhorse_](#unicorn2workhorse) | 1 | ~2 | ?  | ~2  |  |
 |<a name="tb-workhorse2NGINX"></a>&nbsp;&nbsp;&nbsp;&nbsp;[_Workhorse to NGINX_](#workhorse2NGINX)             |      1        | ~2| ? |~2|                        |

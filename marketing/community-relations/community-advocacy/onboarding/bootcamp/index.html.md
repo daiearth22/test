@@ -54,7 +54,7 @@ Cover these topics on the [GitLab University](https://docs.gitlab.com/ee/univers
   1. [ ] [About Version Control](https://docs.google.com/presentation/d/16sX7hUrCZyOFbpvnrAFrg6tVO5_yT98IgdAqOmXwBho/edit#slide=id.gd69537a19_0_14/index.html.md)
   1. [ ] [Try Git](https://www.codeschool.com/account/courses/try-git)
 1. [ ] Under the topic of GitLab Basics
-  1. [ ] All the [GitLab Basics](http://docs.gitlab.com/ee/gitlab-basics/README.html) that you don't feel comfortable with. If you get stuck, see the linked videos under GLB in GitLab University
+  1. [ ] All the [GitLab Basics](http://docs.gitlab.com/ee/gitlab-basics/README.html.md) that you don't feel comfortable with. If you get stuck, see the linked videos under GLB in GitLab University
   1. [ ] [GitLab Flow](https://www.youtube.com/watch?v=UGotqAUACZA)
   1. [ ] Take a look at how the different GitLab versions [compare](/features/#compare)
 1. [ ] Any of these that you don't feel comfortable with in the [user training](https://gitlab.com/gitlab-org/gitlab-ee/tree/master/doc/university/training) we use for our customers.
@@ -197,8 +197,8 @@ _Typically do this around the third week._
 **Goal** Understand the gathering of diagnostics for GitLab instances
 
 1. [ ] Learn about the GitLab checks that are available
-    1. [ ] [Environment Information and maintenance checks](http://docs.gitlab.com/ee/raketasks/maintenance.html)
-    1. [ ] [GitLab check](http://docs.gitlab.com/ee/raketasks/check.html)
+    1. [ ] [Environment Information and maintenance checks](http://docs.gitlab.com/ee/raketasks/maintenance.html.md)
+    1. [ ] [GitLab check](http://docs.gitlab.com/ee/raketasks/check.html.md)
     1. [ ] Omnibus commands
         1. [ ] [Status](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/maintenance/README.md#get-service-status)
         1. [ ] [Starting and stopping services](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/maintenance/README.md#starting-and-stopping)
@@ -216,11 +216,11 @@ GitLab.com to understand the features from an end-user perspective and then use
 your own instance to understand setup and configuration of the feature from an
 Administrative perspective
 
-- [ ] Set up and try [Git LFS](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html)
-- [ ] Get to know the [GitLab API](https://docs.gitlab.com/ee/api/README.html), its capabilities and shortcomings
-- [ ] Learn how to [migrate from SVN to Git](https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html)
-- [ ] Set up [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/README.html)
-- [ ] Create your first [GitLab Page](https://docs.gitlab.com/ee/pages/administration.html)
+- [ ] Set up and try [Git LFS](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html.md)
+- [ ] Get to know the [GitLab API](https://docs.gitlab.com/ee/api/README.html.md), its capabilities and shortcomings
+- [ ] Learn how to [migrate from SVN to Git](https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html.md)
+- [ ] Set up [GitLab CI](https://docs.gitlab.com/ee/ci/quick_start/README.html.md)
+- [ ] Create your first [GitLab Page](https://docs.gitlab.com/ee/pages/administration.html.md)
 - [ ] Set up a [GitLab Development Kit](https://gitlab.com/gitlab-org/gitlab-development-kit) instance
 - [ ] Get familiar with the GitLab source code by finding the differences
 between the [EE codebase](https://gitlab.com/gitlab-org/gitlab-ee/index.html.md) and the [CE codebase](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md)

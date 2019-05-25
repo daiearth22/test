@@ -33,7 +33,7 @@ Check on the **#alerts**, **#production**, and **#incident-management** Slack ch
   1. Use the search field to narrow down the results. For example you can search the `gitlab-ee` project for any mention of `error` using the query `"gitlab-ee" AND "error"`
   1. It's recommended to apply a **Negative Filter** to the logs below, these generate a large amount of noise and may not be relevant to your search.
      1. `gitlab_error.log` `gitlab_access.log` 
-  1. See the [Kibana guide](https://www.elastic.co/guide/en/kibana/current/discover.html) for more information.
+  1. See the [Kibana guide](https://www.elastic.co/guide/en/kibana/current/discover.html.md) for more information.
 
 1. **Search Sentry**
     1. Login to [https://sentry.gitlap.com/gitlab/gitlabcom/](https://sentry.gitlap.com/gitlab/gitlabcom/)
@@ -59,7 +59,7 @@ Check on the **#alerts**, **#production**, and **#incident-management** Slack ch
          1. Comment on the issue providing a link to the ZenDesk ticket.
          1. Respond to the user with a link to the GitLab project issue.
      1. **Issues found in Kibana**
-         1. Get a ["short url"](https://www.elastic.co/guide/en/kibana/3.0/sharing-dashboards.html) to the Kibana logs.
+         1. Get a ["short url"](https://www.elastic.co/guide/en/kibana/3.0/sharing-dashboards.html.md) to the Kibana logs.
          1. Create and label a new [GitLab-CE](https://gitlab.com/gitlab-org/gitlab-ce/index.html.md) issue.
          1. Comment on the issue providing a link to the ZenDesk ticket and the Kibana logs.
          1. Respond to the user with a link to the GitLab project issue.

@@ -24,15 +24,15 @@ If you have questions ask anyone for help, you're more likely to have success wi
 
 ## 2. Start using GitLab
 
-1. Here's where you can find step-by-step guides on the [basics of working with Git and GitLab](https://docs.gitlab.com/ee/gitlab-basics/README.html). You'll need those later.
-1. Create your [SSH Keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html).
+1. Here's where you can find step-by-step guides on the [basics of working with Git and GitLab](https://docs.gitlab.com/ee/gitlab-basics/README.html.md). You'll need those later.
+1. Create your [SSH Keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html.md).
 1. For more information about using Git and GitLab see [GitLab University](https://docs.gitlab.com/ee/university/).
 
 ## 3. Install Git
 
 1. Open a terminal.
 1. Check your Git version by executing: `git --version`.
-1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) to installing Git and
+1. If Git is not installed, you should be prompted to install it. Follow this [guide](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html.md) to installing Git and
 linking your account to Git.
 
 ## 4. Install RVM
@@ -126,7 +126,7 @@ We are happy to have you join our company and to include you in our [team page](
   5. Select Source, Images, then Team.
   6. At the top of the page select â€+â€ and upload the file. Note that your team page picture should be added to `www-gitlab-com/source/images/team/NAME-OF-PERSON-IN-LOWERCASE.jpg`.
   7. Commit these changes with a specific commit message â€œadd NAME to team pageâ€ and a unique branch. Remember the branch name as you will use it in the following steps.
-  8. [Create a merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/) with the branch that you created with your picture.
+  8. [Create a merge request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html.md) in [GitLab.com](https://gitlab.com/) with the branch that you created with your picture.
   9. Go back to the GitLab.com project. Find the branch dropdown menu at the top of your screen (default value is "master") and find the branch that you previously created to add your picture (they are in alphabetical order).
   10. Information displayed on Team page is pulled from a data file. You can find it by clicking on each of the following items: Files, `data/`, and then `team.yml`.
   11. When you are in `team.yml`, click on â€œeditâ€ on the top right side of your screen.
@@ -137,18 +137,18 @@ We are happy to have you join our company and to include you in our [team page](
 ### Add Locally (using the terminal)
 
   1. You should have received an invitation to the [www-gitLab-com project](https://gitlab.com/gitlab-com/www-gitlab-com) at your GitLab email account. After creating your account, take note of your username and password, because you will need them throughout these steps.
-  2. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html). Don't forget to add your Git username and to set your email.
-  3. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html). Note: in some of these steps, your [shell](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html) will require you to add your GitLab.com username and password.
-  4. Clone the www-gitlab-com project through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html).
+  2. Download Git, following the [start using git documentation](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html.md). Don't forget to add your Git username and to set your email.
+  3. Follow the steps to create and add your [SSH keys](https://docs.gitlab.com/ee/gitlab-basics/create-your-ssh-keys.html.md). Note: in some of these steps, your [shell](https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html.md) will require you to add your GitLab.com username and password.
+  4. Clone the www-gitlab-com project through your shell, following the [command line commands documentation](https://docs.gitlab.com/ee/gitlab-basics/command-line-commands.html.md).
   5. Create and checkout a new branch for the changes you will be making.
-  6. Find the picture that youâ€™d like to add to our team page, change the picture's name to the following format: `yournameinlowercase.jpg` or `yournameinlowercase.png` (There should be no space between first and last names e.g. firstlast.jpg or firstlast.png) and then add it to the `source/images/team/` directory. Follow the "[how to add an image](https://docs.gitlab.com/ee/gitlab-basics/add-image.html)" steps. Ensure the picture size is around 400x400 (it must be square) and the format is JPEG or PNG. You can resize your picture using a photo editor like [GIMP](http://www.gimp.org/) (cross-platform) or online by searching for "image resize". Any picture that you provide will be made black-and-white automatically after you add it to the team page.
+  6. Find the picture that youâ€™d like to add to our team page, change the picture's name to the following format: `yournameinlowercase.jpg` or `yournameinlowercase.png` (There should be no space between first and last names e.g. firstlast.jpg or firstlast.png) and then add it to the `source/images/team/` directory. Follow the "[how to add an image](https://docs.gitlab.com/ee/gitlab-basics/add-image.html.md)" steps. Ensure the picture size is around 400x400 (it must be square) and the format is JPEG or PNG. You can resize your picture using a photo editor like [GIMP](http://www.gimp.org/) (cross-platform) or online by searching for "image resize". Any picture that you provide will be made black-and-white automatically after you add it to the team page.
   7. Add the picture so it is staged for commit.
   8. Information displayed on the Team page is pulled from `data/team.yml`.
   9. Your information should already be added towards the bottom of this file. If itâ€™s not, copy the last employeeâ€™s markdown text and paste it immediately after their bio to create a new profile. Update the initials to be your `Firstname 'Nickname' Lastname`. Verify that your title is entered correctly. Add the file name of the picture that you uploaded previously. Enter your twitter and GitLab handle. Write a story about yourself. Don't forget to use other team members' information as a reference and to respect the spaces between lines. Please don't use "tab" because it will break the page format.
   10. After you added your information and saved your changes, add the file to be staged for commit.
   11. To see your changes locally, follow the directions in `README.md`.
   12. After validating your changes, commit your changes with a comment and push your branch.
-  13. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in [GitLab.com](https://gitlab.com/) with the branch that you created. Assign it to People Ops for review (the recommended assignee would be the Talent Operations Specialist who helped you with onboarding/index.html.md).
+  13. [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html.md) in [GitLab.com](https://gitlab.com/) with the branch that you created. Assign it to People Ops for review (the recommended assignee would be the Talent Operations Specialist who helped you with onboarding/index.html.md).
 
 ### Add your pet(s) to the Team Pets Page
 
@@ -190,17 +190,17 @@ The Web Integrated Development Environment (IDE) is used to make changes within 
   3. Edit away!  See the "Start Contributing" section, above, for details about the Markdown that most pages are written in.
   4. Preview your changes locally by following the directions in `README.md`.  Keep in mind that the local server won't auto-reload when you change a page, so you'll need to restart it to see what you've done.
   5. Once you've made your changes and verified they appear the way you want them to, commit them with a comment and push your branch.
-  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
+  6. As above, [Create a Merge Request](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html.md) in the [www-gitlab-com project](https://gitlab.com/gitlab-com/www-gitlab-com).  If you're onboarding, don't forget to assign it to your manager.
 
 ## Example video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v6QbZMUpF28" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Where should content go?
-GitLab has a lot of places you can put web content including the [website](https://github.com/daijapan/test/tree/master/marketing/website/index.html.md), [blog](https://github.com/daijapan/test/tree/master/marketing/blog/index.html.md), [docs](https://docs.gitlab.com/ee/development/documentation/index.html), and the [handbook](https://github.com/daijapan/test/tree/masterhttps://github.com/daijapan/test/tree/master-usage/). Here's an overview of where you should create a merge request to add content.
+GitLab has a lot of places you can put web content including the [website](https://github.com/daijapan/test/tree/master/marketing/website/index.html.md), [blog](https://github.com/daijapan/test/tree/master/marketing/blog/index.html.md), [docs](https://docs.gitlab.com/ee/development/documentation/index.html.md), and the [handbook](https://github.com/daijapan/test/tree/masterhttps://github.com/daijapan/test/tree/master-usage/). Here's an overview of where you should create a merge request to add content.
 1. **[blog](https://github.com/daijapan/test/tree/master/marketing/blog/index.html.md)**: The blog is a great place to start. If you don't know where to put content, then write a blog post! Great blogs can always be then copied or modified for the website, docs, and handbook later. Blog posts are especially good for news, annoucements, and current trends because blog posts are tied to a specific date.
 1. **[website](https://github.com/daijapan/test/tree/master/marketing/website/index.html.md)**: This is the main marketing site for GitLab and where folks will tend to go first to find out information about GitLab (the product and the company). The website contains a broad set of content from [product pages](/product/index.html.md) to [customer case studies](/customers). The website is the best place for [evergreen](https://www.wordstream.com/blog/ws/2012/10/16/guide-to-evergreen-content-marketing/index.html.md) articles such as [topic](https://github.com/daijapan/test/tree/master/marketing/website/#topics/index.html.md) and [solution](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/marketing/website/#solutions) pages since it's not tied to specific date.
-1. **[docs](https://docs.gitlab.com/ee/development/documentation/index.html)**: The docs are where are all technical information about GitLab self-managed and GitLab.com belongs. If the intended audience for the content is a user of GitLab then it should be in the docs. The docs are great place for both refernce docs (what are the configurable settings for a feature, e.g. [what can you do with issues](https://docs.gitlab.com/ee/user/project/issues/index.html)) and narrative docs (how to do x with y, e.g. how to set up [HA on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/README.html#doc-nav)).
+1. **[docs](https://docs.gitlab.com/ee/development/documentation/index.html.md)**: The docs are where are all technical information about GitLab self-managed and GitLab.com belongs. If the intended audience for the content is a user of GitLab then it should be in the docs. The docs are great place for both refernce docs (what are the configurable settings for a feature, e.g. [what can you do with issues](https://docs.gitlab.com/ee/user/project/issues/index.html.md)) and narrative docs (how to do x with y, e.g. how to set up [HA on AWS](https://docs.gitlab.com/ee/university/high-availability/aws/README.html#doc-nav)).
 1. **[handbook](https://github.com/daijapan/test/tree/masterhttps://github.com/daijapan/test/tree/master-usage/)**: The handbook is for any content that needs to be [used by GitLabbers to do thier job](https://about.gitlab.comhttps://github.com/daijapan/test/tree/masterhttps://github.com/daijapan/test/tree/master-usage/). If you put content on the blog, website, and docs, but you think it would be helpful for GitLabbers to do thier job then link to the content from the handbook.  
 
 Sometimes the lines are blurry and it can seem as though there are multiple places that would be a good fit. For example, "how to" articles make great blog posts, but could be more discoverable to users if they are in the docs. Just pick one. It's better to create content somehwere than nowhere. When in doubt, start with the blog.

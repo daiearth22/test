@@ -131,7 +131,7 @@ In the past, questions have been raised related to ZFS license, which is CDDL, w
 the GPLv2 (such as the Linux kernel). Canonical took the first step towards addressing this issue in
 2016, shipping ZFS as a Linux module. Some references regarding this issue include:
 
- * [*ZFS Licensing and Linux*](http://blog.dustinkirkland.com/2016/02/zfs-licensing-and-linux.html)
+ * [*ZFS Licensing and Linux*](http://blog.dustinkirkland.com/2016/02/zfs-licensing-and-linux.html.md)
  * [*Are GPLv2 and CDDL incompatible?*](https://blog.hansenpartnership.com/are-gplv2-and-cddl-incompatible/)
 
 The Software Freedom Conservancy has an opposing viewpoint on this matter:

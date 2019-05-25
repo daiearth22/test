@@ -13,7 +13,7 @@ category: Support Workflows
 ----
 
 ## Overview
-While this workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html) on a GitLab.com account, this same workflow should be used any time ownership of an account needs to be verified.
+While this workflow focuses on disabling [Two-factor Authentication](http://docs.gitlab.com/ee/profile/two_factor_authentication.html.md) on a GitLab.com account, this same workflow should be used any time ownership of an account needs to be verified.
 
 2FA removal and other account actions can only be taken if the [workflow](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/support/workflows/services/support_workflows/2fa_removal.html#workflow/index.html.md) below is successful.
 

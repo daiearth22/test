@@ -14,7 +14,7 @@ category: Shared Infrastructure
 
 ## Jenkins Server
 
-[Jenkins](https://jenkins.io/index.html) is an open source automation 
+[Jenkins](https://jenkins.io/index.html.md) is an open source automation 
 server which integrates with GitLab. To test and debug we've configured 
 a server.
 

@@ -153,9 +153,9 @@ That also means that if you are implementing a new feature, you should feel empo
 
 We need to maintain code quality and standards. It's very important that you are familiar with the [Development Guides] in general, and the ones that relates to your group in particular:
 
-- [UX Guides](https://docs.gitlab.com/ee/development/ux_guide/index.html)
+- [UX Guides](https://docs.gitlab.com/ee/development/ux_guide/index.html.md)
 - [Backend Guides](https://docs.gitlab.com/ee/development/README.html#backend-howtos)
-- [Frontend Guides](https://docs.gitlab.com/ee/development/fe_guide/index.html)
+- [Frontend Guides](https://docs.gitlab.com/ee/development/fe_guide/index.html.md)
 - [Database Guides](https://docs.gitlab.com/ee/development/README.html#databases)
 
 It is important to remember that quality is everyone's responsibility.  Everything you merge to master should be production ready.  Familiarize yourself with the [definition of done].
@@ -191,7 +191,7 @@ Part of our engineering culture is to keep shipping so users and customers see s
 
 ## Demos
 
-The idea that [working software is the primary measure of progress](http://agilemanifesto.org/principles.html) is one of the principles of agile software development. Demoing gets more eyes on the project to uncover bugs and reveal ambiguities in the product requirements. It's also a transparent and lightweight way to provide status to the rest of the organization. Developers should demo at least once a week with product managers present. Demo meetings should be kept to 30 minutes or less. The emphasis should be on the product requirements or acceptance criteria and less on the implementation details.
+The idea that [working software is the primary measure of progress](http://agilemanifesto.org/principles.html.md) is one of the principles of agile software development. Demoing gets more eyes on the project to uncover bugs and reveal ambiguities in the product requirements. It's also a transparent and lightweight way to provide status to the rest of the organization. Developers should demo at least once a week with product managers present. Demo meetings should be kept to 30 minutes or less. The emphasis should be on the product requirements or acceptance criteria and less on the implementation details.
 
 ## Canary Testing
 
@@ -205,7 +205,7 @@ javascript:void((function(d){document.cookie='gitlab_canary=' + (document.cookie
 
 ## Code Reviews
 
-Code reviews are mandatory for every merge request, you should get familiar and follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+Code reviews are mandatory for every merge request, you should get familiar and follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html.md).
 
 These guidelines also describe who would need to review, approve and merge your merge request.
 

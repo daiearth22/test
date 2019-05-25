@@ -303,7 +303,7 @@ team member to say "Hi".
    1. Note that if you select to record meetings to the cloud (setting within Zoom), they will be automatically placed in the GitLab Videos folder in Google Drive on an hourly basis. You can find these videos in Google Drive by entering in the search bar: `title:"GitLab Videos" source:domain`.
    1. Note also that after a meeting ends, Zoom may take some time to process the recording before it is actually available. The sync to Google Drive happens on the hour mark, so if the recording is not available, it may take another hour to be transferred.
    1. If you are sharing your screen, chat is hidden by default, but you can get it back by clicking on the `...` menu and selecting `Chat`.
-1. Use a headset with a microphone, [Apple Earpods](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers) are great. Do not use computer speakers, they cause an echo. Do not use your computer microphone, it accentuates background noise. If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html) that is fine but please ensure the microphone is active.
+1. Use a headset with a microphone, [Apple Earpods](https://www.apple.com/shop/accessories/all-accessories/headphones-speakers) are great. Do not use computer speakers, they cause an echo. Do not use your computer microphone, it accentuates background noise. If you want to use your [Bose headphones](https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones.html.md) that is fine but please ensure the microphone is active.
 1. Consider using a utility to easily mute/unmute yourself, see [Shush](https://github.com/daijapan/test/tree/master/tools-and-tips/#shush) in the tools section.
 1. In video calls everyone should own a camera and a headset, even when they are in the same room. This helps seeing and hearing the person that is talking. It also allows people to easily talk and mute themselves. Using a headset also prevents echo. You wouldn't share an office seat together, so don't share your virtual seat at the table.
 1. Please speak up asap when someone on the call hasn't muted their mic to avoid disturbances to the person speaking.
@@ -365,12 +365,12 @@ If you add blocks of time spent on recurring tasks to your Google Calendar to re
 1. If an email needs a response, write the answer at the top of it.
 1. Use the future version of words, just like we don't write internet with a capital letter anymore. We write frontend and webhook without a hyphen or space.
 1. Our homepage is / (with the `about.` and with `https`).
-1. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html) whenever possible.
+1. Try to use the [active voice](https://writing.wisc.edu/Handbook/CCS_activevoice.html.md) whenever possible.
 1. Refer to environments that are installed and run "on-premises" by the end-user as "self-managed."
 1. If you use headers, properly format them (`##` in Markdown, "Heading 2" in Google docs); start at the second header level because header level 1 is for titles. Do not end headers with a colon.
 1. Always use an [Oxford comma](https://en.wikipedia.org/wiki/Serial_comma) in lists of three or more terms.
 1. Always use a single space between sentences rather than two.
-1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/doc_styleguide.html) for more information when writing documentation.
+1. Read our [Documentation Styleguide](https://docs.gitlab.com/ee/development/doc_styleguide.html.md) for more information when writing documentation.
 1. Do not use acronyms when you can avoid it as you can't assume people know what you are talking about. Example: instead of `MR`, write `merge request`.
 1. We segment our customers/prospects into 4 segments [Strategic, Large, Mid-Market and Small Medium Business (SMB)](https://github.com/daijapan/test/tree/master/business-ops/#segmentation).
 
@@ -502,7 +502,7 @@ Always use YouTube and never use Google Drive, because YouTube videos:
 1. can be easily viewed on other devices, like TVs or streaming devices, with YouTube support.
 1. allow links to a [specific time in the video](https://www.h3xed.com/web-and-internet/link-to-a-specific-time-in-a-youtube-video).
 1. can have subtitles added automatically.
-1. are [zero rated by some mobile providers](https://www.t-mobile.com/offer/binge-on-streaming-video.html)
+1. are [zero rated by some mobile providers](https://www.t-mobile.com/offer/binge-on-streaming-video.html.md)
 1. will be served to people when it is relevant, automatically, since YouTube is a distribution channel.
 1. allows anyone to contribute by leaving comments.
 

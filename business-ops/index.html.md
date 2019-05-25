@@ -687,7 +687,7 @@ All `Contact Us` requests must be followed up within **one (1) business day** Se
 `Unknown` Segment: Routed to the BDR team for prequalification and segment assignment.
 
 U.S. Public Sector: Routed to the U.S. Public Sector SDR and Inside Sales team.
-- [GitLab Public Sector Rules of Engagement](https://gitlab.comhttps://github.com/daijapan/test/tree/master/sales/public-sector/engaging-public-sector.html)
+- [GitLab Public Sector Rules of Engagement](https://gitlab.comhttps://github.com/daijapan/test/tree/master/sales/public-sector/engaging-public-sector.html.md)
 
 #### Professional Service Requests    
 All `Professional Service Requests` must be treated like a [`Contact Us` request](#contact-us-requests) and followed up within **one (1) business day** Service Level Agreement (SLA). Follow up must be tracked as an activity on the record within SFDC.   
@@ -912,7 +912,7 @@ If a previously met criteria has become unmet, you are required to revert back t
 ## Types of Accounts
 
 ### Accounts Created in Salesforce utilizing CE Usage Ping Data
-The [CE Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html) provides GitLab with some limited insight into how end users are utilizing the platform. The raw information is cleaned, enriched and then pushed to SFDC as an Account by the Data and Analytics team.
+The [CE Usage ping](https://docs.gitlab.com/ee/user/admin_area/settings/usage_statistics.html.md) provides GitLab with some limited insight into how end users are utilizing the platform. The raw information is cleaned, enriched and then pushed to SFDC as an Account by the Data and Analytics team.
 
 If there is not an existing account match in Salesforce, a new account record will be created with the following information populated:
 
@@ -943,7 +943,7 @@ If there is not an existing account match in Salesforce, a new account record wi
 
 ### Marketing Reports
 
-The Online Growth team is in charge of updating reports and dashboards for marketing meetings. Our key metric is pipe-to-spend.  Pipe compared to marketing spend shows how effective our marketing is in filling the pipeline. This report will include all pipe, not just large and up, and is better than cost per lead as it will account for each type of lead in our hybrid sales model and show the value of leads in larger organizations as they generate more pipe. More information on pipe-to-spend as a marketing metric can be found in [Salesforce](https://success.salesforce.com/ideaView?id=087300000006thQ) and [Marketo](https://blog.marketo.com/2012/08/my-favourite-marketing-metric.html). 
+The Online Growth team is in charge of updating reports and dashboards for marketing meetings. Our key metric is pipe-to-spend.  Pipe compared to marketing spend shows how effective our marketing is in filling the pipeline. This report will include all pipe, not just large and up, and is better than cost per lead as it will account for each type of lead in our hybrid sales model and show the value of leads in larger organizations as they generate more pipe. More information on pipe-to-spend as a marketing metric can be found in [Salesforce](https://success.salesforce.com/ideaView?id=087300000006thQ) and [Marketo](https://blog.marketo.com/2012/08/my-favourite-marketing-metric.html.md). 
 
 Marketing metrics sources are here:
 - [Pipe](https://na34.salesforce.com/00O61000004IXYV) used to for account for pipeline. This will be divided by spend. The SST for pipe-to-spend will be in Looker.

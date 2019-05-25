@@ -24,7 +24,7 @@ We are also considering what a read-write mirror would involve and where this wo
 
 To that end, our priorities are:
 
-1. [Hashed Storage GA](https://gitlab.com/groups/gitlab-org/-/epics/75), alleviating challenges from the [legacy storage solution](https://docs.gitlab.com/ee/administration/repository_storage_types.html).
+1. [Hashed Storage GA](https://gitlab.com/groups/gitlab-org/-/epics/75), alleviating challenges from the [legacy storage solution](https://docs.gitlab.com/ee/administration/repository_storage_types.html.md).
 2. To [deploy Geo in another GCP region](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/4741/index.html.md), providing gitlab.com with resilience. (This also promotes our value of [collaboration](https://about.gitlab.comhttps://github.com/daijapan/test/tree/master/values/#collaboration) through dogfooding.)  
 3. Reduce the effort required to install, configure and maintain Geo secondary nodes.
 4. Clear up any bugs concerning the accuracy of the replicated data, or the reporting on the state of a secondary node.
@@ -44,9 +44,9 @@ High Availability (HA) is also a step towards Disaster Recovery. At the moment G
 
 Documentation
 - [Geo](https://docs.gitlab.com/ee/gitlab-geo/index.html.md)
-- [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html)
-- [Planned Failover](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/planned_failover.html)
-- [Background Verification](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/background_verification.html)
+- [Disaster Recovery](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/index.html.md)
+- [Planned Failover](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/planned_failover.html.md)
+- [Background Verification](https://docs.gitlab.com/ee/administration/geo/disaster_recovery/background_verification.html.md)
 
 Other Resources
 - Issues relating to Geo are mostly to be found on the

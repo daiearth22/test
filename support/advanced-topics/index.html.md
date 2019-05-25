@@ -25,9 +25,9 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 
 [Geo](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/geo-bootcamp.md)
 
-[Git Annex Docs](https://docs.gitlab.com/ee/workflow/git_annex.html)
+[Git Annex Docs](https://docs.gitlab.com/ee/workflow/git_annex.html.md)
 
-[Git LFS Docs](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html)
+[Git LFS Docs](https://docs.gitlab.com/ee/workflow/lfs/manage_large_binaries_with_git_lfs.html.md)
 
 [Kubernetes](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/kubernetes-bootcamp.md)
 
@@ -40,11 +40,11 @@ Try to pick what the team needs most, thinking back to recent tickets you were n
 [GitLab
  API](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/API-bootcamp.md) (WIP)
 
-[GitLab Pages Docs](https://docs.gitlab.com/ee/pages/administration.html)
+[GitLab Pages Docs](https://docs.gitlab.com/ee/pages/administration.html.md)
 
 [LDAP](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/LDAP-bootcamp.md)
 
-[Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html)
+[Migrate from SVN to Git Docs](https://docs.gitlab.com/ee/workflow/importing/migrating_from_svn.html.md)
 
 [High
  Availability](https://gitlab.com/gitlab-com/support/support-training/blob/master/.gitlab/issue_templates/HA-bootcamp.md)

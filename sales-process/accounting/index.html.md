@@ -130,7 +130,7 @@ Bank: Rabobank, Croeselaan 18, 3500HG Utrecht, Utrecht, The Netherlands, +313021
 
 ## EU VAT VIES check
 
-Do the VIES check before sending an invoice to a EU client (not needed for Dutch clients) [VAT request](http://ec.europa.eu/taxation_customs/vies/vatRequest.html) print to PDF, email the resulting page to Sytse with the invoice.
+Do the VIES check before sending an invoice to a EU client (not needed for Dutch clients) [VAT request](http://ec.europa.eu/taxation_customs/vies/vatRequest.html.md) print to PDF, email the resulting page to Sytse with the invoice.
 
 GitLab.com VAT nr. is NL 137696735B02
 

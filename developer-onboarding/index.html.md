@@ -19,7 +19,7 @@ If something is missing, add it (as goes with everything at GitLab/index.html.md
 We have multiple [GitLab environments](https://github.com/daijapan/test/tree/master/engineering/infrastructure/environments/index.html.md).
 
 On those instances, please enable the
-[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html)
+[performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html.md)
 by pressing <kbd>p</kbd> then <kbd>b</kbd>.
 
 Then, bookmark and enable the

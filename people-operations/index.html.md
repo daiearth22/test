@@ -26,7 +26,7 @@ Welcome to the People Operations handbook! You should be able to find answers to
 - [Hiring process](https://github.com/daijapan/test/tree/master/hiring/index.html.md)
 - [Functional Group Updates](https://github.com/daijapan/test/tree/master/people-operations/functional-group-updates/index.html.md)
 - [Leadership](https://github.com/daijapan/test/tree/master/leadership/index.html.md)
-- [Learning & Development](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/index.html)
+- [Learning & Development](https://github.com/daijapan/test/tree/master/people-operations/learning-and-development/index.html.md)
 - [Courses](/courses/)
 - [Onboarding](https://github.com/daijapan/test/tree/master/general-onboarding/index.html.md)
 - [Offboarding](https://github.com/daijapan/test/tree/master/offboarding/index.html.md)

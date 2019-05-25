@@ -66,4 +66,4 @@ To process an upgrade:
    account owner.
 
 ### Refunding an account
-Please see the [handling refund requests workflow](https://github.com/daijapan/test/tree/master/support/workflows/shared/support_workflows/handling_refund_requests.html)
+Please see the [handling refund requests workflow](https://github.com/daijapan/test/tree/master/support/workflows/shared/support_workflows/handling_refund_requests.html.md)

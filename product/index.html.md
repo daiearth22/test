@@ -280,7 +280,7 @@ The direction for the GitLab product is spelled out on the
 how to design changes and new features. Our iterative process is demonstrated in
 a [blog post](/2017/01/04/behind-the-scenes-how-we-built-review-apps/).
 
-Much of our product philosophies are inspired by the [Ruby on Rails doctrine](http://rubyonrails.org/doctrine/) of ['Rails is omakase'](http://david.heinemeierhansson.com/2012/rails-is-omakase.html). I highly suggest reading these.
+Much of our product philosophies are inspired by the [Ruby on Rails doctrine](http://rubyonrails.org/doctrine/) of ['Rails is omakase'](http://david.heinemeierhansson.com/2012/rails-is-omakase.html.md). I highly suggest reading these.
 
 ### TL;DR
 
@@ -855,7 +855,7 @@ that would incur _no additional_ effort or cost had we chosen a larger number. T
 effort includes product, design, and engineering effort to create the feature in the first place,
 and to maintain it over time.
 
-For example, GitLab Core has the [issue board feature](https://docs.gitlab.com/ee/user/project/issue_board.html) in every project.
+For example, GitLab Core has the [issue board feature](https://docs.gitlab.com/ee/user/project/issue_board.html.md) in every project.
 In GitLab EE, each project supports [multiple boards](https://docs.gitlab.com/ee/user/project/issue_board.html#multiple-issue-boards).
 This _does not_ mean that Core has an artificial limit of one board per project, because there is additional effort
 to manage multiple boards such as supporting the navigation interface, and all the associated engineering work.
@@ -1445,7 +1445,7 @@ This iteration may look like this, for example:
 * turn that into a [single-source-of-truth based on issues](/direction/product-vision/),
 * then [slideware](https://docs.google.com/presentation/d/1d6vL4dz-V_JxiStu4keL01SLd7w0JfNfcHzyetczp7k/edit)
 * then a [mockupware video](https://youtu.be/lRAKmTzpGXE)
-* then an [interactive prototype](https://framer.cloud/UaofH/index.html) and [recorded video](https://youtu.be/RmSTLGnEmpQ)
+* then an [interactive prototype](https://framer.cloud/UaofH/index.html.md) and [recorded video](https://youtu.be/RmSTLGnEmpQ)
 * then a seamless, but still fake video demo
 * then finally a production demo.
 
@@ -1649,7 +1649,7 @@ So, in the long term, we want our permission system to explicitly cover the next
 
 All the above can be achieved by iteratively improving existing roles and maybe [adding one more](https://gitlab.com/gitlab-org/gitlab-ce/issues/45414/index.html.md).
 
-[Documentation on permissions](https://docs.gitlab.com/ee/user/permissions.html)
+[Documentation on permissions](https://docs.gitlab.com/ee/user/permissions.html.md)
 
 ## Internationalisation
 
@@ -1747,9 +1747,9 @@ This has been a source of confusion in the past for customers.
 
 ### Restriction of closed source Javascript
 
-In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html),
+In addition, to meet the [ethical criteria of GNU](https://www.gnu.org/software/repo-criteria-evaluation.html.md),
 all our javascript code on GitLab.com has to be free as in freedom.
-Read more about this on [GNU's website](https://www.gnu.org/philosophy/javascript-trap.html).
+Read more about this on [GNU's website](https://www.gnu.org/philosophy/javascript-trap.html.md).
 
 ## Private tools and dashboards for monitoring and KPI tracking
 

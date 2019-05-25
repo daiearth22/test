@@ -23,14 +23,14 @@ title: "XDR Enablement"
 
 **Related Reading: ** 
 * [10 digital transformation success stories](https://www.cio.com/article/3149977/digital-transformation/digital-transformation-examples.html?nsdr=true#tk.cio_rs)
-* [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html)
-* [Complexity a killer when it comes to digital transformation success](https://www.cio.com/article/3269493/digital-transformation/complexity-a-killer-when-it-comes-to-digital-transformation-success.html)
+* [The CIO’s Dilemma: Innovate AND Cut Costs](https://www.cio.com/article/3300871/cloud-computing/the-cio-s-dilemma-innovate-and-cut-costs.html.md)
+* [Complexity a killer when it comes to digital transformation success](https://www.cio.com/article/3269493/digital-transformation/complexity-a-killer-when-it-comes-to-digital-transformation-success.html.md)
 * [5 Big Challenges CIOs face](https://www.mrc-productivity.com/blog/2017/11/5-big-challenges-facing-cios-leaders-2018/index.html.md)
 * [9 forces shaping the future of IT](https://www.cio.com/article/3206770/it-strategy/9-forces-shaping-the-future-of-it.html?upd=1538513299753/index.html.md)
-* [12 biggest issues IT faces](https://www.cio.com/article/3245772/it-strategy/the-12-biggest-issues-it-faces-today.html)
-* [Survey: Compliance Drives IT Security](https://www.cio.com/article/2447696/compliance/survey--compliance-drives-it-security.html)
+* [12 biggest issues IT faces](https://www.cio.com/article/3245772/it-strategy/the-12-biggest-issues-it-faces-today.html.md)
+* [Survey: Compliance Drives IT Security](https://www.cio.com/article/2447696/compliance/survey--compliance-drives-it-security.html.md)
 * [Financial Services Regulatory Compliance](https://about.gitlab.com/solutions/financial-services-regulatory-compliance/index.html.md)
-* [Collaboration key to achieving business goals](https://www.cio.com/article/3170784/collaboration/collaboration-key-to-achieving-business-goals.html)
+* [Collaboration key to achieving business goals](https://www.cio.com/article/3170784/collaboration/collaboration-key-to-achieving-business-goals.html.md)
 
 ### IT Roles . (2018-10-10 and 10-17/index.html.md)
 
@@ -65,5 +65,5 @@ Who cares about what? Which personas need what, what pains do they have?
 
 **Pre-work:**  Read and review these articles:
 * [IT Job Roles](https://targetpostgrad.com/subjects/computer-science-and-it/it-job-roles-and-responsibilities-explained/index.html.md)
-* [IT OrgCharts and Roles](http://www.bmcsoftware.in/guides/itil-itsm-roles-responsibilities.html)
+* [IT OrgCharts and Roles](http://www.bmcsoftware.in/guides/itil-itsm-roles-responsibilities.html.md)
 * [CIO Role](https://www.thebalancecareers.com/business-or-it-what-s-the-main-job-of-a-cio-2071252/index.html.md)

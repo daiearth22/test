@@ -17,7 +17,7 @@ You can watch previous [GitLab sales enablement training sessions](https://www.y
 - Partners
 
 ### Enablement pages
-- [GitLab CI/CD for GitHub FAQ](./github-ci-cd-faq.html)
+- [GitLab CI/CD for GitHub FAQ](./github-ci-cd-faq.html.md)
 
 ### Upcoming Training
 To see what training is coming soon view the [Sales Enablement issue board](https://gitlab.com/gitlab-com/marketing/general/boards/465497?=&label_name[]=Sales%20Enablement)

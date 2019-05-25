@@ -36,7 +36,7 @@ In order to iteratively improve the site, we should test all major site changes 
 
 We should link to resources that will help our readers. Be sure to include links to blog posts, guides, and other reference material. You can also include links to company or product websites if they are relevant to your topic. These links do not need to be "nofollowed" if they are informational.
 
-However, we should use [Google's guidelines on nofollowing links](https://webmasters.googleblog.com/2016/03/best-practices-for-bloggers-reviewing.html) when we exchange a link for a product or service. It's also a best practice to ask for a nofollow link when we sponsor and disclose our links to sponsored content.
+However, we should use [Google's guidelines on nofollowing links](https://webmasters.googleblog.com/2016/03/best-practices-for-bloggers-reviewing.html.md) when we exchange a link for a product or service. It's also a best practice to ask for a nofollow link when we sponsor and disclose our links to sponsored content.
 
 ## URL Tagging
 

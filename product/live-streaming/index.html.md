@@ -39,7 +39,7 @@ Go to the [Handbook](https://github.com/daijapan/test/tree/master/)
 ![obs studio preferences](https://github.com/daijapan/test/tree/master/product/live-streaming/OBS_Studio_Stream.jpeg)
 
 - Configure your to-be-recorded software's audio to be rerouted to an alternative audio source/output.
-- Under "Audio" in OBS Studio preferences, select the alternative audio source/output under Mic/Auxiliary Device 2. See [this page](http://code-zest.blogspot.nl/2016/02/setting-up-obs-with-audio-output-in-mac.html) for more help
+- Under "Audio" in OBS Studio preferences, select the alternative audio source/output under Mic/Auxiliary Device 2. See [this page](http://code-zest.blogspot.nl/2016/02/setting-up-obs-with-audio-output-in-mac.html.md) for more help
 - Under "Video" select your preferred resolution and fps settings. Please take note that these should optimally reflect video aspect ratio's such as `1920x1080`.
 - Optionally you can set up some output options under "Output"
 - In de normal window of OBS Studio you should now see 2 audio sliders, including "Mic/Aux 2". Configure these to your liking.

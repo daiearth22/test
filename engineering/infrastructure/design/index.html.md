@@ -44,10 +44,10 @@ perform take place (monitoring being one obvious case).
 * Open issue to track design work and submit a Handbook MR with the design.
 * Keep design documents in `https://github.com/daijapan/test/tree/master/engineering/infrastructure/design/`
 * Keep a link to the appropriate issue in the design page
-* A [template](template.html) is available to get designs started. This isn't intended to be a strict template,
+* A [template](template.html.md) is available to get designs started. This isn't intended to be a strict template,
 but it highlights areas that expected to be covered in design. Monitoring is particularly important.
 
 # Design Directory
 
-* [`infra/5088`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5088/index.html.md) [Storage Nodes](201809_StorageNodes.html)
+* [`infra/5088`](https://gitlab.com/gitlab-com/gl-infra/infrastructure/issues/5088/index.html.md) [Storage Nodes](201809_StorageNodes.html.md)
 

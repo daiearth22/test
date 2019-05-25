@@ -46,7 +46,7 @@ Own and build out our automated testing frameworks and infrastructure.
   * Coach developers (internal & external) on contributing to [GitLab QA] test scenarios. 
 
 Continuously improve GitLab test coverage, reliability and efficiency.
-  * Groom the [test pyramid](https://martinfowler.com/bliki/TestPyramid.html) coverage and ensure that the right tests run at the right place.
+  * Groom the [test pyramid](https://martinfowler.com/bliki/TestPyramid.html.md) coverage and ensure that the right tests run at the right place.
   * Improve on the duration and de-duplication of the GitLab test suites.
   * Improve stability by eliminating flaky tests and transient failures. 
   * Improve test results tracking and reporting mechanisms that aid in triaging test results.

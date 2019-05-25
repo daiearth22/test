@@ -15,7 +15,7 @@ For the workflow that applies to everyone please see [PROCESS.md](https://gitlab
 
 ## GitLab Flow
 
-Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html).
+Products at GitLab are built using the [GitLab Flow](https://docs.gitlab.com/ee/workflow/gitlab_flow.html.md).
 
 ## Broken master
 
@@ -146,7 +146,7 @@ When evaluating a merge request from the community, please ensure that a relevan
 
 This should be to be part of your daily routine. For instance, every morning you could triage new merge requests from the rest of the community that are not yet labeled `Community Contribution` and either review them or ask a relevant person to review it.
 
-Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html).
+Make sure to follow our [Code Review Guidelines](https://docs.gitlab.com/ee/development/code_review.html.md).
 
 [developers' responsibilities]: /job-families/engineering/developer/#responsibilities
 

@@ -60,8 +60,8 @@ Distribution team is responsible for:
   * Provision and maintain GitLab CI runners used for making above mentioned installation methods.
 1. Ensure that GitLab can be installed for self-managed installations and GitLab.com.
 1. [Maintaining infrastructure](#infrastructure-and-maintenance/index.html.md) used for work.
-1. [Triaging issues](triage.html) in all owned [projects](#projects/index.html.md).
-1. Creating [training sessions](training.html).
+1. [Triaging issues](triage.html.md) in all owned [projects](#projects/index.html.md).
+1. Creating [training sessions](training.html.md).
 
 ## Team objectives
 
@@ -97,7 +97,7 @@ Based on team responsibilities, the following objectives apply:
   we can maintain visibility into most frequently reported bugs or requested features. Not everything reported will be resolved, however
   _all_ of the reports should be triaged. This also applies to mentions in GitLab CE/EE repositories on issues with `Distribution` label.
 * Every Distribution team member is responsible for creating a training session for the rest of the team.
-  See the page on [team training](training.html) for details.
+  See the page on [team training](training.html.md) for details.
 * GitLab.com is last on this list, but is first in importance. When team that manages GitLab.com creates an issue, the item should
   be raised up directly to the team Engineering Manager and Product Manager. While these issues are important, we don't necessarily need
   to provide a complete solution right away, but we need to work with the other team on providing a path forward with their request.
@@ -118,7 +118,7 @@ Based on team responsibilities, the following objectives apply:
 | GitLab PCF tile | [gitlab.com/gitlab-pivotal](https://gitlab.com/gitlab-pivotal) | One click installation of GitLab in Pivotal Cloud Foundry based on the omnibus-gitlab package |
 | GitLab Terraform configuration | [gitlab-terraform](https://gitlab.com/gitlab-terraform) | Terraform configuration for various cloud providers |
 | Omnibus GitLab Builder | [GitLab Omnibus Builder](https://gitlab.com/gitlab-org/gitlab-omnibus-builder) | Create environment containing build dependencies for the omnibus-gitlab package |
-| Upgrade time metrics | [Upgrade time metrics page on GL Pages](https://gitlab-org.gitlab.io/omnibus-gitlab/upgrade-metrics.html) | Stores the result of calculation of time needed for upgrade between versions in chart form. Backed by Google sheets. Hosted using GL Pages |
+| Upgrade time metrics | [Upgrade time metrics page on GL Pages](https://gitlab-org.gitlab.io/omnibus-gitlab/upgrade-metrics.html.md) | Stores the result of calculation of time needed for upgrade between versions in chart form. Backed by Google sheets. Hosted using GL Pages |
 
 ## Public by default
 
@@ -165,7 +165,7 @@ don't have access, ask the team lead by creating issue in
 As part of the team responsibilities, team owns maintenance of infrastructure
 used for day to day work.
 For list of nodes and description of the maintenance tasks, see the
-[infastructure and maintenance](maintenance.html) page.
+[infastructure and maintenance](maintenance.html.md) page.
 
 ## How to work with Distribution
 

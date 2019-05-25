@@ -51,7 +51,7 @@ Product marketing includes:
 - If you need more immediate attention please send a message in the `#product-marketing` slack channel with an `@reply` to the [PMM responsible](#roles) or you can ping the team with `@pmm-team`.
 
 ## Release vs Launch
-A [product release, and a marketing launch are two separate activities](http://www.startuplessonslearned.com/2009/03/dont-launch.html). The canonical example of this is Apple. They launch the iPhone at their yearly event and then release it months later. At GitLab we do it the other way: Release features as soon as they are ready letting customers use them right away, and then, do a marketing launch later when we have market validation.
+A [product release, and a marketing launch are two separate activities](http://www.startuplessonslearned.com/2009/03/dont-launch.html.md). The canonical example of this is Apple. They launch the iPhone at their yearly event and then release it months later. At GitLab we do it the other way: Release features as soon as they are ready letting customers use them right away, and then, do a marketing launch later when we have market validation.
 
 | Release | Launch |
 |-|-|
@@ -394,7 +394,7 @@ Various verticals and industries face specific challenges as they address their 
 | **Patient Experience** The healthcare market is being dramatically transformed around improving patient experience, making it easier for patients to participate in their care.  Ranging from mobile applications to electronic health records and other innovation, healthcare IT leaders are trying to accelerate delivery and iteration are to improve patient experience. | Rapid delivery and iteration are the hallmarks of improving patient experience.  Innovation in UX is only possible if IT teams are able to rapidly learn and innovate.  Concurrent Devops and GitLab help to streamline delivery and enable IT teams to focus on improving patient experience. |
 | **HIPAA** | A single platform that controls and manages  access to the the SDLC tool chain.    Built in audits, reviews and automation help to create a trusted pipeline. |
 
-- [PWC - Health Industry Issues](https://www.pwc.com/us/en/health-industries/top-health-industry-issues.html)
+- [PWC - Health Industry Issues](https://www.pwc.com/us/en/health-industries/top-health-industry-issues.html.md)
 - [PWC - Top Issues 2018](https://www.pwc.com/us/en/health-industries/assets/pwc-health-research-institute-top-health-industry-issues-of-2018-report.pdf/index.html.md)
 - [3 challenges for healthcare IT](https://www.healthdatamanagement.com/opinion/how-3-major-challenges-will-shape-healthcare-it-in-2018/index.html.md)
 - [Four IT Challenges for healthcare in 2018](https://thedoctorweighsin.com/four-it-challenges-facing-healthcare-organizations-in-2018/index.html.md)
@@ -410,8 +410,8 @@ Various verticals and industries face specific challenges as they address their 
 | **Compliance** | A single platform that controls and manages  access to the the SDLC tool chain.    Built in audits, reviews and automation help to create a trusted pipeline. |
 | **New technology (business disruption / digital transformation)** | This will demand rapid and responsive design, development and iteration from the software teams building the transportation as a service platform and infrastructure.   GitLab and concurrent devops can help teams to dramatically decrease cycle times to ship software. |
 
-- [8 challenges for Financial Svcs CIOs](https://www.cio.com/article/3128314/financial-it/8-challenges-that-keep-financial-services-ctos-and-cios-up-at-night.html)
-- [Top Finanical Svcs Issues  (PWC)](https://www.pwc.com/us/en/industries/financial-services/research-institute/top-issues.html)
+- [8 challenges for Financial Svcs CIOs](https://www.cio.com/article/3128314/financial-it/8-challenges-that-keep-financial-services-ctos-and-cios-up-at-night.html.md)
+- [Top Finanical Svcs Issues  (PWC)](https://www.pwc.com/us/en/industries/financial-services/research-institute/top-issues.html.md)
 - [FSI Top Issues 2018 (PWC pdf/index.html.md)](https://www.pwc.com/us/en/financial-services/research-institute/assets/pwc-fsi-top-issues-2018.pdf/index.html.md)
 - [Fin Svcs Insights - Protiviti](https://www.protiviti.com/sites/default/files/united_states/insights/fs-insights-v4-i3-protiviti.pdf/index.html.md)
 
@@ -425,4 +425,4 @@ Various verticals and industries face specific challenges as they address their 
 
 - [Oil and Gas Industry Challenges](https://www.stoutadvisory.com/insights/article/trends-and-challenges-oil-and-gas-industry)
 - [IBM - Oil and Gas exploration](http://www-935.ibm.com/services/us/gbs/bus/pdf/g510-3882-meeting-challenges-oil-gas-exploration.pdf/index.html.md)
-- [CXO Insights - Oil and Gas Tech Challenges](https://smart-grid.energycioinsights.com/cxo-insights/how-technology-is-changing-the-oil-and-gas-landscape-for-the-better-nwid-51.html)
+- [CXO Insights - Oil and Gas Tech Challenges](https://smart-grid.energycioinsights.com/cxo-insights/how-technology-is-changing-the-oil-and-gas-landscape-for-the-better-nwid-51.html.md)
